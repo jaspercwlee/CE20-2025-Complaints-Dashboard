@@ -1,0 +1,375 @@
+﻿1823 CASE: 3-8188546794
+DEPT REF: 
+Request Type : Complaint
+Channel : Mobile
+Case Creation Date : 2024-04-23 10:42:07
+
+================================================================================
+
+I. DUE DATE: 
+-------------
+Acknowledgement : 2024-05-06 17:02:54
+Interim Reply : 2024-05-09 09:32:54
+Final Reply : 2024-05-16 09:32:54
+
+================================================================================
+II. ASSIGNMENT HISTORY: 
+--------------------------
+[Date/Time]		[Status]	[Dept]	[Assigned To]
+2024-04-23 10:42:16	Done		LANDSD	LANDSD Complaint
+2024-05-02 09:32:16	Open		CEDD	CTO (G)
+
+================================================================================
+III. CONTACT HISTORY: 
+---------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-3RD1BNN		2024-04-20 10:21:33	Apps - Inbound
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+2	3-3RFCM91		2024-04-23 12:38:06	Call - Outbound
+[Detail]
+Reply To Caller
+致電投訴人確認實際位置, 但由於是在山頭, 故投訴人無法提供相應如門牌及燈柱的資料, 但有關位置在小秀村內, 於OMAOMA及飛楊之間 (未過屯門公路)。
+
+[No.]	[Id]		[Date/Time]		[Type]
+3	3-3RFJ7E6		2024-04-23 13:13:56	Apps - Outbound
+[Detail]
+何女士:
+
+主旨: APS240420A75833 有關屯門掃管笏Oma Oma望小欖村方向有人佔用官地興建建築物事宜 (檔案編號：3-8188546794)
+
+謝謝你於2024年04月20日的電子表格。 
+
+就佔用官地興建建築物事宜，我們已將你的函件轉交地政總署的相關組別跟進。一旦有結果，你將會收到通知。
+
+如果你對此回覆有任何查詢，歡迎聯絡我們。
+
+
+1823
+客戶服務主任
+XXX謹覆  
+2024年04月23日
+
+電話: 1823
+傳真: 2760 1823
+電郵: tellme@1823.gov.hk
+短訊﹕61631823 (只供發送及接收短訊之用)
+
+服務聲明: www.1823.gov.hk/tc/di.shtm
+
+
+
+
+
+
+[No.]	[Id]		[Date/Time]		[Type]
+4	3-3RFOQPM		2024-04-23 15:00:36	Email - Inbound from Department
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+5	3-3RFQGFL		2024-04-23 15:35:23	Email - Inbound from Department
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+6	3-3RHAQ9H		2024-04-25 09:56:41	Apps - Outbound
+[Detail]
+根據地政總署的通知，該部門已就個案向你作出回覆。如果你對此回覆有任何查詢，歡迎聯絡我們。
+
+[No.]	[Id]		[Date/Time]		[Type]
+7	3-3RLDNAG		2024-04-30 11:15:36	Email - Inbound from Department
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+8	3-3RMI4CS		2024-05-02 09:20:01	Apps - Outbound
+[Detail]
+何女士:
+
+主旨: APS240420A75833 有關屯門掃管笏Oma Oma望小欖村方向有人佔用官地興建建築物事宜  (檔案編號：3-8188546794)
+
+就你於2024年04月20日的個案，地政總署的具體回覆如下：
+
+「屯門地政處(“本處”)人員於2024年4月30日到訪被投訴地點及附近視察，未有發現不合法佔用政府土地的情況。土木工程拓展署正在現場進行斜坡相關工程，閣下所關注的搭建物由該署建造。謝謝你對標題事宜的關注。」
+
+就上述個案，地政總署表示有關事項同時涉及土木工程拓展署的跟進範圍。我們已將你的個案轉介土木工程拓展署跟進。
+
+如果你對此回覆有任何查詢，歡迎聯絡我們。
+
+1823
+客戶服務主任
+XXX謹覆  
+2024年05月02日
+
+電話: 1823
+傳真: 2760 1823
+電郵: tellme@1823.gov.hk
+短訊﹕61631823 (只供發送及接收短訊之用)
+
+服務聲明: www.1823.gov.hk/tc/di.shtm
+
+
+
+
+
+
+
+
+
+
+================================================================================
+IV. CASE DETAILS: 
+--------------------------
+Direct Reply By Department: N
+Subject Matter : 斜坡事項 - 土木工程拓展署
+Description : 
+30/04 LandsD: <SUB-H>(X) No further assignment and no other issue is required for 1823 to follow up.  BUT 1823 please convey the following substantive reply to citizen on behalf of this department: REPLY DETAILS {屯門地政處(“本處”)人員於2024年4月30日到訪被投訴地點及附近視察，未有發現不合法佔用政府土地的情況。土木工程拓展署正在現場進行斜坡相關工程，閣下所關注的搭建物由該署建造。謝謝你對標題事宜的關注。}.
+==
+另有個案跟進非法斬樹: 3-8188631099
+===
+Additional Information:
+[請說明樓宇類別]
+村屋／丁屋
+
+[請問是哪類違例建築工程？]
+其他（請註明） (本人住屯門掃管笏的Oma Oma 窗外望住小欖村（飛揚之後）每日面對窗外村景20-4-2024早上見到村內有斬去樹木再圍板起建築物的跡象)
+
+[該違例建築工程是否已完成？]
+否
+
+[是否有物件掉下傷人或有傷人危險、或已就問題報警？]
+否
+
+Reply Needed:		Yes
+
+
+Specific Questions and Answers : 
+1) 可否提供斜坡牌上所載的斜坡編號及政府部門?
+Ans: 未能提供
+Remark: 
+
+2) 請問斜坡發生了什事故?
+Ans: 其他 (請詳述)
+Remark: 
+
+5) 斜坡是否正在進行工程？
+Ans: 是
+Remark: 
+
+6) 維修後，是否需要我們通知您？
+Ans: 需要
+Remark: 
+
+7) 如果有需要將你的投訴轉介給有關的工程顧問或承建商跟進，你是否願意將你的姓氏、聯絡方法等個人資料轉介給工程顧問或承建商，讓他們可以直接回覆您？
+Ans: 願意
+Remark: 
+
+<ENDS of Specific Question>
+
+================================================================================
+V. EVENT DETAILS:  
+------------------------
+Event Date & Time : null 
+
+EVENT LOCATION: 
+------------------------
+Room : 
+Floor : 
+Block No. : 
+Building Name : 
+Estate : 
+Street No. : 
+Street Name : 
+District : 
+Region : NT
+Slope No : 
+Lamp Post No : 
+Landmark : 
+Lot No. :
+
+================================================================================
+VI. CONTACT INFORMATION:  
+--------------------------
+Last Name : Ms. XXX
+First Name : .
+Alt Name : 
+Personal ID : 
+Contact Address : 
+Daytime No. : 
+Nighttime No. : 
+Mobile : 12345678
+Alt Tel No. : 
+Fax : 
+Email Address : cccccccc@gmail.com
+Preferred Reply Channel: Apps
+Special Instructions: 
+Case Source : General Public
+Best Call Time : 12:00:00 To 22:00:00
+
+================================================================================
+VII. WRITTEN CONTACT INBOUND DETAILS:  
+---------------------------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-3RD1BNN		2024-04-20 10:21:33	Apps - Inbound
+[Detail]
+Case Type:		Complaint
+
+Category:		僭建及違例建築工程 
+
+Name:			何燕雲
+
+Email:			*****
+
+Location:
+
+
+Map:			
+
+Details:	
+
+
+Additional Information:
+[請說明樓宇類別]
+村屋／丁屋
+
+[請問是哪類違例建築工程？]
+其他（請註明） (本人住屯門掃管笏的Oma Oma 窗外望住小欖村（飛揚之後）每日面對窗外村景20-4-2024早上見到村內有斬去樹木再圍板起建築物的跡象)
+
+[該違例建築工程是否已完成？]
+否
+
+[是否有物件掉下傷人或有傷人危險、或已就問題報警？]
+否
+
+Reply Needed:		Yes
+
+Transaction Ref:	APS240420A75833
+
+Transaction Time:	2024-04-20 10:20:58
+
+Tel No.:	        *****
+
+Best Time to Call:	noon-10pm
+
+File upload:		2 file(s)
+
+File List:		FDA4DB7C-7E8E-4323-AE09-F49BC32EA7E1.jpg, A6AB697E-B6CC-4930-B244-DD841A2A1D26.jpg
+
+
+
+[No.]	[Id]		[Date/Time]		[Type]
+4	3-3RFOQPM		2024-04-23 15:00:36	Email - Inbound from Department
+[Detail]
+Dear District/Section Complaints Liaison
+Officer,
+
+I forward the captioned case referred from 1823 Call Centre (1823) with
+case details contained in the attached file.   Grateful if you would
+arrange to pass this case to the subject officer and ask him/her to make
+a timely direct reply to the complainant/enquirer or 1823,
+where appropriate.
+
+In case there is a need to bring this case to DL's personal attention,
+respective Section Head should alert DL direct as soon as possible.
+
+By copy of this mail, would 1823 Call Centre Duty Manager please
+note that your email below has been referred to District Lands Office/Tuen
+Mun for investigation and follow-up action.  Should you have
+any enquiry on the progress, you may contact Ms. CHANG Yuet Ming,
+Charlene (XXX 女士) at Tel. No. 12345678 during
+office hours.
+
+Regards,
+Cxxxxx xxz Lxu
+
+This e-mail message (together with any attachments) is
+for the designated recipient only.  It may contain information that
+is privileged.  If you are not the intended recipient, you are hereby
+notified that any use , retention, disclosure, copying, printing, forwarding
+or dissemination of the message is strictly prohibited.  If you have
+received the message in error, please erase all copies of the message (including
+attachments) from your system and notify the...
+
+[No.]	[Id]		[Date/Time]		[Type]
+5	3-3RFQGFL		2024-04-23 15:35:23	Email - Inbound from Department
+[Detail]
+ To
+: 1823
+<CASE>: 3-8188546794
+<DEPT>: Lands Department
+<NR>: 3-3RF8Z5A
+<REPEATED>: 0
+<IDENTIFIER>: New Case
+<CIUPT>: 3-3RF8Z5A
+
+D.SUBSTANTIVE REPLY (Case Completed)
+*****請以中文回覆以下個案*****
+
+NO FURTHER ACTION IS REQUIRED BY 1823
+<SUB-A>(X) Departmental officers have replied the citizen on {23.4.2024}.
+REPLY DETAILS {Location of under complaint was confirmed with complainant}.
+
+本信息(及附件)只供指定收件人使用，而其中可能載有機密及／或屬法律特權的資料。未經許可，不得擅自披露或使用本信息。倘若本信息誤傳給你，請立即删除本信息(及附件)並通知寄件人。本署絕不承擔因使用此信息而引致的任何法律責任。This
+message (together with any attachments) is intended for the use of the
+addressee(s) only.  It may contain information which is confidential
+and/ or legally privileged.  You are hereby notified that no unauthorized
+disclosure or use of this message is permitted.  If you have received
+this message in error, please erase all copies of the message (including
+attachments) from your system and notify the sender immediately.  Any
+liability arising from the use of this information is excluded.
+
+ 
+
+-----
+Forwarded by Charlene YM CHANG/LAO/LANDSD/HKSARG on 23/04/2024 15:03 -----
+
+From:
+       e-Enquiry
+Counter/LAO/LANDSD/HKSARG
+To:
+       xxxxx@landsd.gov.hk
+Cc:
+       1823_general@1823.gov.hk,
+xxxxxx@landsd.gov.hk, xxxxx@landsd.gov.hk, xxxxx@landsd.gov.hk
+Date:
+       23/04/2024
+...
+
+[No.]	[Id]		[Date/Time]		[Type]
+7	3-3RLDNAG		2024-04-30 11:15:36	Email - Inbound from Department
+[Detail]
+To : 1823
+<CASE>: 3-8188546794
+<DEPT>: Lands Department
+<NR>: 3-3RF8Z5A
+<REPEATED>: 0
+<IDENTIFIER>: New Case
+<CIUPT>: 3-3RF8Z5A
+Staff Name & Post:{MP LAU}
+Tel/E-mail/Fax:{2451 3104}
+
+=
+D.SUBSTANTIVE REPLY (Case Completed) *****請以中文回覆以下個案*****
+
+FURTHER ACTION IS REQUIRED BY 1823
+
+1823 need to convey the reply to citizen on behalf of this department
+<SUB-H>(X) No further assignment and no other issue is required for
+1823 to follow up.  BUT 1823 please convey the following substantive
+reply to citizen on behalf of this department: REPLY DETAILS {屯門地政處(“本處”)人員於2024年4月30日到訪被投訴地點及附近視察，未有發現不合法佔用政府土地的情況。土木工程拓展署正在現場進行斜坡相關工程，閣下所關注的搭建物由該署建造。謝謝你對標題事宜的關注。}.
+
+本信息(及附件)只供指定收件人使用，而其中可能載有機密及／或屬法律特權的資料。未經許可，不得擅自披露或使用本信息。倘若本信息誤傳給你，請立即删除本信息(及附件)並通知寄件人。本署絕不承擔因使用此信息而引致的任何法律責任。This
+message (together with any attachments) is intended for the use of the
+addressee(s) only.  It may contain information which is confidential
+and/ or legally privileged.  You are hereby notified that no unauthorized
+disclosure or use of this message is permitted.  If you have received
+this message in error, please erase all copies of the message (including
+attachments) from your system and notify the sender immediately.  Any
+liability arising from the use of this information is excluded.
+
+From:
+     xxxxx/LAO/LANDSD/H...
+

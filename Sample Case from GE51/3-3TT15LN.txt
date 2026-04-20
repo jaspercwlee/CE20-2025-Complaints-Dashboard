@@ -1,0 +1,199 @@
+﻿1823 CASE: 3-8329175741
+DEPT REF: 
+Request Type : Complaint
+Channel : Phone
+Case Creation Date : 2024-07-25 20:09:08
+
+================================================================================
+
+I. DUE DATE: 
+-------------
+Re-assignment : 
+Extend Re-assignment : 
+Acknowledgement : 2024-07-29 11:26:31
+Interim Reply : 2024-08-01 09:26:31
+Final Reply : 2024-08-07 09:26:31
+
+================================================================================
+II. ASSIGNMENT HISTORY: 
+--------------------------
+[Date/Time]		[Status]	[Dept]	[Assigned To]
+2024-07-25 20:09:16	Misassigned	LANDSD	STO(G)/2
+2024-07-29 09:24:17	Open		CEDD	CTO (G)
+
+================================================================================
+III. CONTACT HISTORY: 
+---------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-3TQZ54L		2024-07-25 20:08:46	Call - Inbound
+[Detail]
+投訴觀塘鯉魚門泉源道東54A附近政府斜坡上有2棵樹傾斜，有倒塌風險，2棵樹分別高17米及20米，直徑約60-70cm，上址正在進行工程，未能提供斜坡編號，1823同事根據投訴人所提供資料，在SMRIS搜尋到斜坡編號為11SE-B/C653 或11SE-B/C654，個案轉交地政總署部門跟進。
+
+[No.]	[Id]		[Date/Time]		[Type]
+2	3-3TR8EYB		2024-07-26 09:08:01	Web Update from Department
+[Detail]
+This case is assigned to Action Officer LANDGE13
+
+[No.]	[Id]		[Date/Time]		[Type]
+3	3-3TR9ND2		2024-07-26 09:23:36	Web Update from Department
+[Detail]
+I acknowledge receipt of this case and follow up will be taken.
+
+[No.]	[Id]		[Date/Time]		[Type]
+4	3-3TSJCVV		2024-07-27 16:27:57	Email - Inbound from Department
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+
+================================================================================
+IV. CASE DETAILS: 
+--------------------------
+Direct Reply By Department: N
+Subject Matter : 樹木 - 緊急個案 - CEDD
+Description : 
+26/7 LandsD
+<ACK-E>(X) Please transfer this referral to {Mr. Michael K W Fung of GEO} department.
+<REF-Remarks:> Additional information to 1823 {The slopes of concern are still under the maintenance of GEO's LPMit Contract No. GE/2020/05}
+
+==
+投訴觀塘鯉魚門泉源道東54A附近政府斜坡上有2棵樹傾斜，有倒塌風險，2棵樹分別高17米及20米，直徑約60-70cm，上址正在進行工程，未能提供斜坡編號，1823同事根據投訴人所提供資料，在SMRIS搜尋到斜坡編號為11SE-B/C653 或11SE-B/C654，個案轉交地政總署部門跟進。
+
+Full Address from MapApp:
+九龍觀塘區
+
+Specific Questions and Answers : 
+1) 是否警察╱消防報告？
+Ans: 不是
+Remark: 
+
+2) 請問是什麼樹木問題？
+Ans: 其他問題（請註明）
+Remark: 有倒塌風險
+
+6.1) (請同事自行回答,不用向投訴人查詢) 來電者提出該樹木有即時危險?
+Ans: 沒有提及
+Remark: 
+
+7) 請說明樹木的大約高度及樹幹直徑。
+Ans: 樹木高    米／尺；樹幹直徑    米／尺
+Remark: 分別高17米及20米，直徑約60-70cm
+
+8) 請說明樹木的位置。
+Ans: 如在斜坡上，可詢問斜坡登記號碼
+Remark: 11SE-B/C654
+
+11.9) 可以提供印在樹木標籤上的樹木編號嗎？
+Ans: 不可以
+Remark: 
+
+12) 可以提供現場╱樹木的照片或定位圖嗎？
+Ans: 不可以
+Remark: 
+
+13) 部門跟進個案後，要給你回覆嗎？
+Ans: 要回覆
+Remark: 
+
+14) 如果有需要將你的投訴轉介給負責有關工程的工程顧問或承建商跟進，你是否願意將你的姓氏、聯絡方法等個人資料轉介給工程顧問或承建商，讓他們可以直接回覆您？
+Ans: 願意
+Remark: 
+
+<ENDS of Specific Question>
+
+================================================================================
+V. EVENT DETAILS:  
+------------------------
+Event Date & Time : null 
+
+EVENT LOCATION: 
+------------------------
+Room : 
+Floor : 
+Block No. : 
+Building Name : 
+Estate : 
+Street No. : 
+Street Name : 
+District : 
+Region : KL
+Slope No : 11SE-B/C654
+Lamp Post No : 
+Landmark : 
+Lot No. :
+
+================================================================================
+VI. CONTACT INFORMATION:  
+--------------------------
+Last Name : Mr. CHAN
+First Name : .
+Alt Name : 
+Personal ID : 
+Contact Address : 
+Daytime No. : 12345678
+Nighttime No. : 
+Mobile : 12345678
+Alt Tel No. : 
+Fax : 
+Email Address : 
+Preferred Reply Channel: 
+Special Instructions: 
+Case Source : General Public
+Best Call Time : 00:00:00 To 23:59:59
+
+================================================================================
+VII. WRITTEN CONTACT INBOUND DETAILS:  
+---------------------------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+4	3-3TSJCVV		2024-07-27 16:27:57	Email - Inbound from Department
+[Detail]
+freetext
+==
+LandsD misassign CEDD
+==
+Dear 1823 Duty Manager
+
+To : 1823
+<CASE>: 3-8329175741
+<DEPT>: Lands Department
+<NR>: 3-3TQZ54X
+<REPEATED>: 0
+<IDENTIFIER>: New Case
+<CIUPT>: 3-3TQZ54X
+Staff Name & Post:{TSANG, Atg. GE/SM13}
+Tel/E-mail/Fax:{ge@landsd.gov.hk}
+
+This referral should be made to another party
+A. CASE INCORRECTLY REFERRED
+<ACK-A>() This referral was transferred to {} of this department
+on {} and the citizen was notified on {}
+<ACK-B>() This referral was transferred to {} Department/Bureau on
+{} and caller/sender was notified on {}
+<ACK-C>() This referral was transferred to {} Department/Bureau on
+{} and 1823 please inform caller/sender.
+<ACK-D>() Please transfer this referral to {} of this department.
+<ACK-E>(X)
+Please transfer this referral to {Mr.
+Fung of GEO}
+department.
+<REF-Remarks:> Additional information to 1823 {The
+slopes of concern are still under the maintenance of GEO's LPMit Contract
+No. GE/2020/05}
+=
+
+Should you have any
+queries, please do not hesitate to contact me.
+
+Regards,
+
+CHNA Tsang
+Geotechnical Engineer
+/ SM1(1) 
+Slope Maintenance Section 
+Lands Department 
+Tel: 1234 1234 
+
+This
+message and any attachment is intended for the use of the addressee only.
+ It may contain information which is confidential and/or legally privileged.
+ You are hereby not...
+

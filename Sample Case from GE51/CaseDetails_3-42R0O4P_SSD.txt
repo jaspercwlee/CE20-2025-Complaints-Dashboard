@@ -1,0 +1,150 @@
+﻿1823 CASE: 3-8873248020
+DEPT REF: 
+Request Type : Enquiry
+Channel : Email
+Case Creation Date : 2025-08-12 15:57:46
+
+================================================================================
+
+I. DUE DATE: 
+-------------
+Re-assignment : 
+Extend Re-assignment : 
+Acknowledgement : 2025-08-15 15:16:28
+Interim Reply : 2025-08-22 00:00:00
+Final Reply : 2025-09-02 00:00:00
+
+2nd DUE DATE: 
+--------------------
+Acknowledgement : 2026-08-12 00:00:00
+Interim Reply : 
+Final Reply : 2025-10-02 00:00:00
+
+================================================================================
+II. ASSIGNMENT HISTORY: 
+--------------------------
+[Date/Time]		[Status]	[Dept]	[Assigned To]
+2025-08-12 15:57:50	Cancelled	CEDD	Enquiry_CEDD
+2025-08-12 16:46:27	Open		CEDD	CTO (G)
+
+================================================================================
+III. CONTACT HISTORY: 
+---------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-42O64CY		2025-08-10 00:26:49	Email - Inbound
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+2	3-42QWI3Y		2025-08-12 16:01:25	Email - Outbound
+[Detail]
+Mr. CHAN：
+
+主旨： 土木工程拓展署可否於現有之部門網頁每星期發佈現正發出「冧山泥」（山泥傾瀉）之地點名單？ (檔案編號：3-8873248020)
+
+謝謝你於2025年08月10日電郵。 
+
+就題述事宜，我們已將你的函件轉交土木工程拓展署的相關組別。該部門會考慮你的意見並決定是否作出回應。
+
+如果你對此回覆有任何查詢，歡迎聯絡我們。
+
+1823
+客戶服務主任
+梁學輝謹覆  
+2025年08月12日
+
+電話：1823
+傳真：2760 1823
+電郵：tellme@1823.gov.hk
+短訊：6163 1823 (只供發送及接收短訊之用)
+
+服務聲明：www.1823.gov.hk/tc/di.shtm
+
+
+
+[No.]	[Id]		[Date/Time]		[Type]
+3	3-42R0O2B		2025-08-12 16:46:25	Web Update from Department
+[Detail]
+Reassignment Option :  Please re-assign to the following officer:CTO (G)/CEDD of this department:CEDD GEO
+
+
+================================================================================
+IV. CASE DETAILS: 
+--------------------------
+Direct Reply By Department: N
+Subject Matter : 土木工程拓展署一般資訊
+Description : 
+土木工程拓展署、路政署：
+
+        土木工程拓展署及路政署可否於現有部門網頁每星期發佈現正發出「冧山泥」（山泥傾瀉）之地點名單？畢竟現今市民只能夠單靠電視新聞作短暫相關報導，未能掌握其他同一時間正在發生之「冧山泥」地點，萬一遇上其他地點足以導致人命財產安全之山泥傾瀉地點，已屬於太遲！多謝，有勞貴署！
+
+        敬希垂注
+
+        祝工作愉快！事事順利！
+
+
+Specific Questions and Answers : 
+null
+
+================================================================================
+V. EVENT DETAILS:  
+------------------------
+Event Date & Time : null 
+
+EVENT LOCATION: 
+------------------------
+Room : 
+Floor : 
+Block No. : 
+Building Name : 
+Estate : 
+Street No. : 
+Street Name : 
+District : 
+Region : 
+Slope No : 
+Lamp Post No : 
+Landmark : 
+Lot No. :
+
+================================================================================
+VI. CONTACT INFORMATION:  
+--------------------------
+Last Name : Mr. CHAN TAI MAN
+First Name : .
+Alt Name : 
+Personal ID : 
+Contact Address : 
+Daytime No. : 
+Nighttime No. : 
+Mobile : 
+Alt Tel No. : 
+Fax : 
+Email Address : ABC123@abcmail.com
+Preferred Reply Channel: Email
+Special Instructions: 
+Case Source : General Public
+Best Call Time : 00:00:00 To 23:59:59
+
+================================================================================
+VII. WRITTEN CONTACT INBOUND DETAILS:  
+---------------------------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-42O64CY		2025-08-10 00:26:49	Email - Inbound
+[Detail]
+土木工程拓展署、路政署：
+
+        土木工程拓展署及路政署可否於現有部門網頁每星期發佈現正發出「冧山泥」（山泥傾瀉）之地點名單？畢竟現今市民只能夠單靠電視新聞作短暫相關報導，未能掌握其他同一時間正在發生之「冧山泥」地點，萬一遇上其他地點足以導致人命財產安全之山泥傾瀉地點，已屬於太遲！多謝，有勞貴署！
+
+        敬希垂注
+
+        祝工作愉快！事事順利！
+
+        
+
+Mr. CHAN TAI MAN
+
+2025年8月10日星期日
+
+
+

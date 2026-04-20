@@ -1,0 +1,287 @@
+﻿1823 CASE: 3-8316641915
+DEPT REF: 
+Request Type : Complaint
+Channel : Web
+Case Creation Date : 2024-07-18 10:21:00
+
+================================================================================
+
+I. DUE DATE: 
+-------------
+Acknowledgement : 2024-07-19 12:45:18
+Interim Reply : 2024-07-24 10:39:36
+Final Reply : 2024-07-30 10:39:36
+
+================================================================================
+II. ASSIGNMENT HISTORY: 
+--------------------------
+[Date/Time]		[Status]	[Dept]	[Assigned To]
+2024-07-18 10:21:04	Misassigned	LANDSD	STO(G)/2
+2024-07-19 10:37:35	Cancelled	CEDD	Enquiry_CEDD
+2024-07-19 10:45:17	Open		CEDD	CTO (G)
+
+================================================================================
+III. CONTACT HISTORY: 
+---------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-3TI265X		2024-07-16 23:42:32	Web - Inbound
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+2	3-3TJL4YY		2024-07-18 10:24:20	Call - Outbound
+[Detail]
+Reply To Caller
+致電投訴人，投訴人表示最近消防砍下一棵大樹波羅樹後，看到有另一棵荔枝樹長在鈄坡/山上(沒有鈄坡編號,很接近53號屋)。荔枝樹並未塌下，投訴人擔心塌下，要求跟進。並要求部門如砍下樹木，需帶走清理砍下的樹木。因消防砍下的大樹波羅樹，樹幹仍然未有運走，要求部門同時跟進。
+
+投訴人將電郵樹木圖片至1823。
+
+(告知轉介地政跟進及個案SR no.)
+
+
+
+[No.]	[Id]		[Date/Time]		[Type]
+3	3-3TJLWNO		2024-07-18 11:10:38	Email - Outbound
+[Detail]
+胡女士:
+
+主旨: WS240716A21432 有關觀塘三家村近53號屋鈄坡位置荔枝樹有塌下的危險事宜 (檔案編號：3-8316641915)
+
+謝謝你於2024年07月16日的電子表格。
+
+就荔枝樹有塌下的危險事宜，我們已將你的函件轉交地政總署的相關組別跟進。一旦有結果，你將會收到通知。
+
+如果你對此回覆有任何查詢，歡迎聯絡我們。
+
+
+1823
+客戶服務主任
+xxx謹覆  
+2024年07月18日
+
+電話: 1823
+傳真: 2760 1823
+電郵: tellme@1823.gov.hk
+短訊﹕61631823 (只供發送及接收短訊之用)
+
+服務聲明: www.1823.gov.hk/tc/di.shtm
+
+
+
+
+
+
+[No.]	[Id]		[Date/Time]		[Type]
+4	3-3TJNJO8		2024-07-18 11:13:02	Call - Outbound
+[Detail]
+Call To Department (Tel. No.: +85237934682)
+通知地政總署。
+
+[No.]	[Id]		[Date/Time]		[Type]
+5	3-3TJOWJZ		2024-07-18 11:15:23	Web Update from Department
+[Detail]
+This case is assigned to Action Officer LANDGE13
+
+[No.]	[Id]		[Date/Time]		[Type]
+6	3-3TJP5OG		2024-07-18 11:18:35	Web Update from Department
+[Detail]
+I acknowledge receipt of this case and follow up will be taken.
+
+[No.]	[Id]		[Date/Time]		[Type]
+7	3-3TKH3RA		2024-07-19 00:48:56	Web Update from Department
+[Detail]
+Reassignment Option :  1823 please re-assign to department CEDD division LPM3 user GE/CM51
+Reassignment Reason:The荔枝樹 concerned is within STLA allocated to CEDD for LPMit works based on the photo provided by the complainant to SMS.  Email dated 19/7/2024 from SMS to GE/CM51, GEO, CEDD regarding the transfer of the case for GEO`s follow-up actions is attached.
+
+[No.]	[Id]		[Date/Time]		[Type]
+8	3-3TKS3BK		2024-07-19 10:40:00	Email - Outbound
+[Detail]
+胡女士:
+
+主旨: WS240716A21432 有關觀塘三家村近53號屋鈄坡位置荔枝樹有塌下的危險事宜  (檔案編號：3-8316641915)
+
+地政總署已就觀塘三家村近53號屋鈄坡位置荔枝樹有塌下的危險事宜作出審視，並表示相關事項應由土木工程拓展署處理，我們已將你的個案轉介土木工程拓展署跟進。一旦有結果，你將會收到通知。
+
+如果你對此回覆有任何查詢，歡迎聯絡我們。
+
+1823
+客戶服務主任
+xxx謹覆  
+2024年07月19日
+
+電話: 1823
+傳真: 2760 1823
+電郵: tellme@1823.gov.hk
+短訊﹕61631823 (只供發送及接收短訊之用)
+
+服務聲明: www.1823.gov.hk/tc/di.shtm
+
+
+
+
+
+
+
+
+
+[No.]	[Id]		[Date/Time]		[Type]
+9	3-3TKTMI0		2024-07-19 10:45:14	Web Update from Department
+[Detail]
+Reassignment Option :  Please re-assign to the following officer:CTO (G)/CEDD of this department:CEDD GEO
+
+
+================================================================================
+IV. CASE DETAILS: 
+--------------------------
+Direct Reply By Department: N
+Subject Matter : 樹木 - 緊急個案 - CEDD
+Description : 
+另有要求砍碎及清理大樹波羅樹幹 SR #3-8316765959
+==
+19/07 LandsD:
+The荔枝樹 concerned is within STLA allocated to CEDD for LPMit works based on the photo provided by the complainant to SMS.  Email dated 19/7/2024 from SMS to GE/CM51, GEO, CEDD regarding the transfer of the case for GEO`s follow-up actions is attached.
+==
+查詢人/投訴人未能提供斜坡編號，1823同事根據查詢人/投訴人所提供資料，在SMRIS搜尋到斜坡編號為11SE-B/C108，個案轉交地政總署跟進。
+==
+18/07 致電投訴人，投訴人表示最近消防砍下一棵大樹波羅樹後，看到有另一棵荔枝樹長在鈄坡/山上(沒有鈄坡編號,很接近53號屋)。荔枝樹並未塌下，投訴人擔心塌下，要求跟進。並要求部門如砍下樹木，需帶走清理砍下的樹木。因消防砍下的大樹波羅樹，樹幹仍然未有運走，要求部門同時跟進。
+
+投訴人將電郵樹木圖片至1823。
+==
+最近雨天，有棵危險之荔枝樹長在鈄坡位置有塌下的危險性，而該樹離民居只有兩至三米距離
+
+Additional Information:
+[請問是什麼樹木問題？]
+樹木／樹枝已經塌下
+
+[有否造成嚴重阻礙或其他危險？]
+倒塌樹幹╱樹枝擱在建築物╱設施上，有滾下危險
+
+Reply Needed:		Yes
+
+
+Specific Questions and Answers : 
+1) 是否警察╱消防報告？
+Ans: 不是
+Remark: 
+
+2) 請問是什麼樹木問題？
+Ans: 樹木／樹枝已經塌下
+Remark: 
+
+3) 塌樹是否造成人命傷亡?
+Ans: 不是
+Remark: 
+
+3.1) 塌樹是否造成財物損毀?
+Ans: 不是
+Remark: 
+
+4) 倒塌的樹幹或樹枝有造成嚴重阻礙或其他危險？
+Ans: 倒塌樹幹╱樹枝擱在建築物/設施上，會滾下有危險
+Remark: 
+
+5) 請說明倒塌樹幹╱樹枝的大約直徑及長度。
+Ans: 不知道
+Remark: 
+
+11.9) 可以提供印在樹木標籤上的樹木編號嗎？
+Ans: 不可以
+Remark: 
+
+12) 可以提供現場╱樹木的照片或定位圖嗎？
+Ans: 不可以
+Remark: 
+
+13) 部門跟進個案後，要給你回覆嗎？
+Ans: 要回覆
+Remark: 
+
+14) 如果有需要將你的投訴轉介給負責有關工程的工程顧問或承建商跟進，你是否願意將你的姓氏、聯絡方法等個人資料轉介給工程顧問或承建商，讓他們可以直接回覆您？
+Ans: 願意
+Remark: 
+
+<ENDS of Specific Question>
+
+================================================================================
+V. EVENT DETAILS:  
+------------------------
+Event Date & Time : null 
+
+EVENT LOCATION: 
+------------------------
+Room : 
+Floor : 
+Block No. : 
+Building Name : 
+Estate : 
+Street No. : 
+Street Name : 
+District : 
+Region : KL
+Slope No : 
+Lamp Post No : 
+Landmark : 
+Lot No. :
+
+================================================================================
+VI. CONTACT INFORMATION:  
+--------------------------
+Last Name : Ms. x
+First Name : .
+Alt Name : 
+Personal ID : 
+Contact Address : 
+Daytime No. : 
+Nighttime No. : 
+Mobile : xxxxxxxx
+Alt Tel No. : 
+Fax : 
+Email Address : xxxxxxx@yahoo.com.hk
+Preferred Reply Channel: 
+Special Instructions: 
+Case Source : General Public
+Best Call Time : 08:00:00 To 22:00:00
+
+================================================================================
+VII. WRITTEN CONTACT INBOUND DETAILS:  
+---------------------------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-3TI265X		2024-07-16 23:42:32	Web - Inbound
+[Detail]
+Case Type:		Complaint
+
+Category:		樹木
+
+Name:			胡小姐
+
+Email:			*****
+
+Location:
+觀塘
+
+Map:			https://www.1823.gov.hk/tc/form/showlocation?x=842620.5667547385&y=816762.3251195909
+
+Details:	
+最近雨天，有棵危險之荔枝樹長在鈄坡位置有堨下的危險性，而該樹離民居只有兩至三米距離
+
+Additional Information:
+[請問是什麼樹木問題？]
+樹木／樹枝已經塌下
+
+[有否造成嚴重阻礙或其他危險？]
+倒塌樹幹╱樹枝擱在建築物╱設施上，有滾下危險
+
+Reply Needed:		Yes
+
+Transaction Ref:	WS240716A21432
+
+Transaction Time:	2024-07-16 23:42:27
+
+Tel No.:			*****
+
+Best Time to Call:	8am-10pm
+
+File upload:		No
+
+
+

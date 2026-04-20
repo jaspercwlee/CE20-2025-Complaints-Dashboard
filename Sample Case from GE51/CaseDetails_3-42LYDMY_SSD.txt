@@ -1,0 +1,105 @@
+﻿1823 CASE: 3-8862707433
+DEPT REF: 
+Request Type : Suggestion
+Channel : Phone
+Case Creation Date : 2025-08-06 16:32:50
+
+================================================================================
+
+I. DUE DATE: 
+-------------
+Re-assignment : 
+Extend Re-assignment : 
+Acknowledgement : 2025-08-12 14:54:25
+Interim Reply : 
+Final Reply : 
+
+================================================================================
+II. ASSIGNMENT HISTORY: 
+--------------------------
+[Date/Time]		[Status]	[Dept]	[Assigned To]
+2025-08-06 16:32:59	Open		CEDD	CTO (G)
+
+================================================================================
+III. CONTACT HISTORY: 
+---------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-42KMKKR		2025-08-06 16:32:30	Call - Inbound
+[Detail]
+來電人建議土木工程拓展署可於雨季加强於電視上，進行有關斜坡安全的宣傳。例如如何提防山泥傾瀉等，以提高民衆的防範意識，要求跟進。
+
+
+================================================================================
+IV. CASE DETAILS: 
+--------------------------
+Direct Reply By Department: N
+Subject Matter : 斜坡事項 - 土木工程拓展署
+Description : 
+來電人建議土木工程拓展署可於雨季加强於電視上，進行有關斜坡安全的宣傳。例如如何提防山泥傾瀉等，以提高民衆的防範意識，要求跟進。
+
+Specific Questions and Answers : 
+1) 可否提供斜坡牌上所載的斜坡編號及政府部門?
+Ans: 未能提供
+Remark: 
+
+2) 請問斜坡發生了什事故?
+Ans: 其他 (請詳述)
+Remark: 有關斜坡安全的宣傳
+
+5) 斜坡是否正在進行工程？
+Ans: 否
+Remark: 
+
+6) 維修後，是否需要我們通知您？
+Ans: 需要
+Remark: 
+
+7) 如果有需要將你的投訴轉介給有關的工程顧問或承建商跟進，你是否願意將你的姓氏、聯絡方法等個人資料轉介給工程顧問或承建商，讓他們可以直接回覆您？
+Ans: 願意
+Remark: 
+
+<ENDS of Specific Question>
+
+================================================================================
+V. EVENT DETAILS:  
+------------------------
+Event Date & Time : null 
+
+EVENT LOCATION: 
+------------------------
+Room : 
+Floor : 
+Block No. : 
+Building Name : 
+Estate : 
+Street No. : 
+Street Name : 
+District : 
+Region : 
+Slope No : 
+Lamp Post No : 
+Landmark : 
+Lot No. :
+
+================================================================================
+VI. CONTACT INFORMATION:  
+--------------------------
+Last Name : Mr. CHAN TAI MAN
+First Name : .
+Alt Name : 
+Personal ID : 
+Contact Address : 
+Daytime No. : 
+Nighttime No. : 
+Mobile : 12345678
+Alt Tel No. : 
+Fax : 
+Email Address : 
+Preferred Reply Channel: 
+Special Instructions: 
+Case Source : General Public
+Best Call Time : 00:00:00 To 23:59:59
+
+================================================================================
+VII. WRITTEN CONTACT INBOUND DETAILS:  
+---------------------------------------------

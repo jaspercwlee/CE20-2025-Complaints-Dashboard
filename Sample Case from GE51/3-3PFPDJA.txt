@@ -1,0 +1,110 @@
+﻿1823 CASE: 3-8064787257
+DEPT REF: 
+Request Type : Enquiry
+Channel : Phone
+Case Creation Date : 2024-01-15 11:28:49
+
+================================================================================
+
+I. DUE DATE: 
+-------------
+Acknowledgement : 2024-01-22 11:04:50
+Interim Reply : 2024-01-27 00:00:00
+Final Reply : 2024-02-07 00:00:00
+
+2nd DUE DATE: 
+--------------------
+Acknowledgement : 2025-01-16 00:00:00
+Interim Reply : 
+Final Reply : 2024-03-08 00:00:00
+
+================================================================================
+II. ASSIGNMENT HISTORY: 
+--------------------------
+[Date/Time]		[Status]	[Dept]	[Assigned To]
+2024-01-15 11:28:58	Misassigned	LANDSD	STO(G)/2
+2024-01-17 12:31:55	Open		CEDD	CTO (G)
+
+================================================================================
+III. CONTACT HISTORY: 
+---------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-3PDKDKX		2024-01-15 11:24:46	Call - Inbound
+[Detail]
+查詢人查詢飛雲路飛鵝花園B座，背後斜坡，現有維修工程，查詢人要求部門回覆，是那一個部門的工程，及相關工程的開始及完結日期。
+
+
+[No.]	[Id]		[Date/Time]		[Type]
+2	3-3PDLZIL		2024-01-15 11:47:26	Web Update from Department
+[Detail]
+I acknowledge receipt of this case and follow up will be taken.
+
+[No.]	[Id]		[Date/Time]		[Type]
+3	3-3PDU2YT		2024-01-15 14:32:30	Web Update from Department
+[Detail]
+This case is assigned to Action Officer LANDGE15
+
+[No.]	[Id]		[Date/Time]		[Type]
+4	3-3PFN210		2024-01-17 11:09:11	Web Update from Department
+[Detail]
+Reassignment Option :  1823 please re-assign to department CEDD division LPM3/GEO
+Reassignment Reason:The concerned area is within GLA-TSK4066 which is allocated to CEDD.  Kindly refer to CEDD to follow up.
+
+
+================================================================================
+IV. CASE DETAILS: 
+--------------------------
+Direct Reply By Department: N
+Subject Matter : 斜坡事項 - 土木工程拓展署
+Description : 
+17/1 STO(G)/2 :  1823 please re-assign to department CEDD division LPM3/GEO
+Reassignment Reason:The concerned area is within GLA-TSK4066 which is allocated to CEDD.  Kindly refer to CEDD to follow up.
+==
+查詢人查詢飛雲路飛鵝花園B座，背後斜坡，現有維修工程，查詢人要求部門回覆，是那一個部門的工程，及相關工程的開始及完結日期。
+
+Specific Questions and Answers : 
+null
+
+================================================================================
+V. EVENT DETAILS:  
+------------------------
+Event Date & Time : 2024-01-15 11:30
+
+EVENT LOCATION: 
+------------------------
+Room : 
+Floor : 
+Block No. : 
+Building Name : 
+Estate : 
+Street No. : 
+Street Name : 
+District : 
+Region : 
+Slope No : 
+Lamp Post No : 
+Landmark : 
+Lot No. :
+
+================================================================================
+VI. CONTACT INFORMATION:  
+--------------------------
+Last Name : Mr. X
+First Name : (管理處)
+Alt Name : 
+Personal ID : 
+Contact Address : 
+Daytime No. : 12345678
+Nighttime No. : 
+Mobile : 11111111
+Alt Tel No. : 
+Fax : 
+Email Address : 
+Preferred Reply Channel: 
+Special Instructions: 
+Case Source : General Public
+Best Call Time : 00:00:00 To 23:59:59
+
+================================================================================
+VII. WRITTEN CONTACT INBOUND DETAILS:  
+---------------------------------------------

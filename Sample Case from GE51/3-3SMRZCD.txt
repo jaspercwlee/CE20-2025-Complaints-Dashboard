@@ -1,0 +1,229 @@
+﻿1823 CASE: 3-8258580936
+DEPT REF: 
+Request Type : Complaint
+Channel : Mobile
+Case Creation Date : 2024-06-11 17:42:10
+
+================================================================================
+
+I. DUE DATE: 
+-------------
+Acknowledgement : 2024-06-18 09:11:52
+Interim Reply : 2024-06-18 17:51:09
+Final Reply : 2024-06-25 17:51:09
+
+================================================================================
+II. ASSIGNMENT HISTORY: 
+--------------------------
+[Date/Time]		[Status]	[Dept]	[Assigned To]
+2024-06-11 17:42:15	Cancelled	CEDD	ACO/G2(E)
+2024-06-13 10:41:07	Open		CEDD	CTO (G)
+
+================================================================================
+III. CONTACT HISTORY: 
+---------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-3SIG2C7		2024-06-07 14:07:03	Apps - Inbound
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+2	3-3SJZFWT		2024-06-11 09:18:03	Apps - Inbound
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+3	3-3SL1J1N		2024-06-11 17:51:35	Apps - Outbound
+[Detail]
+先生／女士：
+
+主旨： APS240607A67835 有關近燈柱EB6609一段清水灣道的建築地盤流出泥水事宜 (檔案編號：3-8258580936)
+
+謝謝你於2024年06月07日及11日的電子表格。
+
+就地盤流出泥水事宜，我們已將你的函件轉交土木工程拓展署的相關組別跟進。一旦有結果，你將會收到通知。
+
+如果你對此回覆有任何查詢，歡迎聯絡我們。
+
+
+1823
+客戶服務主任
+xxx謹覆  
+2024年06月11日
+
+電話: 1823
+傳真: 2760 1823
+電郵: tellme@1823.gov.hk
+短訊﹕61631823 (只供發送及接收短訊之用)
+
+服務聲明: www.1823.gov.hk/tc/di.shtm
+
+
+
+
+
+
+[No.]	[Id]		[Date/Time]		[Type]
+4	3-3SMIQPJ		2024-06-13 08:49:04	Web Update from Department
+[Detail]
+Reassignment Option :  1823 please re-assign to other department
+Reassignment Reason:The subject area is outside our works boundary and it is not relevant to our works. (by E/11(E))
+
+The concerned location is outside the jurisdiction of NE/2016/01 (by E/21(E))
+
+Please be advise that the concerned location is not within the boundary of Contract No. NE/2016/05 (by E/38(E))
+
+
+================================================================================
+IV. CASE DETAILS: 
+--------------------------
+Direct Reply By Department: N
+Subject Matter : 斜坡事項 - 土木工程拓展署
+Description : 
+建築地盤，有泥水出馬路及行人路，影響交通及路人安全。
+
+Additional Information:
+Reply Needed:		Yes
+
+
+Specific Questions and Answers : 
+1) 可否提供斜坡牌上所載的斜坡編號及政府部門?
+Ans: 未能提供
+Remark: 
+
+2) 請問斜坡發生了什事故?
+Ans: 其他 (請詳述)
+Remark: 
+
+5) 斜坡是否正在進行工程？
+Ans: 是
+Remark: 
+
+6) 維修後，是否需要我們通知您？
+Ans: 需要
+Remark: 
+
+7) 如果有需要將你的投訴轉介給有關的工程顧問或承建商跟進，你是否願意將你的姓氏、聯絡方法等個人資料轉介給工程顧問或承建商，讓他們可以直接回覆您？
+Ans: 不願意
+Remark: 
+
+<ENDS of Specific Question>
+
+================================================================================
+V. EVENT DETAILS:  
+------------------------
+Event Date & Time : null 
+
+EVENT LOCATION: 
+------------------------
+Room : 
+Floor : 
+Block No. : 
+Building Name : 
+Estate : 
+Street No. : 
+Street Name : 清水灣道
+District : 
+Region : NT
+Slope No : 
+Lamp Post No : 
+Landmark : 
+Lot No. :
+
+================================================================================
+VI. CONTACT INFORMATION:  
+--------------------------
+The citizen refused to leave contact information. Departmental officer is requested to provide a substantive reply (with details) to 1823 for follow-up actions.
+Last Name : 
+First Name : 
+Alt Name : 
+Personal ID : 
+Contact Address :
+Daytime No. : 
+Nighttime No. : 
+Mobile : 
+Alt Tel No. : 
+Fax : 
+Email Address : 
+Preferred Reply Channel: 
+Special Instructions: 
+Case Source : General Public
+Best Call Time : 00:00:00 To 23:59:59
+
+================================================================================
+VII. WRITTEN CONTACT INBOUND DETAILS:  
+---------------------------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-3SIG2C7		2024-06-07 14:07:03	Apps - Inbound
+[Detail]
+***************************
+REFUSE to leave contact to BOTH 1823 & Dept
+***************************
+
+Case Type:		Complaint
+
+Category:		其他 
+
+Name:			
+
+Email:			
+
+Location:
+清水灣道 
+
+Map:			https://www.1823.gov.hk/tc/form/showlocation?x=841930.26768148&y=821695.57179136
+
+Location Additional Information:
+建築地盤，有泥水出馬路及行人路，影響交通及路人安全。
+
+Details:	
+建築地盤，有泥水出馬路及行人路，影響交通及路人安全。
+
+Additional Information:
+Reply Needed:		Yes
+
+Transaction Ref:	APS240607A67835
+
+Transaction Time:	2024-06-07 14:06:49
+
+Tel No.:	        
+
+Best Time to Call:	
+
+File upload:		4 file(s)
+
+File List:		4A2F9DD5-D7C4-413D-90CE-2E6559C49110.jpg, D7637523-A5FB-4CCC-9FA8-FCA60132550D.jpg, F4F18668-415A-4AEC-90F8-C372C9E188A4.jpg, ECC25F21-8D94-4BF7-ABE2-8C3155FA72B1.jpg
+
+
+
+[No.]	[Id]		[Date/Time]		[Type]
+2	3-3SJZFWT		2024-06-11 09:18:03	Apps - Inbound
+[Detail]
+***************************
+Case Follow-Up Request from Citizen
+***************************
+
+Case Type:		Complaint
+
+Category:		其他 
+
+Location:
+
+
+Map:			
+
+Details:	
+今天6月1 1日，又有泥水出街，請密切關注。
+
+Transaction Ref:	APF240611A46028
+
+Original Transaction Ref:	APS240607A67835
+
+Transaction Time:	2024-06-11 09:17:07
+
+File upload:		2 file(s)
+
+File List:		B3FC1E1D-96C4-4D3D-B5CF-877E4E527A72.jpg (嚴重泥水出街。), 816CDFDB-62B8-4065-8DEC-3963E12D4529.jpg
+
+
+

@@ -1,0 +1,365 @@
+﻿1823 CASE: 3-8512172759
+DEPT REF: 
+Request Type : Complaint
+Channel : Mobile
+Case Creation Date : 2024-11-25 10:11:53
+
+================================================================================
+
+I. DUE DATE: 
+-------------
+Re-assignment : 2024-12-12 23:59:59
+Extend Re-assignment : 2024-12-17 23:59:59
+Acknowledgement : 2024-12-09 17:14:25
+Interim Reply : 2024-12-12 09:24:14
+Final Reply : 2024-12-19 09:24:14
+
+================================================================================
+II. ASSIGNMENT HISTORY: 
+--------------------------
+[Date/Time]		[Status]	[Dept]	[Assigned To]
+2024-11-25 10:12:29	Done		HYD	HYDM(WTS黃大仙)
+2024-11-26 09:05:53	Substantive Replied	LANDSD	LANDSD Complaint
+2024-12-05 09:21:52	Cancelled	CEDD	Enquiry_CEDD
+2024-12-05 09:44:24	Open		CEDD	CTO (G)
+
+================================================================================
+III. CONTACT HISTORY: 
+---------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-3WRFN6Z		2024-11-23 15:17:03	Apps - Inbound
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+2	3-3WRXEPE		2024-11-25 10:20:40	Apps - Outbound
+
+[No.]	[Id]		[Date/Time]		[Type]
+3	3-3WSAEC3		2024-11-25 12:51:35	Web Update from Department
+[Detail]
+1823 please reply citizen with the following Substantive Reply
+Comments : 謝謝你表達對此事的關注，本署已派員到現場視察，有關位置並非本署管轄範圍。如閣下對此事尚有問題，請致電 1234 1234 與本署工程督察陳先生聯絡。
+
+[No.]	[Id]		[Date/Time]		[Type]
+4	3-3WSAEWM		2024-11-25 12:53:46	Web Update from Department
+[Detail]
+MIS Specific Question Update
+
+[No.]	[Id]		[Date/Time]		[Type]
+5	3-3WSAEWV		2024-11-25 12:53:47	Web Update from Department
+[Detail]
+MIS Specific Question Update
+
+[No.]	[Id]		[Date/Time]		[Type]
+6	3-3WSGNWP		2024-11-25 15:05:16	Apps - Outbound
+
+[No.]	[Id]		[Date/Time]		[Type]
+7	3-3WSPKO7		2024-11-25 17:46:00	Web Update from Department
+[Detail]
+1823 please assign the case to below Department/Bureau for parallel action:Lands Department
+Comments : I acknowledge receipt of this case and follow up will be taken.
+
+[No.]	[Id]		[Date/Time]		[Type]
+8	3-3WSXSLZ		2024-11-26 08:59:02	Call - Outbound
+[Detail]
+Call To Department (Tel. No.: +85227077489)
+致電HYD陳先生，他表示有關的荒廢地盤並非位於路政署跟進範圍，而是在UUGL，故建議先轉介地政總署跟進。
+
+[No.]	[Id]		[Date/Time]		[Type]
+9	3-3WSXSTQ		2024-11-26 09:09:25	Apps - Outbound
+
+[No.]	[Id]		[Date/Time]		[Type]
+10	3-3WTFN6F		2024-11-26 14:24:25	Email - Inbound from Department
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+11	3-3WVIWHJ		2024-11-28 15:04:39	Email - Inbound from Department
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+12	3-3WVOSZT		2024-11-28 16:56:58	Apps - Outbound
+
+[No.]	[Id]		[Date/Time]		[Type]
+13	3-3X0KGLS		2024-12-05 08:56:41	Email - Inbound from Department
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+14	3-3X0NVSV		2024-12-05 09:24:55	Apps - Outbound
+
+[No.]	[Id]		[Date/Time]		[Type]
+15	3-3X0PL9S		2024-12-05 09:44:21	Web Update from Department
+[Detail]
+Reassignment Option :  Please re-assign to the following officer:CTO (G)/CEDD of this department:CEDD GEO
+
+
+================================================================================
+IV. CASE DETAILS: 
+--------------------------
+Direct Reply By Department: N
+Subject Matter : 土木工程拓展署一般資訊
+Description : 
+04/12: LandsD: 1823 please *assign* this case to |{CEDD}| bureaux/department for further action. 
+===
+25/11 HYD: 1823 please assign the case to below Department/Bureau for parallel action:Lands Department
+==
+荒廢地盤，霸佔公家地方, 外圍水馬倒塌，有即時危險。內有雜物、影相環境污染。
+
+Additional Information:
+[請問是什麼原因造成阻街？]
+物件阻街
+
+[阻街的物件屬於？]
+其他坐地或不輕易被搬動的物件（例如：店舖前的石屎平台、環保斗）
+
+[有沒有對道路使用者構成危險？]
+有
+
+[有沒有阻塞走火通道？]
+沒有
+
+Reply Needed:		Yes
+
+
+Specific Questions and Answers : 
+1) 如果有需要將你的投訴轉介給負責有關工程的工程顧問或承建商跟進，你是否願意將你的姓氏、聯絡方法等個人資料轉介給工程顧問或承建商，讓他們可以直接回覆您？
+Ans: 不願意
+Remark: 
+
+98) 個案處理後，是否需要我們回覆您？
+Ans: 需要
+Remark: 
+
+<ENDS of Specific Question>
+
+================================================================================
+V. EVENT DETAILS:  
+------------------------
+Event Date & Time : null 
+
+EVENT LOCATION: 
+------------------------
+Room : 
+Floor : 
+Block No. : 
+Building Name : 
+Estate : 救世軍卜維廉中學
+Street No. : 
+Street Name : 
+District : 
+Region : KL
+Slope No : 
+Lamp Post No : 
+Landmark : 
+Lot No. :
+
+================================================================================
+VI. CONTACT INFORMATION:  
+--------------------------
+The citizen refused to provide contact information to department. Departmental officer is requested to provide a substantive reply (with details) to 1823 for follow-up actions.
+Last Name : 
+First Name : 
+Alt Name : 
+Personal ID : 
+Contact Address :
+Daytime No. : 
+Nighttime No. : 
+Mobile : 
+Alt Tel No. : 
+Fax : 
+Email Address : 
+Preferred Reply Channel: 
+Special Instructions: 
+Case Source : General Public
+Best Call Time : 00:00:00 To 23:59:59
+
+================================================================================
+VII. WRITTEN CONTACT INBOUND DETAILS:  
+---------------------------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-3WRFN6Z		2024-11-23 15:17:03	Apps - Inbound
+[Detail]
+***************************
+PRIVACY to Dept BUT agree to leave contact to 1823
+***************************
+
+Case Type:		Complaint
+
+Category:		其他阻塞個案 
+
+Name:			PRIVACY to Dept
+
+Email:			PRIVACY to Dept
+
+Location:
+黃大仙 -- AA7196
+
+Map:			https://www.1823.gov.hk/tc/form/showlocation?x=839291.61401&y=823105.39516
+
+Location Additional Information:
+荒廢地盤，霸佔公家地方, 外圍水馬倒塌，有即時危險。
+
+Lamp Post:              AA7196
+
+Details:	
+荒廢地盤，霸佔公家地方, 外圍水馬倒塌，有即時危險。內有雜物、影相環境污染。
+
+Additional Information:
+[請問是什麼原因造成阻街？]
+物件阻街
+
+[阻街的物件屬於？]
+其他坐地或不輕易被搬動的物件（例如：店舖前的石屎平台、環保斗）
+
+[有沒有對道路使用者構成危險？]
+有
+
+[有沒有阻塞走火通道？]
+沒有
+
+Reply Needed:		Yes
+
+Transaction Ref:	APS241123A64460
+
+Transaction Time:	2024-11-23 15:16:13
+
+Tel No.:	        
+
+Best Time to Call:	
+
+File upload:		3 file(s)
+
+File List:		4FF53618-D6BF-48AC-80F0-1151E8F3FB6A.jpg, AE7E2415-ED3F-4975-9727-14DE8E6FB15B.jpg, D79C9179-E271-4BB6-80D3-3FE920C988A6.jpg (荒廢地盤，霸佔公共地方)
+
+
+
+[No.]	[Id]		[Date/Time]		[Type]
+10	3-3WTFN6F		2024-11-26 14:24:25	Email - Inbound from Department
+[Detail]
+Dear District/Section Complaints Liaison
+Officer,
+
+I forward the captioned case referred from 1823 Call Centre (1823) with
+case details contained in the attached file.   Grateful if you would
+arrange to pass this case to the subject officer and ask him/her to make
+a timely direct reply to the complainant/enquirer or 1823,
+where appropriate.
+
+In case there is a need to bring this case to DL's personal attention,
+respective Section Head should alert DL direct as soon as possible.
+
+By copy of this mail, would 1823 Call Centre Duty Manager please
+note that your email below has been referred to District Lands Office/Kowloon
+East for investigation and follow-up action.  Should you have
+any enquiry on the progress, you may contact Mr. CHAN TAI MAN at Tel. No. 1234 1234 during office hours.
+
+Regards,
+Lau
+
+This message and any attachment is intended
+for the use of the addressee only. It may contain information which is
+confidential and/or legally privileged. You are hereby notified that no
+unauthorised disclosure or use of this message is permitted. If you have
+received this message by mistake, please notify us immediately and delete
+or destroy this message, as appropriate. Any liability arising from the
+use of this information is excluded.
+
+本信息及任何附件只供收件人使用，而其中...
+
+[No.]	[Id]		[Date/Time]		[Type]
+11	3-3WVIWHJ		2024-11-28 15:04:39	Email - Inbound from Department
+[Detail]
+To : 1823
+<CASE>:
+3-8512172759
+<DEPT>:
+Lands Department
+<NR>:
+3-3WSXSO6
+<REPEATED>:
+0
+<IDENTIFIER>:
+New Case
+<CIUPT>:
+3-3WSXSO6
+Staff Name
+& Post:{WONGlung, SPA/KE, DLO/KE, LandsD}
+Tel/E-mail/Fax:{1234 1234 / sake@landsd.gov.hk / 1234 1234}
+File Ref.:
+DLOKE 2841/2024
+
+C.INTERIM
+REPLY
+
+(1) Convey
+the reply to citizen via 1823 reply system*****請以中文回覆以下個案*****
+*請在以下
+REPLY DETAILS 括號內輸入中文回覆*
+
+<INT-X>(X)
+1823 System to automatically send the reply from this department to citizen
+after submission. REPLY DETAILS |{個案收悉。九龍東區地政處(下稱「本處」)現正處理有關事項，並會盡快給你回覆。
+
+期間如有任何查詢，可致電1234 1234與本處職員黃先生聯絡。}|.
+
+This e-mail message (together with any
+attachments) is for the designated recipient only.  It may contain
+information that is privileged.  If you are not the intended recipient,
+you are hereby notified that any use , retention, disclosure, copying,
+printing, forwarding or dissemination of the message is strictly prohibited.
+ If you have received the message in error, please erase all copies
+of the message (including attachments) from your system and notify the
+sender immediately.
+
+本信息(及附件)只供指定收件人使用, 而其中可能載有機密及/或屬法律特權的資料。如果你並非屬意的收件人,
+不得使用, 保留, 披露, 複印, 傳送, 或發放本信息。倘若本信息誤傳給你,
+請立即删除本信息(及附件)並通知寄件人。
+-----
+Forwarded by WONG/LAO/LANDSD/HKSARG on 28/11/2024 14:54 -----
+
+From...
+
+[No.]	[Id]		[Date/Time]		[Type]
+13	3-3X0KGLS		2024-12-05 08:56:41	Email - Inbound from Department
+[Detail]
+To : 1823
+<CASE>: 3-8512172759
+<DEPT>: Lands Department
+<NR>: 3-3WSXSO6
+<REPEATED>: 0
+<IDENTIFIER>: New Case
+<CIUPT>: 3-3WSXSO6
+Staff Name
+& Post:{WONG, SPA/KE, DLO/KE, LandsD}
+Tel/E-mail/Fax:{1234 1234 / spke@landsd.gov.hk / 2782 5061}
+File Ref.:
+DLOKE 2841/2024
+
+D.SUBSTANTIVE
+REPLY (Case Completed)
+
+(1) Convey the reply to citizen via 1823 reply system*****請以中文回覆以下個案*****
+*請在以下 REPLY DETAILS 括號內輸入中文回覆*
+
+<SUB-F>(X)
+Further assignment only: 1823 please *assign* this case to |{CEDD}| bureaux/department
+for further action.  AND 1823 please convey the following substantive
+reply to citizen on behalf of this department: REPLY DETAILS |{繼2024年11月28日的簡覆，九龍東區地政處(下稱"本處")現回覆如下:
+
+個案所涉地方是位於政府撥地範圍內，是撥予土木工程拓展署的用地，本處已要求1823轉介有關事項予土木工程拓展署跟進。
+
+如對上文有任何疑問，可致電1234 1234 與本處職員黃先生聯絡。}|.
+
+<REF-Remarks:>
+|{The concerned area falls within (STLA)GLA-TNK 2808 allocated to the Geotechnical
+Engineering Office of CEDD for works area.  As such, would 1823 please
+refer the complaint case to CEDD for follow-up actions.}|
+
+This message and
+any attachment is intended for the use of the addressee only. It may contain
+information which is confidential and/or legally privileged. You are hereby
+notified that no unauthorised disclosure or use of this message is permitted.
+If you have received this m...
+

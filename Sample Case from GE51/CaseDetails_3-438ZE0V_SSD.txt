@@ -1,0 +1,149 @@
+﻿1823 CASE: 3-8902534016
+DEPT REF: 
+Request Type : Enquiry
+Channel : Email
+Case Creation Date : 2025-08-29 08:31:34
+
+================================================================================
+
+I. DUE DATE: 
+-------------
+Re-assignment : 
+Extend Re-assignment : 
+Acknowledgement : 2025-09-03 12:30:25
+Interim Reply : 2025-09-08 00:00:00
+Final Reply : 2025-09-19 00:00:00
+
+2nd DUE DATE: 
+--------------------
+Acknowledgement : 2026-08-29 00:00:00
+Interim Reply : 
+Final Reply : 2025-10-19 00:00:00
+
+================================================================================
+II. ASSIGNMENT HISTORY: 
+--------------------------
+[Date/Time]		[Status]	[Dept]	[Assigned To]
+2025-08-29 08:31:49	Cancelled	CEDD	Enquiry_CEDD
+2025-08-29 14:00:23	Open		CEDD	CTO (G)
+
+================================================================================
+III. CONTACT HISTORY: 
+---------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-437MXDI		2025-08-28 14:34:29	Email - Inbound
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+2	3-438C799		2025-08-29 08:35:54	Email - Outbound
+[Detail]
+29/08/2025
+
+Dear CHAN TAI MAN,
+
+Subject: About 'Geotechnical Information Infrastructure' Website (Case Ref: 3-8902534016)
+
+Thank you for your email dated 26/08/2025.
+
+For the issue(s) related to 'Geotechnical Information Infrastructure' Website, we have passed your correspondence to the relevant unit of the Civil Engineering and Development Department for follow-up. You will be informed of the result once it is available.
+
+If you have any questions about this reply, please contact us.
+
+Best regards,
+Soso So
+Customer Service Officer
+1823
+
+Tel: 1823
+Fax: 2760 1823
+Email: tellme@1823.gov.hk
+SMS: 6163 1823 (For sending and receiving SMS only)
+
+Service Disclaimer: www.1823.gov.hk/en/di.shtm
+
+
+
+[No.]	[Id]		[Date/Time]		[Type]
+3	3-438ZDYR		2025-08-29 14:00:21	Web Update from Department
+[Detail]
+Reassignment Option :  Please re-assign to the following officer:CTO (G)/CEDD of this department:CEDD GEO
+
+
+================================================================================
+IV. CASE DETAILS: 
+--------------------------
+Direct Reply By Department: N
+Subject Matter : 土木工程拓展署一般資訊
+Description : 
+Dear Sir/Madam,
+
+I want to dig out the ground investigation record from the website but they show the reply of “File not found”.
+Please clarify and thank you.
+
+
+Specific Questions and Answers : 
+null
+
+================================================================================
+V. EVENT DETAILS:  
+------------------------
+Event Date & Time : null 
+
+EVENT LOCATION: 
+------------------------
+Room : 
+Floor : 
+Block No. : 
+Building Name : 
+Estate : 
+Street No. : 
+Street Name : 
+District : 
+Region : 
+Slope No : 
+Lamp Post No : 
+Landmark : 
+Lot No. :
+
+================================================================================
+VI. CONTACT INFORMATION:  
+--------------------------
+Last Name :  Ms. CHAN TAI MAN
+First Name : 
+Alt Name : 
+Personal ID : 
+Contact Address : 
+Daytime No. : 
+Nighttime No. : 
+Mobile : 
+Alt Tel No. : 
+Fax : 
+Email Address : ABC123@abcmail.com
+Preferred Reply Channel: Email
+Special Instructions: 
+Case Source : General Public
+Best Call Time : 00:00:00 To 23:59:59
+
+================================================================================
+VII. WRITTEN CONTACT INBOUND DETAILS:  
+---------------------------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-437MXDI		2025-08-28 14:34:29	Email - Inbound
+[Detail]
+Dear Sir/Madam,
+
+ 
+
+I want to dig out the ground investigation record from the website but they show the reply of “File not found”.
+
+Please clarify and thank you.
+
+ 
+
+Regards,
+
+Ms. CHAN TAI MAN
+
+
+

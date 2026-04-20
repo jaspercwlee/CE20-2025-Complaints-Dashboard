@@ -1,0 +1,230 @@
+﻿1823 CASE: 3-6838257980
+DEPT REF: 
+Request Type : Complaint
+Channel : Phone
+Case Creation Date : 2021-08-05 10:33:52
+
+================================================================================
+
+I. DUE DATE: 
+-------------
+Acknowledgement : 2021-08-13 12:05:02
+Interim Reply : 2021-08-17 12:36:22
+Final Reply : 2021-08-24 12:36:22
+
+================================================================================
+II. ASSIGNMENT HISTORY: 
+--------------------------
+[Date/Time]		[Status]	[Dept]	[Assigned To]
+2021-08-05 10:34:40	Done		1823	Tang
+2021-08-05 11:21:14	Acknowledged	LANDSD	STO(G)/2
+2021-08-05 11:22:08	Cancelled	CEDD	CTO (G)
+2021-08-06 08:33:39	Cancelled	CEDD	Enquiry_CEDD
+2021-08-06 11:08:38	Misassigned	CEDD	CO/G(E)
+2021-08-10 12:34:46	Cancelled	CEDD	Enquiry_CEDD
+2021-08-10 13:34:58	Open		CEDD	CTO (G)
+
+================================================================================
+III. CONTACT HISTORY: 
+---------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-352C9Y1		2021-08-04 09:31:14	Voice Mail - Inbound
+
+[No.]	[Id]		[Date/Time]		[Type]
+2	3-353BLJ0		2021-08-05 10:32:03	Call - Inbound
+[Detail]
+投訴人投訴飛霞路盡頭太平閣附近斜坡草過長，包括是靠近網球場翠雅花園的一幅斜坡以及太平閣前面的一幅斜坡，指雜草生長過了圍欄，伸展到屋苑內，要求部門跟進。
+
+投訴人未能提供斜坡編號，但根據投訴人所提供資料，在SMRIS搜尋到斜坡編號為11NE-B/F 285及11NE-B/C 179。
+
+[No.]	[Id]		[Date/Time]		[Type]
+3	3-353XNX1		2021-08-05 17:12:02	Web Update from Department
+[Detail]
+I acknowledge receipt of this case and follow up will be taken.
+
+[No.]	[Id]		[Date/Time]		[Type]
+4	3-35461CN		2021-08-06 08:33:29	Web Update from Department
+[Detail]
+Reassignment Option :  Please re-assign to the following officer:ENQUIRY_CEDD of this department:CEDD
+Reassignment Reason:The concerned location is allocated to Lam Tin - Tseung Kwan O Project managed by East Development Office, CEDD.
+
+[No.]	[Id]		[Date/Time]		[Type]
+5	3-354DF3T		2021-08-06 11:08:31	Web Update from Department
+[Detail]
+Reassignment Option :  Please re-assign to the following officer:CO/G(E) of this department:E DevO
+CC party : SCO(E), ACO/G1(E), ACO/G2(E)
+
+[No.]	[Id]		[Date/Time]		[Type]
+6	3-354DCBV		2021-08-06 11:09:27	Email - Inbound from Department
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+7	3-356Q8GO		2021-08-10 09:55:50	Web Update from Department
+[Detail]
+Reassignment Option :  1823 please re-assign to other department
+Reassignment Reason:This case is not related to EDO, please pass it to corresponding department.
+
+[No.]	[Id]		[Date/Time]		[Type]
+8	3-356Z3MO		2021-08-10 12:33:09	Email - Inbound from Department
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+9	3-356VLBL		2021-08-10 12:50:25	Call - Inbound from Department
+[Detail]
+CEDD梁小姐來電查詢個案資料。
+
+[No.]	[Id]		[Date/Time]		[Type]
+10	3-35728MZ		2021-08-10 13:34:51	Web Update from Department
+[Detail]
+Reassignment Option :  Please re-assign to the following officer:CTO (G)/CEDD of this department:CEDD GEO
+
+
+================================================================================
+IV. CASE DETAILS: 
+--------------------------
+Direct Reply By Department: N
+Subject Matter : 斜坡事項 - 土木工程拓展署
+Description : 
+投訴人投訴飛霞路盡頭太平閣附近斜坡草過長，包括是靠近網球場翠雅花園的一幅斜坡以及太平閣前面的一幅斜坡，指雜草生長過了圍欄，伸展到屋苑內，要求部門跟進。
+
+投訴人未能提供斜坡編號，但根據投訴人所提供資料，在SMRIS搜尋到斜坡編號為11NE-B/C 453及11NE-B/C 179,個案轉交土木工程拓展署及地政總署跟進。
+==
+CEDD：請跟進11NE-B/C 453
+LANDSD：請跟進11NE-B/C 179
+
+Specific Questions and Answers : 
+1) 可否提供斜坡牌上所載的斜坡編號及政府部門?
+Ans: 未能提供
+Remark: 
+
+2) 請問斜坡發生了什事故?
+Ans: 雜草生長
+Remark: 
+
+5) 斜坡是否正在進行工程？
+Ans: 否
+Remark: 
+
+6) 維修後，是否需要我們通知您？
+Ans: 需要
+Remark: 
+
+7) 如果有需要將你的投訴轉介給有關的工程顧問或承建商跟進，你是否願意將你的姓氏、聯絡方法等個人資料轉介給工程顧問或承建商，讓他們可以直接回覆您？
+Ans: 願意
+Remark: 
+
+<ENDS of Specific Question>
+
+================================================================================
+V. EVENT DETAILS:  
+------------------------
+Event Date & Time : null 
+
+EVENT LOCATION: 
+------------------------
+Room : 
+Floor : 
+Block No. : 
+Building Name : 
+Estate : 
+Street No. : 
+Street Name : 
+District : 
+Region : NT
+Slope No : 
+Lamp Post No : 
+Landmark : 
+Lot No. :
+
+================================================================================
+VI. CONTACT INFORMATION:  
+--------------------------
+Last Name : Ms. x
+First Name : 管理處
+Alt Name : 
+Personal ID : 
+Contact Address : 
+Daytime No. : xxxxxx
+Nighttime No. : 
+Mobile : 
+Alt Tel No. : 
+Fax : 
+Email Address : 
+Preferred Reply Channel: Call
+Special Instructions: 
+Case Source : General Public
+Best Call Time : 00:00:00 To 23:59:59
+
+================================================================================
+VII. WRITTEN CONTACT INBOUND DETAILS:  
+---------------------------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+6	3-354DCBV		2021-08-06 11:09:27	Email - Inbound from Department
+[Detail]
+
+
+I am out of the office until 09/08/2021.
+
+
+
+
+Note: This is an automated response to your message "CASE#3-6838257980 New
+Complaint - 投訴飛霞路盡頭太平閣附近斜坡草過長" sent on 06.08.2021 11:09:01
+AM.
+
+This is the only notification you will receive while this person is away.
+
+<p></p>
+
+[No.]	[Id]		[Date/Time]		[Type]
+8	3-356Z3MO		2021-08-10 12:33:09	Email - Inbound from Department
+[Detail]
+Email from CEDD.
+
+ 
+
+From: xxxxxg@cedd.gov.hk [mailto:xxxx@cedd.gov.hk]
+Sent: Tuesday, August 10, 2021 11:50 AM
+To: xxxx Leung <keleung@1823.gov.hk>
+Subject:轉寄: 轉寄: Re: 轉寄: CASE#3-6838257980 New Complaint - 投訴飛霞路盡頭太平閣附近斜坡草過長
+
+ 
+
+Dear xxxxx,
+
+Since this case still pending in 1823, grateful if you could reassign to Enquiry_CEDD, thank you.
+
+Best regards,
+xxxxx xxxx
+ACO/PR
+PR Unit/CEDD
+Tel: 2762 5124
+----- Forwarded by xxxxx xx xxx xxx/CEDD/HKSARG on 10/08/2021 11:48 -----
+
+From:        xxxx xxx xxx CHI/CEDD/HKSARG
+To:        SAI xxx WONG/CEDD/HKSARG@CEDD
+Cc:        YIN xxx xxxx/CEDD/HKSARG@CEDD, xxxx/CEDD/HKSARG@CEDD, VINCENT
+ YIN KAI WONG/CEDD/HKSARG@CEDD, xxxxx YIP/CEDD/HKSARG@CEDD, xxxN WU/CEDD/HKSARG@CEDD, xxxxI WONG/CEDD/HKSARG@CEDD
+Date:        10/08/2021 09:36
+Subject:        轉寄:
+ Re: 轉寄: CASE#3-6838257980 New Complaint - 投訴飛霞路盡頭太平閣附近斜坡草過長
+
+Dear Charles,
+
+As spoken, please kindly refer to my e-mail below and re-assign the case accordingly, probably to GEO (for GLA-TSK 4066) and LandsD (for GL).
+
+By copy to Fong, please re-assign the case to General Enquiries (CEDD HQ).
+
+Thank you!
+
+Regards,
+
+xxxxn C. Y. xxxx
+Engineer/11(East)
+East Development Office
+Civil Engineering and Development Department
+Tel: 3842 xxxx
+E-mail: rc...
+

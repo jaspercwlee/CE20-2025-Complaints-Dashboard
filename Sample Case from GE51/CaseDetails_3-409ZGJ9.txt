@@ -1,0 +1,167 @@
+﻿1823 CASE: 3-8723370206
+DEPT REF: 
+Request Type : Service Request / Complaint
+Channel : Email
+Case Creation Date : 2025-05-08 17:52:35
+
+================================================================================
+
+I. DUE DATE: 
+-------------
+Re-assignment : 2025-05-15 23:59:59
+Extend Re-assignment : 2025-05-20 23:59:59
+Acknowledgement : 2025-05-13 17:07:40
+Interim Reply : 2025-05-15 18:02:32
+Final Reply : 2025-05-22 18:02:32
+
+================================================================================
+II. ASSIGNMENT HISTORY: 
+--------------------------
+[Date/Time]		[Status]	[Dept]	[Assigned To]
+2025-05-08 17:52:38	Cancelled	CEDD	Enquiry_CEDD
+2025-05-09 09:37:39	Open		CEDD	CTO (G)
+
+================================================================================
+III. CONTACT HISTORY: 
+---------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-409MFMK		2025-05-08 17:35:02	Email - Inbound
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+2	3-409LG8N		2025-05-08 18:02:58	Email - Outbound
+[Detail]
+林先生：
+
+主旨： 禾徑山路建築廢料和垃圾 (檔案編號：3-8723370206)
+
+謝謝你於2025年05月07日的電郵。
+
+就建築廢料和垃圾事宜，我們已將你的函件轉交土木工程拓展署的相關組別跟進。一旦有結果，你將會收到通知。
+
+如果你對此回覆有任何查詢，歡迎聯絡我們。
+
+1823
+客戶服務主任
+xxx謹覆  
+2025年05月08日
+
+電話: 1823
+傳真: 2760 1823
+電郵: tellme@1823.gov.hk
+短訊﹕61631823 (只供發送及接收短訊之用)
+
+服務聲明: www.1823.gov.hk/tc/di.shtm
+
+
+
+
+
+
+[No.]	[Id]		[Date/Time]		[Type]
+3	3-409ZGIJ		2025-05-09 09:37:37	Web Update from Department
+[Detail]
+Reassignment Option :  Please re-assign to the following officer:CTO (G)/CEDD of this department:CEDD GEO
+
+
+================================================================================
+IV. CASE DETAILS: 
+--------------------------
+Direct Reply By Department: N
+Subject Matter : 陸上工程
+Description : 
+Dear sir/madam
+
+CEDD外判商近來做完工程後遺留大量建築廢料同垃圾, 請政府重視工程後跟進工作, 這樣是非常影公眾衛生和環境.附上今日於現場的拍相片
+
+祝工作順利
+
+
+Specific Questions and Answers : 
+1) 請問是有關哪一方面?
+Ans: 基礎設施工程(除單車徑)(如車路，行人路，天橋，排水系統工程，地盤平整等)
+Remark: 
+
+1.1) 請問在那裡發生?
+Ans: 新界西及北
+Remark: 
+
+1.5) 請問是哪個工程範圍 / 項目?
+Ans: 香園圍(北區)
+Remark: 
+
+2) 請問該項目有什問題？
+Ans: 其他問題 (如要求提供傷殘設施，清走單車等)
+Remark: 
+
+4) 請問可否提供該項目的工程編號？
+Ans: 不知道
+Remark: 
+
+5) 如果有需要將你的投訴轉介給負責有關工程的工程顧問或承建商跟進，你是否願意將你的姓氏、聯絡方法等個人資料轉介給工程顧問或承建商，讓他們可以直接回覆您？
+Ans: 願意
+Remark: 
+
+98) 個案處理後，是否需要我們回覆您？
+Ans: 需要
+Remark: 
+
+<ENDS of Specific Question>
+
+================================================================================
+V. EVENT DETAILS:  
+------------------------
+Event Date & Time : null 
+
+EVENT LOCATION: 
+------------------------
+Room : 
+Floor : 
+Block No. : 
+Building Name : 
+Estate : 
+Street No. : 
+Street Name : 
+District : 
+Region : 
+Slope No : 
+Lamp Post No : 
+Landmark : 
+Lot No. :
+
+================================================================================
+VI. CONTACT INFORMATION:  
+--------------------------
+Last Name : Mr. x
+First Name : .
+Alt Name : 
+Personal ID : 
+Contact Address : 
+Daytime No. : 
+Nighttime No. : 
+Mobile : 
+Alt Tel No. : 
+Fax : 
+Email Address : xxxxxx@gmail.com
+Preferred Reply Channel: Email
+Special Instructions: 
+Case Source : General Public
+Best Call Time : 00:00:00 To 23:59:59
+
+================================================================================
+VII. WRITTEN CONTACT INBOUND DETAILS:  
+---------------------------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-409MFMK		2025-05-08 17:35:02	Email - Inbound
+[Detail]
+Dear sir/madam
+
+CEDD外判商近來做完工程後遺留大量建築廢料同垃圾, 請政府重視工程後跟進工作, 這樣是非常影公眾衛生和環境.附上今日於現場的拍相片
+
+祝工作順利
+
+市民xxx
+
+
+

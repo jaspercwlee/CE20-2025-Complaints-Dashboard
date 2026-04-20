@@ -1,0 +1,121 @@
+﻿1823 CASE: 3-8736677080
+DEPT REF: 
+Request Type : Service Request / Complaint
+Channel : Phone
+Case Creation Date : 2025-05-18 11:16:54
+
+================================================================================
+
+I. DUE DATE: 
+-------------
+Re-assignment : 2025-05-26 23:59:59
+Extend Re-assignment : 2025-05-31 23:59:59
+Acknowledgement : 2025-05-22 13:31:26
+Interim Reply : 2025-05-26 15:01:26
+Final Reply : 2025-06-02 15:01:26
+
+================================================================================
+II. ASSIGNMENT HISTORY: 
+--------------------------
+[Date/Time]		[Status]	[Dept]	[Assigned To]
+2025-05-18 11:19:25	Cancelled	1823	Lam
+2025-05-19 14:51:42	Open		CEDD	CTO (G)
+
+================================================================================
+III. CONTACT HISTORY: 
+---------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-40HL4ED		2025-05-18 10:38:33	Voice Mail - Inbound
+
+[No.]	[Id]		[Date/Time]		[Type]
+2	3-40HLB79		2025-05-18 11:20:48	Call - Outbound
+[Detail]
+Reply To Caller
+
+Citizen did not respond.
+已留言
+
+[No.]	[Id]		[Date/Time]		[Type]
+3	3-40IF69H		2025-05-19 14:38:18	Call - Inbound
+[Detail]
+投訴人投訴5月18號星期日早上8點幾，鯉魚門泉源道東56號E，200米距離外的斜坡，有土工工程署的斜坡工程，工程噪音造成滋擾，投訴人致電承辦商電話但無人聽，投訴人表示星期日應該是休息時間，不滿工程噪音，投訴人當時甚至打999報警，但警署沒留下報案編號。斜坡沒有斜坡編號，只有土木工程署標誌及承辦商電話95183610，要求跟進回覆。
+
+
+
+
+================================================================================
+IV. CASE DETAILS: 
+--------------------------
+Direct Reply By Department: N
+Subject Matter : 斜坡事項 - 土木工程拓展署
+Description : 
+投訴人投訴5月18號星期日早上8點幾，鯉魚門泉源道東56號E，200米距離外的斜坡，有土工工程署的斜坡工程，工程噪音造成滋擾，投訴人致電承辦商電話但無人聽，投訴人表示星期日應該是休息時間，不滿工程噪音，投訴人當時甚至打999報警，但警署沒留下報案編號。斜坡沒有斜坡編號，只有土木工程署標誌及承辦商電話95183610，要求跟進回覆。
+
+Specific Questions and Answers : 
+1) 可否提供斜坡牌上所載的斜坡編號及政府部門?
+Ans: 未能提供
+Remark: 
+
+2) 請問斜坡發生了什事故?
+Ans: 其他 (請詳述)
+Remark: 斜坡工程噪音問題
+
+5) 斜坡是否正在進行工程？
+Ans: 是
+Remark: 
+
+6) 維修後，是否需要我們通知您？
+Ans: 需要
+Remark: 
+
+7) 如果有需要將你的投訴轉介給有關的工程顧問或承建商跟進，你是否願意將你的姓氏、聯絡方法等個人資料轉介給工程顧問或承建商，讓他們可以直接回覆您？
+Ans: 願意
+Remark: 
+
+<ENDS of Specific Question>
+
+================================================================================
+V. EVENT DETAILS:  
+------------------------
+Event Date & Time : 2025-05-18 8:40
+
+EVENT LOCATION: 
+------------------------
+Room : 
+Floor : 
+Block No. : 
+Building Name : 
+Estate : 
+Street No. : 
+Street Name : 鯉魚門海傍道中
+District : 
+Region : KL
+Slope No : 
+Lamp Post No : 
+Landmark : 
+Lot No. :
+
+================================================================================
+VI. CONTACT INFORMATION:  
+--------------------------
+Last Name : Mr. x
+First Name : .
+Alt Name : 
+Personal ID : 
+Contact Address : 
+Daytime No. : 
+Nighttime No. : 
+Mobile : xxxxxx
+Alt Tel No. : 
+Fax : 
+Email Address : 
+Preferred Reply Channel: 
+Special Instructions: 19/5:已問privacy
+==
+未能致電問及privacy
+Case Source : General Public
+Best Call Time : 00:00:00 To 23:59:59
+
+================================================================================
+VII. WRITTEN CONTACT INBOUND DETAILS:  
+---------------------------------------------

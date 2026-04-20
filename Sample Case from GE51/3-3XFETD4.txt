@@ -1,0 +1,229 @@
+﻿1823 CASE: 3-8447914422
+DEPT REF: 
+Request Type : Complaint
+Channel : Mobile
+Case Creation Date : 2024-10-12 10:21:52
+
+================================================================================
+
+I. DUE DATE: 
+-------------
+Re-assignment : 2024-12-31 23:59:59
+Extend Re-assignment : 2025-01-05 23:59:59
+Acknowledgement : 2024-12-30 17:47:54
+Interim Reply : 2024-12-31 10:17:54
+Final Reply : 2025-01-07 10:17:54
+
+================================================================================
+II. ASSIGNMENT HISTORY: 
+--------------------------
+[Date/Time]		[Status]	[Dept]	[Assigned To]
+2024-10-12 10:22:04	Cancelled	1823	Chan
+2024-12-24 10:13:48	Open		CEDD	CTO (G)
+
+================================================================================
+III. CONTACT HISTORY: 
+---------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-3VNCSH7		2024-10-09 13:28:03	Apps - Inbound
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+2	3-3VPO4I7		2024-10-12 10:26:48	Apps - Outbound
+[Detail]
+12/10/2024
+
+Dear Sir/Madam, 
+
+Subject: APS241009A20738 Regarding the slope work by CEDD is causing severe visual impact (Case Ref: 3-8447914422)
+
+Thank you for your electronic form dated 09/10/2024.
+
+To enable effective handling of your case, we should be grateful if you could provide the following information - 
+
+-Please kindly provide more information of the slope (e.g. the slope no. or nearest lamp post, etc) 
+
+You can also circle the location of the incident through this website (https://www.map.gov.hk/gm/) and send us the relevant photos.
+
+If you have any questions about this reply, please contact us.
+
+
+Best regards,
+Constance Chan
+Customer Service Officer
+1823
+
+Tel: 1823
+Fax: 2760 1823
+Email: tellme@1823.gov.hk
+SMS: 61631823 (For sending and receiving SMS only)
+
+Service Disclaimer: www.1823.gov.hk/en/di.shtm
+
+
+
+
+
+
+
+
+
+[No.]	[Id]		[Date/Time]		[Type]
+3	3-3XEFOZR		2024-12-23 10:39:25	Apps - Inbound
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+
+================================================================================
+IV. CASE DETAILS: 
+--------------------------
+Direct Reply By Department: N
+Subject Matter : 斜坡事項 - 土木工程拓展署
+Description : 
+I notice the slope work by CEDD is causing severe visual impact.   CEDD should look into it
+
+Additional Information:
+Reply Needed:		Yes
+
+
+Specific Questions and Answers : 
+1) What is the slope no. and department name on slope plate (if any)?
+Ans: Please specify
+Remark: 
+
+2) What is the slope incident?
+Ans: Others (please specify)
+Remark: 
+
+5) Is there any work in progress?
+Ans: No
+Remark: 
+
+6) Do you want a reply after the follow-up to the case?
+Ans: Yes
+Remark: 
+
+7) If it is necessary to refer your complaint to the works consultant or contractor concerned to follow-up, do you agree to give your surname, contact and personal data, etc. to them, so that they can reply you directly?
+Ans: Yes
+Remark: 
+
+<ENDS of Specific Question>
+
+================================================================================
+V. EVENT DETAILS:  
+------------------------
+Event Date & Time : null 
+
+EVENT LOCATION: 
+------------------------
+Room : 
+Floor : 
+Block No. : 
+Building Name : 
+Estate : 
+Street No. : 
+Street Name : 
+District : 
+Region : NT
+Slope No : 
+Lamp Post No : 
+Landmark : 
+Lot No. :
+
+================================================================================
+VI. CONTACT INFORMATION:  
+--------------------------
+The citizen refused to leave contact information. Departmental officer is requested to provide a substantive reply (with details) to 1823 for follow-up actions.
+Last Name : 
+First Name : 
+Alt Name : 
+Personal ID : 
+Contact Address :
+Daytime No. : 
+Nighttime No. : 
+Mobile : 
+Alt Tel No. : 
+Fax : 
+Email Address : 
+Preferred Reply Channel: 
+Special Instructions: 
+Case Source : General Public
+Best Call Time : 00:00:00 To 23:59:59
+
+================================================================================
+VII. WRITTEN CONTACT INBOUND DETAILS:  
+---------------------------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-3VNCSH7		2024-10-09 13:28:03	Apps - Inbound
+[Detail]
+***************************
+REFUSE to leave contact to BOTH 1823 & Dept
+***************************
+
+Case Type:		Complaint
+
+Category:		Others 
+
+Name:			
+
+Email:			
+
+Location:
+
+
+Map:			
+
+Details:	
+I notice the slope work by CEDD is causing severe visual impact.   CEDD should look into it
+
+Additional Information:
+Reply Needed:		Yes
+
+Transaction Ref:	APS241009A20738
+
+Transaction Time:	2024-10-09 13:27:36
+
+Tel No.:	        
+
+Best Time to Call:	
+
+File upload:		1 file(s)
+
+File List:		EE3EE9FF-DEEC-46B1-B389-E49DE079209C.jpg (The visual impact of the work by CEDD)
+
+
+
+[No.]	[Id]		[Date/Time]		[Type]
+3	3-3XEFOZR		2024-12-23 10:39:25	Apps - Inbound
+[Detail]
+***************************
+Case Follow-Up Request from Citizen
+***************************
+
+Case Type:		Complaint
+
+Category:		Others 
+
+Location:
+
+
+Map:			
+
+Details:	
+Please see photo
+
+Transaction Ref:	APF241223A79188
+
+Original Transaction Ref:	APS241009A20738
+
+SR Number:		3-8447914422
+
+Transaction Time:	2024-12-23 10:36:45
+
+File upload:		1 file(s)
+
+File List:		9D8F04E4-2FBC-4BF7-BF6F-E6F7EC59F672.jpg (That is the slope location)
+
+
+

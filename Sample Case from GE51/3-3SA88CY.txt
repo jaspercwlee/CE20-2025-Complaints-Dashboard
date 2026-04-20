@@ -1,0 +1,183 @@
+﻿1823 CASE: 3-8234878167
+DEPT REF: 
+Request Type : Complaint
+Channel : Phone
+Case Creation Date : 2024-05-25 15:29:23
+
+================================================================================
+
+I. DUE DATE: 
+-------------
+Acknowledgement : 2024-06-03 13:49:36
+Interim Reply : 2024-06-05 13:26:49
+Final Reply : 2024-06-12 13:26:49
+
+================================================================================
+II. ASSIGNMENT HISTORY: 
+--------------------------
+[Date/Time]		[Status]	[Dept]	[Assigned To]
+2024-05-25 15:42:29	Misassigned	LANDSD	STO(G)/2
+2024-05-29 13:26:28	Cancelled	CEDD	Enquiry_CEDD
+2024-05-29 13:49:34	Open		CEDD	CTO (G)
+
+================================================================================
+III. CONTACT HISTORY: 
+---------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-3S6U0N9		2024-05-25 15:28:19	Call - Inbound
+[Detail]
+投訴人表示政府因2023年的大暴雨後派職員檢查各地斜坡安全，檢查到斜坡11 NE-B/C 297時，相關人員發現斜坡上的一棵樹木已經被蟲蛀出了一個大洞，可能有安全隱患，要求部門跟進。
+
+Full Address from MapApp:
+North of Block 7, Tan Shan Tsuen, Sai Kung.
+
+[No.]	[Id]		[Date/Time]		[Type]
+2	3-3S7F1RZ		2024-05-27 09:17:26	Web Update from Department
+[Detail]
+I acknowledge receipt of this case and follow up will be taken.
+
+[No.]	[Id]		[Date/Time]		[Type]
+3	3-3S7GU9D		2024-05-27 09:44:11	Web Update from Department
+[Detail]
+This case is assigned to Action Officer LANDGE15
+
+[No.]	[Id]		[Date/Time]		[Type]
+4	3-3SA66QC		2024-05-29 13:16:25	Web Update from Department
+[Detail]
+Reassignment Option :  1823 please re-assign to department GEO, CEDD division LPM3
+Reassignment Reason:The concerned area falls within the STLA No. STLA-TSK 4, which is allocated to CEDD. LPMit works are in progress for Feature No. 11NE-B/C297 and the case shall be reassigned to CEDD.
+
+[No.]	[Id]		[Date/Time]		[Type]
+5	3-3SA5L6T		2024-05-29 13:29:14	SMS - Outbound
+[Detail]
+鍾先生:
+
+主旨: 投訴斜坡11 NE-B/C 297上的一棵樹木有蟲蛀問題  (檔案編號：3-8234878167)
+
+就上述個案，地政總署已就樹木事宜作出審視，並表示相關事項應由土木工程拓展署處理。我們已將你的個案轉介土木工程拓展署跟進。一旦有結果，你將會收到通知。
+
+如果你對此回覆有任何查詢，歡迎聯絡我們。
+
+1823
+客戶服務主任
+馮永溢xxx2024年05月29日
+
+電話: 1823
+傳真: 2760 1823
+電郵: tellme@1823.gov.hk
+短訊: 61631823 (只供發送及接收短訊之用)
+
+服務聲明: www.1823.gov.hk/tc/di.shtm
+如需聯絡我們，請參閱www.1823.gov.hk/tc/about-us/contact-us
+
+
+
+
+
+
+
+
+
+[No.]	[Id]		[Date/Time]		[Type]
+6	3-3SA88A0		2024-05-29 13:49:32	Web Update from Department
+[Detail]
+Reassignment Option :  Please re-assign to the following officer:CTO (G)/CEDD of this department:CEDD GEO
+
+
+================================================================================
+IV. CASE DETAILS: 
+--------------------------
+Direct Reply By Department: N
+Subject Matter : 樹木 - CEDD
+Description : 
+29/05 LandsD
+Reassignment Option :  1823 please re-assign to department GEO, CEDD division LPM3
+Reassignment Reason:The concerned area falls within the STLA No. STLA-TSK 4, which is allocated to CEDD. LPMit works are in progress for Feature No. 11NE-B/C297 and the case shall be reassigned to CEDD.
+==
+投訴人表示政府因2023年的大暴雨後派職員檢查各地斜坡安全，檢查到斜坡11 NE-B/C 297時，相關人員發現斜坡上的一棵樹木已經被蟲蛀出了一個大洞，可能有安全隱患，要求部門跟進。
+
+Full Address from MapApp:
+North of Block 7, Tan Shan Tsuen, Sai Kung.
+
+Specific Questions and Answers : 
+1) 是否警察╱消防報告？
+Ans: 不是
+Remark: 
+
+2) 請問是什麼樹木問題？
+Ans: 其他問題（請註明）
+Remark: 樹木蟲蛀問題
+
+6.1) (請同事自行回答,不用向投訴人查詢) 來電者提出該樹木有即時危險?
+Ans: 沒有提及
+Remark: 
+
+7) 請說明樹木的大約高度及樹幹直徑。
+Ans: 樹木高    米／尺；樹幹直徑    米／尺
+Remark: 四五米高度，70cm直徑
+
+8) 請說明樹木的位置。
+Ans: 如在斜坡上，可詢問斜坡登記號碼
+Remark: 11 NE-B/C 297
+
+11.9) 可以提供印在樹木標籤上的樹木編號嗎？
+Ans: 不可以
+Remark: 
+
+12) 可以提供現場╱樹木的照片和定位圖 ╱ 二維碼的連結嗎？
+Ans: 不可以
+Remark: 
+
+13) 部門跟進個案後，要給你回覆嗎？
+Ans: 要回覆
+Remark: 
+
+14) 如果有需要將你的投訴轉介給負責有關工程的工程顧問或承建商跟進，你是否願意將你的姓氏、聯絡方法等個人資料轉介給工程顧問或承建商，讓他們可以直接回覆您？
+Ans: 願意
+Remark: 
+
+<ENDS of Specific Question>
+
+================================================================================
+V. EVENT DETAILS:  
+------------------------
+Event Date & Time : null 
+
+EVENT LOCATION: 
+------------------------
+Room : 
+Floor : 
+Block No. : 
+Building Name : 
+Estate : 
+Street No. : 
+Street Name : 
+District : 
+Region : NT
+Slope No : 11NE-B/C  297
+Lamp Post No : 
+Landmark : 
+Lot No. :
+
+================================================================================
+VI. CONTACT INFORMATION:  
+--------------------------
+Last Name : Mr. x
+First Name : .
+Alt Name : 
+Personal ID : 
+Contact Address : 
+Daytime No. : 
+Nighttime No. : 
+Mobile : xxxxxxxx
+Alt Tel No. : 
+Fax : 
+Email Address : 
+Preferred Reply Channel: 
+Special Instructions: 
+Case Source : General Public
+Best Call Time : 00:00:00 To 23:59:59
+
+================================================================================
+VII. WRITTEN CONTACT INBOUND DETAILS:  
+---------------------------------------------

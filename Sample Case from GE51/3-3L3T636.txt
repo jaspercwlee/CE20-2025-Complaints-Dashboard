@@ -1,0 +1,203 @@
+﻿1823 CASE: 3-7801282920
+DEPT REF: 
+Request Type : Complaint
+Channel : Mobile
+Case Creation Date : 2023-07-13 17:38:42
+
+================================================================================
+
+I. DUE DATE: 
+-------------
+Acknowledgement : 2023-07-20 17:35:02
+Interim Reply : 2023-07-23 18:15:01
+Final Reply : 2023-07-30 18:15:01
+
+================================================================================
+II. ASSIGNMENT HISTORY: 
+--------------------------
+[Date/Time]		[Status]	[Dept]	[Assigned To]
+2023-07-13 17:38:46	Misassigned	LCSD	COi/c(SK)
+2023-07-16 18:14:32	Cancelled	CEDD	Enquiry_CEDD
+2023-07-18 10:05:00	Open		CEDD	CTO (G)
+
+================================================================================
+III. CONTACT HISTORY: 
+---------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-3KYM6FV		2023-07-11 18:37:09	Apps - Inbound
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+2	3-3L0QDEH		2023-07-13 17:42:27	Apps - Outbound
+[Detail]
+先生／女士：
+
+主旨: APS230711A95647 有關西貢區清水灣道有樹木阻礙行人路事宜 (檔案編號：3-7801282920)
+
+謝謝你於2023年07月11日的電子表格。
+
+就樹木事宜，我們已將你的函件轉交康樂及文化事務署的相關組別跟進。一旦有結果，你將會收到通知。
+
+如果你對此回覆有任何查詢，歡迎聯絡我們。
+
+
+1823
+客戶服務主任
+陳謹覆  
+2023年07月13日
+
+電話: 1823
+傳真: 2123 1234
+電郵: tellme@1823.gov.hk
+短訊﹕1234 1234 (只供發送及接收短訊之用)
+
+服務聲明: www.1823.gov.hk/tc/di.shtm
+
+
+
+
+
+
+[No.]	[Id]		[Date/Time]		[Type]
+3	3-3L1KF0E		2023-07-14 15:17:01	Web Update from Department
+[Detail]
+vm seems fall within CEDD GLA TSK4315. > CEDD first 
+==
+Reassignment Option :  1823 please re-assign to other department
+Reassignment Reason:According to our M(P&P)SK2`s information, the concerned case is not under purview of LCSD, please re-assign to other appropriate department for follow up action.
+
+[No.]	[Id]		[Date/Time]		[Type]
+4	3-3L3T626		2023-07-18 10:04:56	Web Update from Department
+[Detail]
+Reassignment Option :  Please re-assign to the following officer:CTO (G)/CEDD of this department:CEDD GEO
+
+
+================================================================================
+IV. CASE DETAILS: 
+--------------------------
+Direct Reply By Department: N
+Subject Matter : 土木工程拓展署一般資訊
+Description : 
+CEDD please review GLA-TSK4315
+==
+14/07 LCSD:
+According to our M(P&P)SK2`s information, the concerned case is not under purview of LCSD, please re-assign to other appropriate department for follow up action.
+==
+Additional Information:
+[請問是什麼樹木問題？]
+其他問題（請註明） (樹木阻礙行人路)
+
+[請問樹木的位置？]
+其他位置，包括行人路旁
+
+[樹木是否在行車路壆10米距離內（大概一架巴士長度）生長?]
+是
+
+Reply Needed:		No
+
+
+Specific Questions and Answers : 
+1) 如果有需要將你的投訴轉介給負責有關工程的工程顧問或承建商跟進，你是否願意將你的姓氏、聯絡方法等個人資料轉介給工程顧問或承建商，讓他們可以直接回覆您？
+Ans: 不願意
+Remark: 
+
+98) 個案處理後，是否需要我們回覆您？
+Ans: 不需要
+Remark: 
+
+<ENDS of Specific Question>
+
+================================================================================
+V. EVENT DETAILS:  
+------------------------
+Event Date & Time : null 
+
+EVENT LOCATION: 
+------------------------
+Room : 
+Floor : 
+Block No. : 
+Building Name : 
+Estate : 
+Street No. : 
+Street Name : 清水灣道
+District : 
+Region : NT
+Slope No : 
+Lamp Post No : 
+Landmark : 
+Lot No. :
+
+================================================================================
+VI. CONTACT INFORMATION:  
+--------------------------
+The citizen refused to leave contact information. Departmental officer is requested to provide a substantive reply (with details) to 1823 for follow-up actions.
+Last Name : 
+First Name : 
+Alt Name : 
+Personal ID : 
+Contact Address :
+Daytime No. : 
+Nighttime No. : 
+Mobile : 
+Alt Tel No. : 
+Fax : 
+Email Address : 
+Preferred Reply Channel: 
+Special Instructions: 
+Case Source : General Public
+Best Call Time : 00:00:00 To 23:59:59
+
+================================================================================
+VII. WRITTEN CONTACT INBOUND DETAILS:  
+---------------------------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-3KYM6FV		2023-07-11 18:37:09	Apps - Inbound
+[Detail]
+***************************
+REFUSE to leave contact to BOTH 1823 & Dept
+***************************
+
+Case Type:		Complaint
+
+Category:		樹木問題 
+
+Name:			
+
+Email:			
+
+Location:
+清水灣道 
+
+Map:			https://www.1823.gov.hk/tc/form/showlocation?x=843185.17568763&y=822136.54824096
+
+Details:	
+
+
+Additional Information:
+[請問是什麼樹木問題？]
+其他問題（請註明） (樹木阻礙行人路)
+
+[請問樹木的位置？]
+其他位置，包括行人路旁
+
+[樹木是否在行車路壆10米距離內（大概一架巴士長度）生長?]
+是
+
+Reply Needed:		No
+
+Transaction Ref:	APS230711A95647
+
+Transaction Time:	2023-07-11 18:36:58
+
+Tel No.:	        
+
+Best Time to Call:	
+
+File upload:		1 file(s)
+
+File List:		fe349d90-6e8c-4f8f-936f-09b48d8dbe64.JPEG
+
+
+

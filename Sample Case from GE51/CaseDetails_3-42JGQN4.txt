@@ -1,0 +1,114 @@
+﻿1823 CASE: 3-8860642114
+DEPT REF: 
+Request Type : Service Request / Complaint
+Channel : Phone
+Case Creation Date : 2025-08-05 17:01:05
+
+================================================================================
+
+I. DUE DATE: 
+-------------
+Re-assignment : 2025-08-12 23:59:59
+Extend Re-assignment : 2025-08-17 23:59:59
+Acknowledgement : 2025-08-08 16:28:43
+Interim Reply : 2025-08-12 17:58:43
+Final Reply : 2025-08-19 17:58:43
+
+================================================================================
+II. ASSIGNMENT HISTORY: 
+--------------------------
+[Date/Time]		[Status]	[Dept]	[Assigned To]
+2025-08-05 17:01:14	Open		CEDD	Enquiry_CEDD
+
+================================================================================
+III. CONTACT HISTORY: 
+---------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-42JEB5O		2025-08-05 16:56:47	Call - Inbound
+[Detail]
+投訴人投訴大澳石仔埗街大會堂對著土木工程拓展署工程的行人路很多泥沙需要清理。投訴人表示這條行人路因爲雨勢大導致正在進行斜坡維修工程的地盤門口有很多泥沙冲出來，行人路現在充滿泥沙。投訴人再補充泥沙導致行人容易絆倒。要求部門儘快派員跟進處理及回覆。
+
+
+================================================================================
+IV. CASE DETAILS: 
+--------------------------
+Direct Reply By Department: N
+Subject Matter : 陸上工程
+Description : 
+投訴人投訴大澳石仔埗街大會堂對著土木工程拓展署工程的行人路很多泥沙需要清理。投訴人表示這條行人路因爲雨勢大導致正在進行斜坡維修工程的地盤門口有很多泥沙冲出來，行人路現在充滿泥沙。投訴人再補充泥沙導致行人容易絆倒。要求部門儘快派員跟進處理及回覆。
+
+Specific Questions and Answers : 
+1) 請問是有關哪一方面?
+Ans: 基礎設施工程(除單車徑)(如車路，行人路，天橋，排水系統工程，地盤平整等)
+Remark: 
+
+1.1) 請問在那裡發生?
+Ans: 新界西及北
+Remark: 
+
+1.5) 請問是哪個工程範圍 / 項目?
+Ans: 未能找到相關項目
+Remark: 
+
+2) 請問該項目有什問題？
+Ans: 路面不平 / 路面有沙粒 / 路面有積水 / 道路設施損壞
+Remark: 
+
+4) 請問可否提供該項目的工程編號？
+Ans: 沒有編號
+Remark: 
+
+5) 如果有需要將你的投訴轉介給負責有關工程的工程顧問或承建商跟進，你是否願意將你的姓氏、聯絡方法等個人資料轉介給工程顧問或承建商，讓他們可以直接回覆您？
+Ans: 願意
+Remark: 
+
+98) 個案處理後，是否需要我們回覆您？
+Ans: 不需要
+Remark: 
+
+<ENDS of Specific Question>
+
+================================================================================
+V. EVENT DETAILS:  
+------------------------
+Event Date & Time : 2025-08-05 
+
+EVENT LOCATION: 
+------------------------
+Room : 
+Floor : 
+Block No. : 
+Building Name : 
+Estate : 
+Street No. : 
+Street Name : 石仔埗街
+District : 
+Region : NT
+Slope No : 
+Lamp Post No : 
+Landmark : 
+Lot No. :
+
+================================================================================
+VI. CONTACT INFORMATION:  
+--------------------------
+The citizen refused to leave contact information. Departmental officer is requested to provide a substantive reply (with details) to 1823 for follow-up actions.
+Last Name : 
+First Name : 
+Alt Name : 
+Personal ID : 
+Contact Address :
+Daytime No. : 
+Nighttime No. : 
+Mobile : 
+Alt Tel No. : 
+Fax : 
+Email Address : 
+Preferred Reply Channel: 
+Special Instructions: 
+Case Source : General Public
+Best Call Time : 00:00:00 To 23:59:59
+
+================================================================================
+VII. WRITTEN CONTACT INBOUND DETAILS:  
+---------------------------------------------

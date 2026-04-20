@@ -1,0 +1,389 @@
+﻿1823 CASE: 3-7459151980
+DEPT REF: 
+Request Type : Enquiry
+Channel : Web
+Case Creation Date : 2022-11-03 10:05:19
+
+================================================================================
+
+I. DUE DATE: 
+-------------
+Acknowledgement : 2022-11-14 11:31:57
+Interim Reply : 2022-11-19 00:00:00
+Final Reply : 2022-11-30 00:00:00
+
+2nd DUE DATE: 
+--------------------
+Acknowledgement : 2023-11-09 00:00:00
+Interim Reply : 
+Final Reply : 2022-12-30 00:00:00
+
+================================================================================
+II. ASSIGNMENT HISTORY: 
+--------------------------
+[Date/Time]		[Status]	[Dept]	[Assigned To]
+2022-11-03 10:05:23	Misassigned	LANDSD	STO(G)/2
+2022-11-04 14:05:58	Substantive Replied	CEDD	CTO (G)
+
+================================================================================
+III. CONTACT HISTORY: 
+---------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-3FCJXYP		2022-11-02 15:33:40	Web - Inbound
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+2	3-3FD1QYS		2022-11-03 10:12:21	Email - Outbound
+
+[No.]	[Id]		[Date/Time]		[Type]
+3	3-3FD4FE2		2022-11-03 10:57:19	Web Update from Department
+[Detail]
+I acknowledge receipt of this case and follow up will be taken.
+
+[No.]	[Id]		[Date/Time]		[Type]
+4	3-3FDOFKS		2022-11-03 17:37:49	Email - Inbound from Department
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+5	3-3FDRTTP		2022-11-03 19:31:02	Email - Inbound
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+6	3-3FEFAN2		2022-11-04 14:22:31	Web Update from Department
+[Detail]
+I acknowledge receipt of this case and follow up will be taken.
+
+[No.]	[Id]		[Date/Time]		[Type]
+7	3-3FECEA7		2022-11-04 14:28:12	Email - Outbound
+
+[No.]	[Id]		[Date/Time]		[Type]
+8	3-3FFQ7VJ		2022-11-07 09:24:23	Email - Inbound from Department
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+9	3-3FGR98H		2022-11-08 09:37:25	Email - Outbound
+
+[No.]	[Id]		[Date/Time]		[Type]
+10	3-3FHL1GL		2022-11-08 17:47:09	Email - Inbound
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+
+================================================================================
+IV. CASE DETAILS: 
+--------------------------
+Direct Reply By Department: N
+Subject Matter : 斜坡事項 - 土木工程拓展署
+Description : 
+03/11 LANDSD:<ACK-E>(X) Please transfer this referral to {GEO/CEDD} department. 
+<REF-Remarks:> Additional information to 1823 {GEO/CEDD has confirmed in their email dated 3/11/2022 below that the case is related to their GI contract. The case has been transferred to GEO/CEDD for follow up.} 
+==
+投訴人未能提供斜坡編號，1823同事根據投訴人所提供資料，在SMRIS搜尋到斜坡編號為7SE-A/C 317 & 7SE-A/C 336，個案轉交LandsD部門跟進。
+==
+The government should consider measures to minimise the visual impact of the slope work near 1 wong chunk Yeung street,Fo Tan.
+
+Additional Information:
+[What is the problem of the tree?]
+Other problems (Please specify) (The visual impact from slope work)
+
+[Please indicate the location of the tree.]
+Slope
+
+[Please provide the slope registration number shown on the slope sign]
+Not sure
+
+Reply Needed:		Yes
+
+
+
+Specific Questions and Answers : 
+null
+
+================================================================================
+V. EVENT DETAILS:  
+------------------------
+Event Date & Time : null 
+
+EVENT LOCATION: 
+------------------------
+Room : 
+Floor : 
+Block No. : 
+Building Name : 
+Estate : 
+Street No. : 
+Street Name : 
+District : 
+Region : NT
+Slope No : 
+Lamp Post No : 
+Landmark : 
+Lot No. :
+
+================================================================================
+VI. CONTACT INFORMATION:  
+--------------------------
+The citizen refused to provide contact information to department. Departmental officer is requested to provide a substantive reply (with details) to 1823 for follow-up actions.
+Last Name : 
+First Name : 
+Alt Name : 
+Personal ID : 
+Contact Address :
+Daytime No. : 
+Nighttime No. : 
+Mobile : 
+Alt Tel No. : 
+Fax : 
+Email Address : 
+Preferred Reply Channel: 
+Special Instructions: 
+Case Source : General Public
+Best Call Time : 12:00:00 To 22:00:00
+
+================================================================================
+VII. WRITTEN CONTACT INBOUND DETAILS:  
+---------------------------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-3FCJXYP		2022-11-02 15:33:40	Web - Inbound
+[Detail]
+***************************
+PRIVACY to Dept BUT agree to leave contact to 1823
+***************************
+
+Case Type:		Complaint
+
+Category:		Tree
+
+Name:			********PRIVACY*********
+
+Email:			********PRIVACY*********
+
+Location:
+Sha Tin
+
+Map:			https://www.1823.gov.hk/tc/form/showlocation?x=837761.9578712921&y=828599.8089004594
+
+Details:	
+The government should consider measures to minimise the visual impact of the slope work near 1 wong chunk Yeung street,Fo Tan.
+
+Additional Information:
+[What is the problem of the tree?]
+Other problems (Please specify) (The visual impact from slope work)
+
+[Please indicate the location of the tree.]a
+Slope
+
+[Please provide the slope registration number shown on the slope sign]
+Not sure
+
+Reply Needed:		Yes
+
+Transaction Ref:	WS221102A71847
+
+Transaction Time:	2022-11-02 15:33:36
+
+Tel No.:		********PRIVACY*********
+
+Best Time to Call:	noon-10pm
+
+File upload:		1 file(s)
+
+File List:		364964F3-5641-4BEA-AA8F-78FA2AFF8529.jpeg
+
+
+
+
+
+[No.]	[Id]		[Date/Time]		[Type]
+4	3-3FDOFKS		2022-11-03 17:37:49	Email - Inbound from Department
+[Detail]
+Dear 1823 Duty Manager,
+
+Please see our reply below and the case has been transferred
+to GEO/CEDD for follow up.  Please close the case for SMS.
+
+By copy, would GEO/CEDD please reply 1823 direct on
+this case. 
+
+-- Reply Slip --
+(Note: Pls mark X in () & provide info in {} as appropriate)
+
+To : 1823
+<CASE>: 3-7459151980
+<DEPT>: Lands Department
+<NR>: 3-3FCZIMO
+<REPEATED>: 0
+<IDENTIFIER>: New Case
+<CIUPT>: 3-3FCZIMO
+Staff Name & Post:{}
+Tel/E-mail/Fax:{}
+
+This referral should be made to another party
+A. CASE INCORRECTLY REFERRED
+<ACK-E>(X)
+Please transfer this referral to {GEO/CEDD}
+department.
+<REF-Remarks:> Additional information to 1823
+{GEO/CEDD has confirmed in their
+email dated 3/11/2022 below that the case is related to their GI contract.
+The case has been transferred to GEO/CEDD for follow up.}
+
+Regards,
+Hui
+GE/SM31
+Slope Maintenance Section
+Lands Department
+Tel: 1234 1234
+
+----- Forwarded by Kwai
+CHAN TAI MAN/LAO/LANDSD/HKSARG on 03/11/2022 15:37 -----
+
+From:      
+CHAN TAI MAN/CEDD/HKSARG@CEDD
+To:      
+CHAN TAI MAN/LAO/LANDSD/HKSARG@LANDSD
+Cc:      
+CHAN TAI MAN/LAO/LANDSD/HKSARG@LANDSD,
+CHAN TAI MAN/LAO/LANDSD/HKSARG@LANDSD
+Date:      
+ 03/11/2022 15:27
+Subject:    
+   Re: Fw: CASE#3-7459151980
+New Complaint - WS221102A71847 Issue r...
+
+[No.]	[Id]		[Date/Time]		[Type]
+5	3-3FDRTTP		2022-11-03 19:31:02	Email - Inbound
+[Detail]
+Hello
+
+I suggest you also refer the case to CEDD.
+
+**Privacy **
+
+On Thu, 3 Nov 2022 at 10:13, <tellme@1823.gov.hk> wrote:
+
+03/11/2022
+
+**Privacy **
+
+Subject: WS221102A71847 Issue related to minimise the visual impact of the slope work near 1 wong chunk Yeung street,Fo Tan (Case Ref: 3-7459151980)
+
+Thank you for your electronic form to 1823 dated 02/11/2022.
+
+For the issue related to the slope work, we have referred your electronic form to the Lands Department.  You will be informed of the outcome as soon as possible.
+
+If you have any enquiries, please contact us.
+
+Best regards,
+chunGChung
+Customer Service Officer
+1823
+
+Tel: 1823
+Fax: 1234 1234
+Email: tellme@1823.gov.hk
+SMS: 1234 1234 (For sending and receiving SMS only)
+
+Service Disclaimer: www.1823.gov.hk/en/di.shtm
+
+
+
+[No.]	[Id]		[Date/Time]		[Type]
+8	3-3FFQ7VJ		2022-11-07 09:24:23	Email - Inbound from Department
+[Detail]
+Dear 1823 Officer,
+
+Please find below the
+reply slip of our substantive reply.
+Please note that the
+case should be reclassified as an Enquiry. 
+Thanks.
+-- Reply Slip
+--
+(Note: Pls mark
+X in () & provide info in {} as appropriate)
+
+To : 1823
+<CASE>:
+3-7459151980
+<DEPT>:
+Civil Engineering and Development Department
+<NR>: 3-3FEE6TL
+<REPEATED>:
+0
+<IDENTIFIER>:
+New Case
+<CIUPT>:
+3-3FEE6TL
+Staff Name &
+Post:{Rex
+WWONG, GE/CM51}
+Tel/E-mail/Fax:{2762
+5436 / wwwwong@cedd.gov.hk/ 2711 5726}
+D.SUBSTANTIVE
+REPLY (Case Completed) 
+FURTHER
+ACTION IS REQUIRED BY 1823
+1823
+need to convey the reply to citizen on behalf of this department
+<SUB-H>(X)
+No further assignment and no other issue is required for 1823 to follow
+up.  BUT 1823 please convey the following substantive reply to citizen
+on behalf of this department: REPLY DETAILS {Ground
+investigation works are being carried out at the concerned location to
+retrieve ground information for the design of landslip prevention and mitigation
+works.  The ground investigation works would be completed in late
+December and the access ladder on the slope would be removed.  Measures
+to minimise the visual impact of the slope would be considered in the design
+of the landslip prevention and mitigation works.
+
+Should
+you have any further ...
+
+[No.]	[Id]		[Date/Time]		[Type]
+10	3-3FHL1GL		2022-11-08 17:47:09	Email - Inbound
+[Detail]
+
+Hello,
+
+Would CEDD consider some work to mitigate the visual impact of the bare concrete?  Some 
+climbing plant around the slope be planted?   Or, construct some areas for trees to cover the 
+concrete?
+
+PRIVACY
+ 
+Subject: WS221102A71847 Issue related to minimise the visual impact of the slope work near 1 
+wong chunk Yeung street,Fo Tan (Case Ref: 3-7459151980) 
+ 
+Regarding your case dated 02/11/2022, the reply of the Civil Engineering and Development 
+Department is as follows – 
+ 
+"Ground investigation works are being carried out at the concerned location to retrieve ground 
+information for the design of landslip prevention and mitigation works.  The ground 
+investigation works would be completed in late December and the access ladder on the slope 
+would be removed.  Measures to minimise the visual impact of the slope would be considered 
+in the design of the landslip prevention and mitigation works.  
+ 
+Should you have any further queries, please contact Mr. WWW Wong at 1234 1234." 
+ 
+If you have any enquiries, please contact us. 
+ 
+Best regards, 
+Shum 
+Customer Service Officer 
+1823 
+ 
+Tel: 1823 
+Fax: 1234 1234 
+Email: tellme@1823.gov.hk 
+SMS: 1234 1234 (For sending and receiving SMS only) 
+ 
+The newly designed “Tell me@1823” has been launched. You can submit cases immediately by 
+using simple forms. You can also check the replies from departments and case history directly. 
+Details can be found at 1823 Online (https://www.1823.gov.hk/en/mobile-app). 
+Service Disc
+

@@ -1,0 +1,173 @@
+﻿1823 CASE: 3-8197586348
+DEPT REF: 
+Request Type : Complaint
+Channel : Mobile
+Case Creation Date : 2024-04-29 15:23:24
+
+================================================================================
+
+I. DUE DATE: 
+-------------
+Acknowledgement : 2024-05-03 14:03:01
+Interim Reply : 2024-05-06 15:33:01
+Final Reply : 2024-05-13 15:33:01
+
+================================================================================
+II. ASSIGNMENT HISTORY: 
+--------------------------
+[Date/Time]		[Status]	[Dept]	[Assigned To]
+2024-04-29 15:23:37	Open		CEDD	CTO (G)
+
+================================================================================
+III. CONTACT HISTORY: 
+---------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-3RKL0SY		2024-04-29 15:21:37	Apps - Inbound
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+2	3-3RKJWZT		2024-04-29 15:30:57	Call - Outbound
+[Detail]
+(copied from 3-8197274595)
+Reply To Caller
+致電投訴人確認樹木及斜坡狀況。
+投訴人表示現時樹木依然在圖片所述加油站内，曾向FEHD要求協助但表示太大的話無法清理，而如圖片所見旁邊有CEDD工程，亦已嘗試向工程人員尋求協助，但因近幾天都沒有人來，所以亦需要先向部門求助。
+
+然而斜坡狀況樹洞位置有機會有大石掉下，恐怕會傷到途人。已向投訴人表示如果有緊急狀況的話則致電999向警方求助，投訴人明白，但亦要求部門跟進及回覆。
+
+
+================================================================================
+IV. CASE DETAILS: 
+--------------------------
+Direct Reply By Department: N
+Subject Matter : 斜坡事項 - 土木工程拓展署
+Description : 
+另有個案跟進塌樹: 3-8197274595
+==
+前檔案編號：24010564
+
+Additional Information:
+[請問是什麼樹木問題？]
+樹木／樹枝已經塌下
+
+[有否造成嚴重阻礙或其他危險？]
+阻礙行人路、行車路、鄉村路或私家路
+
+[樹木是否在行車路壆10米距離內（大概一架巴士長度）生長?]
+是
+
+Reply Needed:		Yes
+
+
+Specific Questions and Answers : 
+1) 可否提供斜坡牌上所載的斜坡編號及政府部門?
+Ans: 請註明
+Remark: 
+
+2) 請問斜坡發生了什事故?
+Ans: 其他 (請詳述)
+Remark: 
+
+5) 斜坡是否正在進行工程？
+Ans: 是
+Remark: 
+
+6) 維修後，是否需要我們通知您？
+Ans: 需要
+Remark: 
+
+7) 如果有需要將你的投訴轉介給有關的工程顧問或承建商跟進，你是否願意將你的姓氏、聯絡方法等個人資料轉介給工程顧問或承建商，讓他們可以直接回覆您？
+Ans: 願意
+Remark: 
+
+<ENDS of Specific Question>
+
+================================================================================
+V. EVENT DETAILS:  
+------------------------
+Event Date & Time : null 
+
+EVENT LOCATION: 
+------------------------
+Room : 
+Floor : 
+Block No. : 
+Building Name : 
+Estate : 
+Street No. : 
+Street Name : 
+District : 
+Region : NT
+Slope No : 
+Lamp Post No : 
+Landmark : 
+Lot No. :
+
+================================================================================
+VI. CONTACT INFORMATION:  
+--------------------------
+Last Name : Mr. XXX
+First Name : (清水灣道加油站)
+Alt Name : 
+Personal ID : 
+Contact Address : 
+Daytime No. : 12345678
+Nighttime No. : 12345678
+Mobile : 
+Alt Tel No. : 
+Fax : 
+Email Address : AAAAA@gmail.com
+Preferred Reply Channel: Apps
+Special Instructions: 
+Case Source : General Public
+Best Call Time : 12:00:00 To 18:00:00
+
+================================================================================
+VII. WRITTEN CONTACT INBOUND DETAILS:  
+---------------------------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-3RKL0SY		2024-04-29 15:21:37	Apps - Inbound
+[Detail]
+Case Type:		Complaint
+
+Category:		樹木問題 
+
+Name:			XXX
+
+Email:			*****
+
+Location:
+埃索-清水灣道加油站 清水灣道（近安達臣道）
+
+Map:			https://www.1823.gov.hk/tc/form/showlocation?x=841732.88091632&y=821748.1886139
+
+Details:	
+前檔案編號：24010564
+
+Additional Information:
+[請問是什麼樹木問題？]
+樹木／樹枝已經塌下
+
+[有否造成嚴重阻礙或其他危險？]
+阻礙行人路、行車路、鄉村路或私家路
+
+[樹木是否在行車路壆10米距離內（大概一架巴士長度）生長?]
+是
+
+Reply Needed:		Yes
+
+Transaction Ref:	APS240426A29525
+
+Transaction Time:	2024-04-26 13:03:03
+
+Tel No.:	        *****
+
+Best Time to Call:	noon-6pm
+
+File upload:		4 file(s)
+
+File List:		D794A8A8-DC87-4D8B-B96E-C53BFD10EBE3.jpg (榻樹後留下鬆散石頭在20尺高以上), DD806269-5101-464F-A747-2C39973FCB8F.jpg, D0FAAE09-9D82-47A7-A212-E3259B458308.jpg, F21EC6E7-6348-4D64-9A77-1DE4F0018076.jpg
+
+
+

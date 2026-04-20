@@ -1,0 +1,322 @@
+﻿1823 CASE: 3-7900220298
+DEPT REF: 
+Request Type : Complaint
+Channel : Mobile
+Case Creation Date : 2023-09-17 17:47:49
+
+================================================================================
+
+I. DUE DATE: 
+-------------
+Acknowledgement : 2023-10-04 09:08:19
+Interim Reply : 2023-10-05 10:00:38
+Final Reply : 2023-10-12 10:00:38
+
+================================================================================
+II. ASSIGNMENT HISTORY: 
+--------------------------
+[Date/Time]		[Status]	[Dept]	[Assigned To]
+2023-09-17 17:47:52	Misassigned	LANDSD	LANDSD Complaint
+2023-09-28 09:59:58	Cancelled	CEDD	Enquiry_CEDD
+2023-09-28 10:38:17	Open		CEDD	CTO (G)
+
+================================================================================
+III. CONTACT HISTORY: 
+---------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-3MLOVAP		2023-09-15 08:17:02	Apps - Inbound
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+2	3-3MNL51H		2023-09-17 17:54:06	Apps - Outbound
+[Detail]
+黄先生:
+
+主旨: APS230915A56024 飛霞路尾進入山邊斜坡位置(明華園後方)被人放置大量鐵架及有人進行不知名工程 (檔案編號：3-7900220298)
+
+謝謝你於2023年09月15日的電子表格。
+
+就題述事宜，我們已將你的函件轉交地政總署的相關組別跟進。一旦有結果，你將會收到通知。
+
+如果你對此回覆有任何查詢，歡迎聯絡我們。
+
+
+1823
+客戶服務主任
+林謹覆  
+2023年09月17日
+
+電話: 1823
+傳真: 1234 1234
+電郵: tellme@1823.gov.hk
+短訊﹕1234 1234(只供發送及接收短訊之用)
+
+服務聲明: www.1823.gov.hk/tc/di.shtm
+
+
+
+
+
+
+[No.]	[Id]		[Date/Time]		[Type]
+3	3-3MP4OKY		2023-09-19 09:34:30	Email - Inbound from Department
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+4	3-3MXXBPA		2023-09-27 19:11:30	Email - Inbound from Department
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+5	3-3MY7BCS		2023-09-28 10:01:26	Email - Outbound
+[Detail]
+黄先生:
+
+主旨: APS230915A56024 飛霞路尾進入山邊斜坡位置(明華園後方)被人放置大量鐵架及有人進行不知名工程  (檔案編號：3-7900220298)
+
+地政總署已就題述事宜作出審視，並表示相關事項應由土木工程拓展署處理。我們已將你的個案轉介土木工程拓展署跟進。一旦有結果，你將會收到通知。
+
+
+如果你對此回覆有任何查詢，歡迎聯絡我們。
+
+1823
+客戶服務主任
+陳謹覆  
+2023年09月28日
+
+電話: 1823
+傳真: 1234 1234
+電郵: tellme@1823.gov.hk
+短訊﹕1234 1234 (只供發送及接收短訊之用)
+
+服務聲明: www.1823.gov.hk/tc/shtm
+
+
+
+
+
+
+
+[No.]	[Id]		[Date/Time]		[Type]
+6	3-3MY7BCW		2023-09-28 10:03:36	Apps - Outbound
+[Detail]
+黄先生:
+
+主旨: APS230915A56024 飛霞路尾進入山邊斜坡位置(明華園後方)被人放置大量鐵架及有人進行不知名工程  (檔案編號：3-7900220298)
+
+地政總署已就題述事宜作出審視，並表示相關事項應由土木工程拓展署處理。我們已將你的個案轉介土木工程拓展署跟進。一旦有結果，你將會收到通知。
+
+
+如果你對此回覆有任何查詢，歡迎聯絡我們。
+
+1823
+客戶服務主任
+陳謹覆  
+2023年09月28日
+
+電話: 1823
+傳真: 1234 1234
+電郵: tellme@1823.gov.hk
+短訊﹕12341234 (只供發送及接收短訊之用)
+
+服務聲明: www.1823.gov.hk/tc/di.shtm
+
+
+
+
+
+
+
+[No.]	[Id]		[Date/Time]		[Type]
+7	3-3MY9KNP		2023-09-28 10:38:13	Web Update from Department
+[Detail]
+Reassignment Option :  Please re-assign to the following officer:CTO (G)/CEDD of this department:CEDD GEO
+
+
+================================================================================
+IV. CASE DETAILS: 
+--------------------------
+Direct Reply By Department: N
+Subject Matter : 土木工程拓展署一般資訊
+Description : 
+25/09 LANDSD:<ACK-E>(x) Please transfer this referral to {CEDD} department.
+<REF-Remarks:> Additional information to 1823 {Please be advised that the concerned area mainly falls within STLA No. GLA-TSK 4066 which has been allocated to CEDD. As such, please refer the case to them for follow up action.}
+==
+該斜坡位置
+出現大量鐵架
+及有人進行不知名工程
+
+Additional Information:
+Reply Needed:		Yes
+
+
+Specific Questions and Answers : 
+1) 如果有需要將你的投訴轉介給負責有關工程的工程顧問或承建商跟進，你是否願意將你的姓氏、聯絡方法等個人資料轉介給工程顧問或承建商，讓他們可以直接回覆您？
+Ans: 願意
+Remark: 
+
+98) 個案處理後，是否需要我們回覆您？
+Ans: 需要
+Remark: 
+
+<ENDS of Specific Question>
+
+================================================================================
+V. EVENT DETAILS:  
+------------------------
+Event Date & Time : null 
+
+EVENT LOCATION: 
+------------------------
+Room : 
+Floor : 
+Block No. : 
+Building Name : 
+Estate : 
+Street No. : 
+Street Name : 飛霞路
+District : 
+Region : NT
+Slope No : 
+Lamp Post No : 
+Landmark : 
+Lot No. :
+
+================================================================================
+VI. CONTACT INFORMATION:  
+--------------------------
+Last Name : Mr. chan
+First Name : .
+Alt Name : 
+Personal ID : 
+Contact Address : 
+Daytime No. : 
+Nighttime No. : 
+Mobile : 12345678
+Alt Tel No. : 
+Fax : 
+Email Address : yaufatwong.wong@gmail.com
+Preferred Reply Channel: Apps
+Special Instructions: 
+Case Source : General Public
+Best Call Time : 12:00:00 To 18:00:00
+
+================================================================================
+VII. WRITTEN CONTACT INBOUND DETAILS:  
+---------------------------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-3MLOVAP		2023-09-15 08:17:02	Apps - Inbound
+[Detail]
+Case Type:		Complaint
+
+Category:		其他 
+
+Name:			chan
+
+Email:			*****
+
+Location:
+飛霞路 
+
+Map:			https://www.1823.gov.hk/tc/form/showlocation?x=841619.5829831&y=821819.0745688
+
+Location Additional Information:
+飛霞路尾
+進入山邊斜坡位置
+
+Details:	
+該斜坡位置
+出現大量鐵架
+及有人進行不知名工程
+
+Additional Information:
+Reply Needed:		Yes
+
+Transaction Ref:	APS230915A56024
+
+Transaction Time:	2023-09-15 08:16:47
+
+Tel No.:	        *****
+
+Best Time to Call:	noon-6pm
+
+File upload:		3 file(s)
+
+File List:		040a1fca-4513-439e-a4e5-26fef78f45c3.JPEG, 473d71b0-4f4a-4d1e-a95a-286f179a1c29.JPEG, e19ba388-e6ee-45c4-9a49-107791fe78c4.JPEG
+
+
+
+[No.]	[Id]		[Date/Time]		[Type]
+3	3-3MP4OKY		2023-09-19 09:34:30	Email - Inbound from Department
+[Detail]
+Dear District/Section
+Complaints Liaison Officer,
+
+I forward the captioned case referred from 1823 Call Centre (1823) with
+case details contained in the attached file.   Grateful if you would
+arrange to pass this case to the subject officer and ask him/her to make
+a timely direct reply to the complainant/enquirer or 1823,
+where appropriate.
+
+In case there is a need to bring this case to DL's personal attention,
+respective Section Head should alert DL direct as soon as possible.
+
+By copy of this mail, would 1823 Call Centre Duty Manager please
+note that your email below has been referred to District Lands Office/Sai
+Kung for investigation and follow-up action.  Should you have
+any enquiry on the progress, you may contact Mr. CHAN TAI MAN at Tel. No. 1234 1233 during office hours.
+
+Regards,
+LAI
+for Senior Land Surveyor/IT
+
+This e-mail message (together with any
+attachments) is for the designated recipient only.  It may contain
+information that is privileged.  If you are not the intended recipient,
+you are hereby notified that any use , retention, disclosure, copying,
+printing, forwarding or dissemination of the message is strictly prohibited.
+ If you have received the message in error, please erase all copies
+of the message (including attachments) from your system a...
+
+[No.]	[Id]		[Date/Time]		[Type]
+4	3-3MXXBPA		2023-09-27 19:11:30	Email - Inbound from Department
+[Detail]
+Dear Sir, 
+
+Staff Name
+& Post:{LE/A(1)
+WONG}
+Tel/E-mail/Fax:{leska1@landsd.gov.hk}
+
+This referral
+should be made to another party
+A. CASE INCORRECTLY REFERRED
+<ACK-A>() This referral was transferred to {} of this department
+on {} and the citizen was notified on {}
+<ACK-B>() This referral was transferred to {} Department/Bureau on
+{} and caller/sender was notified on {}
+<ACK-C>() This referral was transferred to {} Department/Bureau on
+{} and 1823 please inform caller/sender.
+<ACK-D>() Please transfer this referral to {} of this department.
+<ACK-E>(x) Please transfer this referral to {CEDD}
+department.
+<REF-Remarks:> Additional information to 1823 {Please
+be advised that the concerned area mainly falls within STLA No. GLA-TSK
+4066 which has been allocated to CEDD. As such, please refer the case to
+them for follow up action.}
+
+Best Regards,
+WONG
+LE/A(1), DLO/SK
+Lands Department
+Telephone Number: 1234 1234
+Fax Number: 1234 1234
+This message and
+any attachment is intended for the addressee only.  It may contain
+information which is confidential and/ or legally privileged.  You
+are hereby notified that no unauthorised disclosure or use of this message
+is permitted.  If you have received this message by mistake, please
+notify us immediately and delete or destroy this mes...
+

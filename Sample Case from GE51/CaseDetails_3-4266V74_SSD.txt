@@ -1,0 +1,101 @@
+﻿1823 CASE: 3-8838332433
+DEPT REF: 
+Request Type : Enquiry
+Channel : Phone
+Case Creation Date : 2025-07-23 16:01:50
+
+================================================================================
+
+I. DUE DATE: 
+-------------
+Re-assignment : 
+Extend Re-assignment : 
+Acknowledgement : 2025-07-28 14:53:20
+Interim Reply : 2025-08-02 00:00:00
+Final Reply : 2025-08-13 00:00:00
+
+2nd DUE DATE: 
+--------------------
+Acknowledgement : 2026-07-23 00:00:00
+Interim Reply : 
+Final Reply : 2025-09-12 00:00:00
+
+================================================================================
+II. ASSIGNMENT HISTORY: 
+--------------------------
+[Date/Time]		[Status]	[Dept]	[Assigned To]
+2025-07-23 16:02:14	Cancelled	CEDD	Enquiry_CEDD
+2025-07-23 16:23:19	Open		CEDD	CTO (G)
+
+================================================================================
+III. CONTACT HISTORY: 
+---------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-425ZR25		2025-07-23 16:00:30	Call - Inbound
+[Detail]
+查詢人查詢關於香港重力型擋土牆詳情，向土力工程署查詢在香港一般重力型擋土牆（graffiti retaining wall）在幾多米以下，要求部門跟進及回覆。
+
+
+[No.]	[Id]		[Date/Time]		[Type]
+2	3-4266RE0		2025-07-23 16:23:17	Web Update from Department
+[Detail]
+Reassignment Option :  Please re-assign to the following officer:CTO (G)/CEDD of this department:CEDD GEO
+
+
+================================================================================
+IV. CASE DETAILS: 
+--------------------------
+Direct Reply By Department: N
+Subject Matter : 土木工程拓展署一般資訊
+Description : 
+查詢人查詢關於香港重力型擋土牆詳情，向土力工程署查詢在香港一般重力型擋土牆（graffiti retaining wall）在幾多米以下，要求部門跟進及回覆。
+
+
+
+
+Specific Questions and Answers : 
+null
+
+================================================================================
+V. EVENT DETAILS:  
+------------------------
+Event Date & Time : 2025-07-23 
+
+EVENT LOCATION: 
+------------------------
+Room : 
+Floor : 
+Block No. : 
+Building Name : 
+Estate : 
+Street No. : 
+Street Name : 
+District : 
+Region : 
+Slope No : 
+Lamp Post No : 
+Landmark : 
+Lot No. :
+
+================================================================================
+VI. CONTACT INFORMATION:  
+--------------------------
+Last Name : Mr. CHAN TAI MAN
+First Name :
+Alt Name : 
+Personal ID : 
+Contact Address : 
+Daytime No. : 
+Nighttime No. : 
+Mobile : 12345678
+Alt Tel No. : 
+Fax : 
+Email Address : 
+Preferred Reply Channel: 
+Special Instructions: 
+Case Source : General Public
+Best Call Time : 00:00:00 To 23:59:59
+
+================================================================================
+VII. WRITTEN CONTACT INBOUND DETAILS:  
+---------------------------------------------

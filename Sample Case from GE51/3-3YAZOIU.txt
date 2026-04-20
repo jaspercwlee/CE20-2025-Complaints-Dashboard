@@ -1,0 +1,218 @@
+﻿1823 CASE: 3-8597412107
+DEPT REF: 
+Request Type : Complaint
+Channel : Web
+Case Creation Date : 2025-01-30 13:16:53
+
+================================================================================
+
+I. DUE DATE: 
+-------------
+Re-assignment : 2025-02-17 15:08:44
+Extend Re-assignment : 
+Acknowledgement : 2025-02-11 16:14:44
+Interim Reply : 2025-02-13 15:08:44
+Final Reply : 2025-02-20 15:08:44
+
+================================================================================
+II. ASSIGNMENT HISTORY: 
+--------------------------
+[Date/Time]		[Status]	[Dept]	[Assigned To]
+2025-01-30 13:16:57	Misassigned	LANDSD	STO(G)/2
+2025-02-06 15:08:21	Cancelled	CEDD	Enquiry_CEDD
+2025-02-06 16:14:43	Open		CEDD	CTO (G)
+
+================================================================================
+III. CONTACT HISTORY: 
+---------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-3Y6N45X		2025-01-30 11:19:39	Web - Inbound
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+2	3-3Y7M7Y5		2025-02-03 09:27:59	Web Update from Department
+[Detail]
+This case is assigned to Action Officer LANDGE13
+
+[No.]	[Id]		[Date/Time]		[Type]
+3	3-3Y7PGHU		2025-02-03 10:15:47	Web Update from Department
+[Detail]
+I acknowledge receipt of this case and follow up will be taken.
+
+[No.]	[Id]		[Date/Time]		[Type]
+4	3-3YAWEVB		2025-02-06 14:59:47	Web Update from Department
+[Detail]
+freetext
+==
+LandsD mis CEDD
+==
+1823 please assign the case to below Department/Bureau for further assignment :GEO, CEDD
+1823 please reply citizen with the following Substantive Reply
+Comments : 地政總署斜坡維修組根據1823提供的樹木位置(斜坡編號11SE-B/C651之上)及本組記錄，發現土木工程拓展署(土拓署)剛為該斜坡進行防治山泥傾瀉工程，並正處於保養期(包括樹木)。就此，本組已要求1823把個案轉介至土拓署跟進。
+1823 was requested for other follow up action :Please refer the case to GE/CM51 of GEO, CEDD for actions.  Based on the location provided by 1823, the tree concerned falls within feature No. 11SE-B/C651 which CEDD had carried out upgrading works and not yet handed back to LandsD.  GE/CM51 agreed to take up the case via email dated 5.2.2025 (attached for 1823 reference only).
+
+[No.]	[Id]		[Date/Time]		[Type]
+5	3-3YAZOHU		2025-02-06 16:14:40	Web Update from Department
+[Detail]
+Reassignment Option :  Please re-assign to the following officer:CTO (G)/CEDD of this department:CEDD GEO
+
+
+================================================================================
+IV. CASE DETAILS: 
+--------------------------
+Direct Reply By Department: N
+Subject Matter : 樹木 - CEDD
+Description : 
+06/02 LandsD:
+1823 please assign the case to below Department/Bureau for further assignment :GEO, CEDD
+1823 please reply citizen with the following Substantive Reply
+Comments : 地政總署斜坡維修組根據1823提供的樹木位置(斜坡編號11SE-B/C651之上)及本組記錄，發現土木工程拓展署(土拓署)剛為該斜坡進行防治山泥傾瀉工程，並正處於保養期(包括樹木)。就此，本組已要求1823把個案轉介至土拓署跟進。
+1823 was requested for other follow up action :Please refer the case to GE/CM51 of GEO, CEDD for actions.  Based on the location provided by 1823, the tree concerned falls within feature No. 11SE-B/C651 which CEDD had carried out upgrading works and not yet handed back to LandsD.  GE/CM51 agreed to take up the case via email dated 5.2.2025 (attached for 1823 reference only).
+==
+查詢人/投訴人未能提供斜坡編號，1823同事根據查詢人/投訴人所提供資料，在SMRIS搜尋到斜坡編號為11SE-B/C651，個案轉交LANDSD部門跟進。
+==
+Additional Information:
+[請問是什麼樹木問題？]
+其他問題（請註明） (鯉魚門泉源道東大樹樹冠過大, 怕打風時折斷倒下, 需要修剪)
+
+[請說明樹木的位置]
+斜坡上
+
+[請提供斜坡牌上顯示的斜坡登記號碼]
+不知道
+
+Reply Needed:
+
+
+Specific Questions and Answers : 
+1) 是否警察╱消防報告？
+Ans: 不是
+Remark: 
+
+2) 請問是什麼樹木問題？
+Ans: 其他問題（請註明）
+Remark: 鯉魚門泉源道東大樹樹冠過大, 怕打風時折斷倒下, 需要修剪
+
+6.1) (請同事自行回答,不用向投訴人查詢) 來電者提出該樹木有即時危險?
+Ans: 沒有提及
+Remark: 
+
+7) 請說明樹木的大約高度及樹幹直徑。
+Ans: 不知道
+Remark: 
+
+8) 請說明樹木的位置。
+Ans: 如在斜坡上，可詢問斜坡登記號碼
+Remark: 11SE-B/C651
+
+11.9) 可以提供印在樹木標籤上的樹木編號嗎？
+Ans: 不可以
+Remark: 
+
+12) 可以提供現場╱樹木的照片和定位圖 ╱ 二維碼的連結嗎？
+Ans: 不可以
+Remark: 
+
+13) 部門跟進個案後，要給你回覆嗎？
+Ans: 要回覆
+Remark: 
+
+14) 如果有需要將你的投訴轉介給負責有關工程的工程顧問或承建商跟進，你是否願意將你的姓氏、聯絡方法等個人資料轉介給工程顧問或承建商，讓他們可以直接回覆您？
+Ans: 不願意
+Remark: 
+
+<ENDS of Specific Question>
+
+================================================================================
+V. EVENT DETAILS:  
+------------------------
+Event Date & Time : null 
+
+EVENT LOCATION: 
+------------------------
+Room : 
+Floor : 
+Block No. : 
+Building Name : 
+Estate : 
+Street No. : 
+Street Name : 
+District : 
+Region : KL
+Slope No : 
+Lamp Post No : 
+Landmark : 
+Lot No. :
+
+================================================================================
+VI. CONTACT INFORMATION:  
+--------------------------
+The citizen refused to leave contact information. Departmental officer is requested to provide a substantive reply (with details) to 1823 for follow-up actions.
+Last Name : 
+First Name : 
+Alt Name : 
+Personal ID : 
+Contact Address :
+Daytime No. : 
+Nighttime No. : 
+Mobile : 
+Alt Tel No. : 
+Fax : 
+Email Address : 
+Preferred Reply Channel: 
+Special Instructions: 
+Case Source : General Public
+Best Call Time : 00:00:00 To 23:59:59
+
+================================================================================
+VII. WRITTEN CONTACT INBOUND DETAILS:  
+---------------------------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-3Y6N45X		2025-01-30 11:19:39	Web - Inbound
+[Detail]
+Case Type:		Complaint
+
+Category:		樹木
+
+
+Have submitted case:	No
+
+Relevant File Number:	
+
+Name:			
+
+Email:			
+
+Location:
+觀塘
+
+Map:			https://www.1823.gov.hk/tc/form/showlocation?x=842724.3030263394&y=816948.5150713094
+
+Details:	
+
+
+Additional Information:
+[請問是什麼樹木問題？]
+其他問題（請註明） (鯉魚門泉源道東大樹樹冠過大, 怕打風時折斷倒下, 需要修剪)
+
+[請說明樹木的位置]
+斜坡上
+
+[請提供斜坡牌上顯示的斜坡登記號碼]
+不知道
+
+Reply Needed:		
+
+Transaction Ref:	WS250128A50689
+
+Transaction Time:	2025-01-28 14:32:58
+
+Tel No.:			
+
+Best Time to Call:	none
+
+File upload:		No
+
+
+

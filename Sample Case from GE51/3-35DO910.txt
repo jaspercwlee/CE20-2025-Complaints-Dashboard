@@ -1,0 +1,257 @@
+﻿1823 CASE: 3-6852644990
+DEPT REF: 
+Request Type : Complaint
+Channel : Mobile
+Case Creation Date : 2021-08-17 09:11:52
+
+================================================================================
+
+I. DUE DATE: 
+-------------
+Acknowledgement : 2021-08-23 15:07:27
+Interim Reply : 2021-08-25 14:26:28
+Final Reply : 2021-09-01 14:26:28
+
+================================================================================
+II. ASSIGNMENT HISTORY: 
+--------------------------
+[Date/Time]		[Status]	[Dept]	[Assigned To]
+2021-08-17 09:12:00	Cancelled	LCSD	COi/c(SK)
+2021-08-17 09:40:33	Misassigned	LCSD	ALMI(T)NTE2
+2021-08-18 14:24:58	Cancelled	CEDD	Enquiry_CEDD
+2021-08-18 15:07:23	Open		CEDD	CTO (G)
+
+================================================================================
+III. CONTACT HISTORY: 
+---------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-358YLIQ		2021-08-12 15:06:19	Apps - Inbound
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+2	3-35C3T96		2021-08-17 09:19:05	Email - Outbound
+[Detail]
+梁子健君:
+
+主旨:CEU00012108121303949KQ 清水灣道近燈柱N8676下雨後有樹塌下 (檔案編號：3-6852644990)
+
+謝謝你於2021年08月12日給1823的電子表格。
+
+就樹木事宜，我們已將你的電子表格轉交康樂及文化事務署跟進，並會盡快將跟進結果回覆你。
+
+如有任何查詢，歡迎與我們的職員聯絡。
+
+1823
+客戶服務主任
+xxxxx謹覆  
+2021年08月17日
+
+電話: 1823
+傳真: 2760 1823
+電郵: tellme@1823.gov.hk
+
+服務聲明: www.1823.gov.hk/di.shtm
+因應2019冠狀病毒病疫情的最新情況，1823現時優先處理與疫情及環境衛生有關的來電，其他來電及經文字渠道提交的查詢及投訴輪候/處理時間可能會較長。
+ 
+
+
+
+
+
+
+[No.]	[Id]		[Date/Time]		[Type]
+3	3-35C57J1		2021-08-17 09:40:25	Web Update from Department
+[Detail]
+Reassignment Option :  Please re-assign to the following officer:ALMI(TREE)NTE2 of this department:LS - Division 3
+CC party : OATNTE
+Reassignment Reason:Under TT(NTE)
+
+[No.]	[Id]		[Date/Time]		[Type]
+4	3-35C9EGW		2021-08-17 10:50:24	Web Update from Department
+[Detail]
+I acknowledge receipt of this case and follow up will be taken.
+
+[No.]	[Id]		[Date/Time]		[Type]
+5	3-35CFE4Q		2021-08-17 12:33:04	Web Update from Department
+[Detail]
+LCSD misassign, checked in GIH, tree fall within GLA-TSK 4066, assign to CEDD
+==
+Reassignment Option :  1823 please re-assign to department LandsD
+Reassignment Reason:The trees in question was situated on UUGL exceeding 10 m from the kerb of public road maintained by HyD.  As such, I should be grateful if you would reassign the case to the Special Duties Task Force of LandsD to look into the case.  Thank you.
+
+[No.]	[Id]		[Date/Time]		[Type]
+6	3-35DM4IK		2021-08-18 14:26:54	Email - Outbound
+[Detail]
+梁子健君:
+
+主旨:CEU00012108121303949KQ 清水灣道近燈柱N8676下雨後有樹塌下  (檔案編號：3-6852644990)
+
+康樂及文化事務署已就清水灣道近燈柱N8676下雨後有樹塌下事宜作出審視，並回覆不屬其跟進範圍。 1823檢視個案後，已將樹木事宜轉介土木工程拓展署跟進。當有跟進結果，會盡快回覆你。
+
+如有任何查詢，歡迎與我們的職員聯絡。
+
+1823
+客戶服務主任
+xxxx謹覆  
+2021年08月18日
+
+電話: 1823
+傳真: 2760 1823
+電郵: tellme@1823.gov.hk
+
+服務聲明: www.1823.gov.hk/di.shtm
+因應2019冠狀病毒病疫情的最新情況，1823現時優先處理與疫情及環境衛生有關的來電，其他來電及經文字渠道提交的查詢及投訴輪候/處理時間可能會較長。
+
+
+
+
+
+[No.]	[Id]		[Date/Time]		[Type]
+7	3-35DO5RU		2021-08-18 15:07:13	Web Update from Department
+[Detail]
+Reassignment Option :  Please re-assign to the following officer:CTO (G)/CEDD of this department:CEDD GEO
+
+
+================================================================================
+IV. CASE DETAILS: 
+--------------------------
+Direct Reply By Department: N
+Subject Matter : 樹木 - CEDD
+Description : 
+CEDD please follow if tree fall within GLA-TSK 4066
+
+16/08 LCSD
+Reassignment Option :  1823 please re-assign to department LandsD
+Reassignment Reason:The trees in question was situated on UUGL exceeding 10 m from the kerb of public road maintained by HyD.  As such, I should be grateful if you would reassign the case to the Special Duties Task Force of LandsD to look into the case.  Thank you.
+==
+下雨後有樹榻下
+[Location information: Latitude=22.334746,Longitude=114.229991,Address=清水灣道, 清水灣]
+
+
+Specific Questions and Answers : 
+1) 是否警察╱消防報告？
+Ans: 不是
+Remark: 
+
+2) 樹木已經倒塌嗎？
+Ans: 是
+Remark: 
+
+3) 塌樹是否造成人命傷亡?
+Ans: 不是
+Remark: 
+
+3.1) 塌樹是否造成財物損毀?
+Ans: 不是
+Remark: 
+
+4) 倒塌的樹幹或樹枝有造成嚴重阻礙或其他危險？
+Ans: 沒有
+Remark: 
+
+7) 請說明樹木的大約高度及樹幹直徑。
+Ans: 不知道
+Remark: 
+
+8) 請說明樹木的位置。
+Ans: 其他
+Remark: 
+
+9) 樹木位置距離行人路與行車路分界線約一架巴士長度(約10米)範圍內?
+Ans: 是
+Remark: 
+
+12) 可以提供現場╱樹木編號╱樹木的照片和定位圖嗎？
+Ans: 可以
+Remark: 
+
+13) 部門跟進個案後，要給你回覆嗎？
+Ans: 要回覆
+Remark: 
+
+14) 如果有需要將你的投訴轉介給負責有關工程的工程顧問或承建商跟進，你是否願意將你的姓氏、聯絡方法等個人資料轉介給工程顧問或承建商，讓他們可以直接回覆您？
+Ans: 願意
+Remark: 
+
+<ENDS of Specific Question>
+
+================================================================================
+V. EVENT DETAILS:  
+------------------------
+Event Date & Time : null 
+
+EVENT LOCATION: 
+------------------------
+Room : 
+Floor : 
+Block No. : 
+Building Name : 
+Estate : 
+Street No. : 
+Street Name : 
+District : 
+Region : NT
+Slope No : 
+Lamp Post No : 
+Landmark : 
+Lot No. :
+
+================================================================================
+VI. CONTACT INFORMATION:  
+--------------------------
+Last Name :  xxxx
+First Name : .
+Alt Name : 
+Personal ID : 
+Contact Address : 
+Daytime No. : xxxxxx
+Nighttime No. : xxxxxxx
+Mobile : 
+Alt Tel No. : 
+Fax : 
+Email Address : xxxxxx@gmail.com
+Preferred Reply Channel: 
+Special Instructions: 
+Case Source : General Public
+Best Call Time : 08:00:00 To 22:00:00
+
+================================================================================
+VII. WRITTEN CONTACT INBOUND DETAILS:  
+---------------------------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-358YLIQ		2021-08-12 15:06:19	Apps - Inbound
+[Detail]
+
+
+Case Type:	Complaint
+
+Name:	xxxxx
+
+Email:	*****
+
+Location:
+清水灣道, 清水灣
+
+Map:	http://maps.google.com.hk/maps?ie=UTF8&z=19&q=loc:22.334746,114.229991
+
+Details:
+下雨後有樹榻下
+[Location information: Latitude=22.334746,Longitude=114.229991,Address=清水灣道, 清水灣]
+
+Transaction Ref:	CEU00012108121303949KQ
+
+Original Transaction Ref:	
+
+Transaction Time:	2021-08-12 13:20:32
+
+Tel No.:	*****
+
+Best Time to Call:	8am-10pm
+
+File upload:	No
+
+Input Channel:	IPHONE
+
+Additional Info: Latitude=22.334746,Longitude=114.229991,Address=清水灣道, 清水灣
+

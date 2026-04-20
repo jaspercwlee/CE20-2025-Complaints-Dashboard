@@ -1,0 +1,100 @@
+﻿1823 CASE: 3-8857635573
+DEPT REF: 
+Request Type : Enquiry
+Channel : Phone
+Case Creation Date : 2025-08-04 12:47:54
+
+================================================================================
+
+I. DUE DATE: 
+-------------
+Re-assignment : 
+Extend Re-assignment : 
+Acknowledgement : 2025-08-08 15:49:38
+Interim Reply : 2025-08-15 00:00:00
+Final Reply : 2025-08-26 00:00:00
+
+2nd DUE DATE: 
+--------------------
+Acknowledgement : 2026-08-05 00:00:00
+Interim Reply : 
+Final Reply : 2025-09-25 00:00:00
+
+================================================================================
+II. ASSIGNMENT HISTORY: 
+--------------------------
+[Date/Time]		[Status]	[Dept]	[Assigned To]
+2025-08-04 12:48:05	Cancelled	CEDD	Enquiry_CEDD
+2025-08-05 17:19:37	Open		CEDD	CTO (G)
+
+================================================================================
+III. CONTACT HISTORY: 
+---------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-42HLV2B		2025-08-04 12:42:13	Call - Inbound
+[Detail]
+查詢人查詢空運到港的用於飛機的爆炸品，於本港陸路運送時是否需要申請特定的牌照或需要辦理特定手續等相關事宜。
+查詢人提及了解到空運方面已有一些牌照要向土木工程拓展署向申請，估計危險品為土木工程拓展署負責的類別。
+
+[No.]	[Id]		[Date/Time]		[Type]
+2	3-42JFMYF		2025-08-05 17:19:33	Web Update from Department
+[Detail]
+Reassignment Option :  Please re-assign to the following officer:CTO (G)/CEDD of this department:CEDD GEO
+
+
+================================================================================
+IV. CASE DETAILS: 
+--------------------------
+Direct Reply By Department: N
+Subject Matter : 土木工程拓展署一般資訊
+Description : 
+查詢人查詢空運到港的用於飛機的爆炸品，於本港陸路運送時是否需要申請特定的牌照或需要辦理特定手續等相關事宜。
+查詢人提及了解到空運方面已有一些牌照要向土木工程拓展署向申請，估計危險品為土木工程拓展署負責的類別。
+要求有關部門盡快跟進及回覆。
+
+Specific Questions and Answers : 
+null
+
+================================================================================
+V. EVENT DETAILS:  
+------------------------
+Event Date & Time : null 
+
+EVENT LOCATION: 
+------------------------
+Room : 
+Floor : 
+Block No. : 
+Building Name : 
+Estate : 
+Street No. : 
+Street Name : 
+District : 
+Region : 
+Slope No : 
+Lamp Post No : 
+Landmark : 
+Lot No. :
+
+================================================================================
+VI. CONTACT INFORMATION:  
+--------------------------
+Last Name : Ms. CHAN TAI MAN
+First Name : .
+Alt Name : 
+Personal ID : 
+Contact Address : 
+Daytime No. : 12345678
+Nighttime No. : 
+Mobile : 
+Alt Tel No. : 
+Fax : 
+Email Address : 
+Preferred Reply Channel: 
+Special Instructions: 
+Case Source : General Public
+Best Call Time : 00:00:00 To 23:59:59
+
+================================================================================
+VII. WRITTEN CONTACT INBOUND DETAILS:  
+---------------------------------------------

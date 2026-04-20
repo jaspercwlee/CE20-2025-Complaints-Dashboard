@@ -1,0 +1,152 @@
+﻿1823 CASE: 3-8907510965
+DEPT REF: 
+Request Type : Service Request / Complaint
+Channel : Web
+Case Creation Date : 2025-09-01 16:43:19
+
+================================================================================
+
+I. DUE DATE: 
+-------------
+Re-assignment : 2025-09-08 23:59:59
+Extend Re-assignment : 2025-09-13 23:59:59
+Acknowledgement : 2025-09-04 16:30:00
+Interim Reply : 2025-09-08 17:54:29
+Final Reply : 2025-09-15 17:54:29
+
+================================================================================
+II. ASSIGNMENT HISTORY: 
+--------------------------
+[Date/Time]		[Status]	[Dept]	[Assigned To]
+2025-09-01 16:51:20	Cancelled	CEDD	Enquiry_CEDD
+2025-09-01 18:07:19	Open		CEDD	CTO (G)
+
+================================================================================
+III. CONTACT HISTORY: 
+---------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-439EDBR		2025-08-29 18:05:44	Web - Inbound
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+2	3-43BLVJK		2025-09-01 17:54:48	SMS - Outbound
+
+[No.]	[Id]		[Date/Time]		[Type]
+3	3-43BNOMR		2025-09-01 18:07:17	Web Update from Department
+[Detail]
+Reassignment Option :  Please re-assign to the following officer:CTO (G)/CEDD of this department:CEDD GEO
+
+
+================================================================================
+IV. CASE DETAILS: 
+--------------------------
+Direct Reply By Department: N
+Subject Matter : 土木工程拓展署一般資訊
+Description : 
+Alignment needed in the Chinese version of the CEDD CELIMS's terms of use.  Please refer to the screen catpures attached.
+
+Additional Information:
+Reply Needed:		Yes
+
+
+Specific Questions and Answers : 
+1) If it is necessary to refer your complaint to the works consultant or contractor concerned to follow-up, do you agree to give your surname, contact and personal data, etc. to them, so that they can reply you directly?
+Ans: No
+Remark: 
+
+98) Would you need a reply from us after the case is handled?
+Ans: Yes
+Remark: 
+
+<ENDS of Specific Question>
+
+================================================================================
+V. EVENT DETAILS:  
+------------------------
+Event Date & Time : null 
+
+EVENT LOCATION: 
+------------------------
+Room : 
+Floor : 
+Block No. : 
+Building Name : 
+Estate : 
+Street No. : 
+Street Name : 
+District : 
+Region : 
+Slope No : 
+Lamp Post No : 
+Landmark : 
+Lot No. :
+
+================================================================================
+VI. CONTACT INFORMATION:  
+--------------------------
+The citizen refused to provide contact information to department. Departmental officer is requested to provide a substantive reply (with details) to 1823 for follow-up actions.
+Last Name : 
+First Name : 
+Alt Name : 
+Personal ID : 
+Contact Address :
+Daytime No. : 
+Nighttime No. : 
+Mobile : 
+Alt Tel No. : 
+Fax : 
+Email Address : 
+Preferred Reply Channel: 
+Special Instructions: 
+Case Source : General Public
+Best Call Time : 08:00:00 To 22:00:00
+
+================================================================================
+VII. WRITTEN CONTACT INBOUND DETAILS:  
+---------------------------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-439EDBR		2025-08-29 18:05:44	Web - Inbound
+[Detail]
+***************************
+PRIVACY to Dept BUT agree to leave contact to 1823
+***************************
+
+Case Type:		Service Request / Complaint
+
+Category:		其他投訴事項
+
+
+Have submitted case:	No
+
+Relevant File Number:	
+
+Name:			PRIVACY to Dept
+
+Email:			
+
+Location:
+
+
+Map:			
+
+Details:	
+Alignment needed in the Chinese version of the CEDD CELIMS's terms of use.  Please refer to the screen catpures attached.
+
+Additional Information:
+Reply Needed:		Yes
+
+Transaction Ref:	WS250829A12321
+
+Transaction Time:	2025-08-29 18:05:42
+
+Tel No.:			PRIVACY to Dept
+
+Best Time to Call:	8am-10pm
+
+File upload:		4 file(s)
+
+File List:		cap1.PNG, cap2.PNG, cap4.PNG, cap3.PNG
+
+
+

@@ -1,0 +1,312 @@
+﻿1823 CASE: 3-8691138990
+DEPT REF: 
+Request Type : Enquiry
+Channel : Email
+Case Creation Date : 2025-04-12 16:31:32
+
+================================================================================
+
+I. DUE DATE: 
+-------------
+Re-assignment : 
+Extend Re-assignment : 
+Acknowledgement : 2025-04-16 16:30:00
+Interim Reply : 2025-04-22 00:00:00
+Final Reply : 2025-05-03 00:00:00
+
+2nd DUE DATE: 
+--------------------
+Acknowledgement : 2026-04-12 00:00:00
+Interim Reply : 
+Final Reply : 2025-06-02 00:00:00
+
+================================================================================
+II. ASSIGNMENT HISTORY: 
+--------------------------
+[Date/Time]		[Status]	[Dept]	[Assigned To]
+2025-04-12 16:31:36	In Progress	CEDD	CTO (G)
+
+================================================================================
+III. CONTACT HISTORY: 
+---------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-3ZQ89O1		2025-04-12 09:23:20	Email - Inbound
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+2	3-3ZQAPOY		2025-04-12 09:30:37	Email - Inbound
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+3	3-3ZQIY13		2025-04-12 16:40:42	Email - Outbound
+[Detail]
+先生／女士：
+
+主旨： RE：查詢有關三家村山坡上有類似山泥傾斜及工程事宜 (檔案編號：3-8320012090) (檔案編號：3-8691138990)
+
+謝謝你於2025年04月11日的電郵。
+
+就查詢最新工程進度事宜，我們已將你的函件轉交土木工程拓展署的相關組別跟進。一旦有結果，你將會收到通知。
+
+如果你對此回覆有任何查詢，歡迎聯絡我們。
+
+1823
+客戶服務主任
+xxx謹覆  
+2025年04月12日
+
+電話: 1823
+傳真: 2760 1823
+電郵: tellme@1823.gov.hk
+短訊﹕61631823 (只供發送及接收短訊之用)
+
+服務聲明: www.1823.gov.hk/tc/di.shtm
+
+
+
+
+
+
+
+================================================================================
+IV. CASE DETAILS: 
+--------------------------
+Direct Reply By Department: N
+Subject Matter : 斜坡事項 - 土木工程拓展署
+Description : 
+archive case: 3-8320012090
+==
+1823:
+
+你好。
+去年曾有職員回覆我, 表示有關工程預算於2025年年中完成,
+現再向 貴署查詢最新工程進度, 敬希賜覆，謝謝。
+
+Regards,
+XXX
+Senior Property Officer
+Montego Bay Customer Service Office
+18 Shung Shun Street, Yau Tong, Kowloon
+EAA Licence  No. C-xxxxx
+PMC Licence No. C-xxxx
+PMP Licence No. P1-7xxxx
+
+D : XXX
+T : XXX
+F : XXX
+
+
+-----Original Message-----
+From: tellme@1823.gov.hk <tellme@1823.gov.hk>
+Sent: Friday, July 19, 2024 6:06 PM
+To: Angus Lo <Angus.Lo@jllms.com>
+Subject: 查詢有關三家村山坡上有類似山泥傾斜及工程事宜 (檔案編號：3-8320012090)
+
+先生／女士.:
+
+主旨: 查詢有關三家村山坡上有類似山泥傾斜及工程事宜 (檔案編號：3-8320012090)
+
+謝謝你於2024年07月18日電子表格。
+
+就三家村山坡上有類似山泥傾斜及工程事宜，我們已將你的函件轉交土木工程拓展署的相關組別跟進。一旦有結果，你將會收到通知。
+
+如果你對此回覆有任何查詢，歡迎聯絡我們。
+
+
+1823
+客戶服務主任
+xxx覆
+2024年07月19日
+
+電話: 1823
+傳真: 2760 1823
+電郵: tellme@1823.gov.hk
+短訊﹕61631823 (只供發送及接收短訊之用)
+
+服務聲明: http://www.1823.gov.hk/tc/di.shtm
+
+
+
+
+
+
+Specific Questions and Answers : 
+null
+
+================================================================================
+V. EVENT DETAILS:  
+------------------------
+Event Date & Time : null 
+
+EVENT LOCATION: 
+------------------------
+Room : 
+Floor : 
+Block No. : 
+Building Name : 
+Estate : 
+Street No. : 
+Street Name : 
+District : 
+Region : 
+Slope No : 
+Lamp Post No : 
+Landmark : 
+Lot No. :
+
+================================================================================
+VI. CONTACT INFORMATION:  
+--------------------------
+Last Name :  xxx
+First Name : xxxxx
+Alt Name : 
+Personal ID : 
+Contact Address : 
+Daytime No. : 2267xxxx
+Nighttime No. : 
+Mobile : 
+Alt Tel No. : 2267xxxx
+Fax : 22670398
+Email Address : xxxxx.xx@jllms.com
+Preferred Reply Channel: Email
+Special Instructions: 
+Case Source : General Public
+Best Call Time : 00:00:00 To 23:59:59
+
+================================================================================
+VII. WRITTEN CONTACT INBOUND DETAILS:  
+---------------------------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-3ZQ89O1		2025-04-12 09:23:20	Email - Inbound
+[Detail]
+1823:
+
+你好。
+去年曾有職員回覆我, 表示有關工程預算於2025年年中完成,
+現再向 貴署查詢最新工程進度, 敬希賜覆，謝謝。
+
+Regards,
+xxxx xx
+Senior Property Officer
+Montego Bay Customer Service Office
+18 Shung Shun Street, Yau Tong, Kowloon
+EAA Licence  No. C-xxxxxx
+PMC Licence No. C-xxxxxx
+PMP Licence No. P1-xxxxxx
+
+D : +852 2267 xxxx
+T : +852 2267 xxxx
+F : +852 2267 xxxx
+
+
+-----Original Message-----
+From: tellme@1823.gov.hk <tellme@1823.gov.hk>
+Sent: Friday, July 19, 2024 6:06 PM
+To: Angus Lo <xxxxx.xx@jllms.com>
+Subject: 查詢有關三家村山坡上有類似山泥傾斜及工程事宜 (檔案編號：3-8320012090)
+
+先生／女士.:
+
+主旨: 查詢有關三家村山坡上有類似山泥傾斜及工程事宜 (檔案編號：3-8320012090)
+
+謝謝你於2024年07月18日電子表格。
+
+就三家村山坡上有類似山泥傾斜及工程事宜，我們已將你的函件轉交土木工程拓展署的相關組別跟進。一旦有結果，你將會收到通知。
+
+如果你對此回覆有任何查詢，歡迎聯絡我們。
+
+
+1823
+客戶服務主任
+xxx謹覆
+2024年07月19日
+
+電話: 1823
+傳真: 2760 1823
+電郵: tellme@1823.gov.hk
+短訊﹕61631823 (只供發送及接收短訊之用)
+
+服務聲明: http://www.1823.gov.hk/tc/di.shtm
+
+
+
+
+
+
+[No.]	[Id]		[Date/Time]		[Type]
+2	3-3ZQAPOY		2025-04-12 09:30:37	Email - Inbound
+[Detail]
+1823:
+
+你好。
+去年曾有職員回覆我, 表示有關工程預算於2025年年中完成,
+現再向 貴署查詢最新工程進度,
+
+另外, 請問山坡工程係用返水泥舖還是種植返草皮?
+
+敬希賜覆，謝謝。
+
+Regards,
+xxxx xx
+Senior Property Officer
+Montego Bay Customer Service Office
+18 Shung Shun Street, Yau Tong, Kowloon
+EAA Licence  No. C-xxxxxx
+PMC Licence No. C-xxxxxx
+PMP Licence No. P1-xxxxxx
+
+D : +852 2267 xxxx
+T : +852 2267 xxxx
+F : +852 2267 xxxx
+
+
+-----Original Message-----
+From: xxxxx
+Sent: Friday, April 11, 2025 4:33 PM
+To: tellme@1823.gov.hk
+Cc: Cody Ho <cody.ho@jllms.com>; motb <motb@jllms.com>
+Subject: RE: 查詢有關三家村山坡上有類似山泥傾斜及工程事宜 (檔案編號：3-8320012090)
+
+1823:
+
+你好。
+去年曾有職員回覆我, 表示有關工程預算於2025年年中完成,
+現再向 貴署查詢最新工程進度, 敬希賜覆，謝謝。
+
+Regards,
+xxxxxx
+Senior Property Officer
+Montego Bay Customer Service Office
+18 Shung Shun Street, Yau Tong, Kowloon
+EAA Licence  No. C-xxxxxx
+PMC Licence No. C-xxxxx
+PMP Licence No. P1-xxxxx
+
+D : +852 2267 xxxx
+T : +852 2267 xxxx
+F : +852 2267 xxxx
+
+
+-----Original Message-----
+From: tellme@1823.gov.hk <tellme@1823.gov.hk>
+Sent: Friday, July 19, 2024 6:06 PM
+To: Axxxx xx <xxxx.xx@jllms.com>
+Subject: 查詢有關三家村山坡上有類似山泥傾斜及工程事宜 (檔案編號：3-8320012090)
+
+先生／女士.:
+
+主旨: 查詢有關三家村山坡上有類似山泥傾斜及工程事宜 (檔案編號：3-8320012090)
+
+謝謝你於2024年07月18日電子表格。
+
+就三家村山坡上有類似山泥傾斜及工程事宜，我們已將你的函件轉交土木工程拓展署的相關組別跟進。一旦有結果，你將會收到通知。
+
+如果你對此回覆有任何查詢，歡迎聯絡我們。
+
+
+1823
+客戶服務主任
+梁學...
+

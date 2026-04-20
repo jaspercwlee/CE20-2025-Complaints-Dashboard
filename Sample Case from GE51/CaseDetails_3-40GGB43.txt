@@ -1,0 +1,483 @@
+﻿1823 CASE: 3-8447914422
+DEPT REF: 
+Request Type : Enquiry
+Channel : Mobile
+Case Creation Date : 2024-10-12 10:21:52
+
+================================================================================
+
+I. DUE DATE: 
+-------------
+Re-assignment : 2024-12-31 23:59:59
+Extend Re-assignment : 2025-01-05 23:59:59
+Acknowledgement : 2025-05-21 11:09:13
+Interim Reply : 2025-05-26 00:00:00
+Final Reply : 2025-06-06 00:00:00
+
+2nd DUE DATE: 
+--------------------
+Acknowledgement : 2026-05-16 00:00:00
+Interim Reply : 
+Final Reply : 2025-07-06 00:00:00
+
+================================================================================
+II. ASSIGNMENT HISTORY: 
+--------------------------
+[Date/Time]		[Status]	[Dept]	[Assigned To]
+2024-10-12 10:22:04	Cancelled	1823	Chan
+2024-12-24 10:13:48	Substantive Replied	CEDD	CTO (G)
+2025-05-16 12:27:02	Cancelled	CEDD	CTO (G)
+
+================================================================================
+III. CONTACT HISTORY: 
+---------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-3VNCSH7		2024-10-09 13:28:03	Apps - Inbound
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+2	3-3VPO4I7		2024-10-12 10:26:48	Apps - Outbound
+[Detail]
+12/10/2024
+
+Dear Sir/Madam, 
+
+Subject: APS241009A20738 Regarding the slope work by CEDD is causing severe visual impact (Case Ref: 3-8447914422)
+
+Thank you for your electronic form dated 09/10/2024.
+
+To enable effective handling of your case, we should be grateful if you could provide the following information - 
+
+-Please kindly provide more information of the slope (e.g. the slope no. or nearest lamp post, etc) 
+
+You can also circle the location of the incident through this website (https://www.map.gov.hk/gm/) and send us the relevant photos.
+
+If you have any questions about this reply, please contact us.
+
+
+Best regards,
+Constance Chan
+Customer Service Officer
+1823
+
+Tel: 1823
+Fax: 2760 1823
+Email: tellme@1823.gov.hk
+SMS: 61631823 (For sending and receiving SMS only)
+
+Service Disclaimer: www.1823.gov.hk/en/di.shtm
+
+
+
+
+
+
+
+
+
+[No.]	[Id]		[Date/Time]		[Type]
+3	3-3XEFOZR		2024-12-23 10:39:25	Apps - Inbound
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+4	3-3XFETE3		2024-12-24 10:18:56	Apps - Outbound
+[Detail]
+24/12/2024
+
+Dear Sir/Madam,
+
+Subject: APS241009A20738 Regarding the slope work by CEDD is causing severe visual impact (Case Ref: 3-8447914422)
+
+Thank you for your electronic form dated 23/12/2024.
+
+For the issue(s) related to slope work by CEDD, we have passed your correspondence to the relevant unit of the Civil Engineering and Development Department for follow-up.  You will be informed of the result once it is available. 
+
+If you have any questions about this reply, please contact us.
+
+Best regards,
+xxxx
+Customer Service Officer
+1823
+
+Tel: 1823
+Fax: 2760 1823
+Email: tellme@1823.gov.hk
+SMS: 61631823 (For sending and receiving SMS only)
+
+Service Disclaimer: www.1823.gov.hk/en/di.shtm
+
+
+ 
+
+
+
+
+
+
+
+[No.]	[Id]		[Date/Time]		[Type]
+5	3-3XFKMK7		2024-12-24 11:40:12	Web Update from Department
+[Detail]
+I acknowledge receipt of this case and follow up will be taken.
+
+[No.]	[Id]		[Date/Time]		[Type]
+6	3-3XFSF54		2024-12-24 14:53:03	Email - Inbound from Department
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+7	3-3XGPE35		2024-12-26 10:35:24	Email - Outbound
+
+[No.]	[Id]		[Date/Time]		[Type]
+8	3-3XGPE43		2024-12-26 10:37:28	Apps - Outbound
+[Detail]
+26/12/2024
+
+Dear Sir/Madam,
+
+Subject: APS241009A20738 Regarding the slope work by CEDD is causing severe visual impact (Case Ref: 3-8447914422)
+
+Regarding your case dated 23/12/2024, the substantive reply of the Civil Engineering and Development Department is as follows –
+
+"個案所述的位置屬於土木工程拓展署工程合約編號 GE/2022/16 的一個工程範圍，天然山坡工程已於今年9月中展開。由於總範圍較大，所有工程(包括舖設植被護面)預計2026年首季完成。 
+
+如有其他有關斜坡工程的查詢，可致電 5974 9255 與本署駐地盤工程師黃先生聯絡。"
+
+We have requested the department to provide the reply in English, you will be informed once it is available.
+
+If you have any questions about this reply, please contact us.
+
+Best regards,
+xxxxxxx
+Customer Service Officer
+1823
+
+Tel: 1823
+Fax: 2760 1823
+Email: tellme@1823.gov.hk
+SMS: 61631823 (For sending and receiving SMS only)
+
+Service Disclaimer: www.1823.gov.hk/en/di.shtm
+
+
+
+
+
+
+
+[No.]	[Id]		[Date/Time]		[Type]
+9	3-3XH0OM2		2024-12-27 09:34:46	Email - Inbound from Department
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+10	3-3XHCC5D		2024-12-27 15:13:54	Apps - Outbound
+[Detail]
+27/12/2024
+
+Dear Sir/Madam,
+
+Subject: APS241009A20738 Regarding the slope work by CEDD is causing severe visual impact (Case Ref: 3-8447914422)
+
+Regarding your case dated 23/12/2024, the substantive reply of the Civil Engineering and Development Department is as follows –
+
+"The area concerned is within a work site under Civil Engineering and Development Department’s Contract No. GE/2022/16.  Natural terrain hazard mitigation works commenced in September 2024.  As the area of natural terrain is relatively large, the entire works (including hydroseeding) are anticipated to complete by 2026 Q1. 
+
+If there are other enquiries related to the natural terrain hazard mitigation works, please feel free to contact our Resident Engineer, Mr Huynh, at 5974 9255."
+
+If you have any questions about this reply, please contact us.
+
+
+Best regards,
+xxxxx
+Customer Service Officer
+1823
+
+Tel: 1823
+Fax: 2760 1823
+Email: tellme@1823.gov.hk
+SMS: 61631823 (For sending and receiving SMS only)
+
+Service Disclaimer: www.1823.gov.hk/en/di.shtm
+
+
+
+
+
+
+
+[No.]	[Id]		[Date/Time]		[Type]
+11	3-40FNRU7		2025-05-15 16:35:03	Apps - Inbound
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+
+================================================================================
+IV. CASE DETAILS: 
+--------------------------
+Direct Reply By Department: N
+Subject Matter : 斜坡事項 - 土木工程拓展署
+Description : 
+15/05: Please advise whether there is any measures to reduce the visial impact of the slope work
+==
+I notice the slope work by CEDD is causing severe visual impact.   CEDD should look into it
+
+Additional Information:
+Reply Needed:		Yes
+
+
+Specific Questions and Answers : 
+null
+
+================================================================================
+V. EVENT DETAILS:  
+------------------------
+Event Date & Time : null 
+
+EVENT LOCATION: 
+------------------------
+Room : 
+Floor : 
+Block No. : 
+Building Name : 
+Estate : 
+Street No. : 
+Street Name : 
+District : 
+Region : NT
+Slope No : 
+Lamp Post No : 
+Landmark : 
+Lot No. :
+
+================================================================================
+VI. CONTACT INFORMATION:  
+--------------------------
+The citizen refused to leave contact information. Departmental officer is requested to provide a substantive reply (with details) to 1823 for follow-up actions.
+Last Name : 
+First Name : 
+Alt Name : 
+Personal ID : 
+Contact Address :
+Daytime No. : 
+Nighttime No. : 
+Mobile : 
+Alt Tel No. : 
+Fax : 
+Email Address : 
+Preferred Reply Channel: 
+Special Instructions: 
+Case Source : General Public
+Best Call Time : 00:00:00 To 23:59:59
+
+================================================================================
+VII. WRITTEN CONTACT INBOUND DETAILS:  
+---------------------------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-3VNCSH7		2024-10-09 13:28:03	Apps - Inbound
+[Detail]
+***************************
+REFUSE to leave contact to BOTH 1823 & Dept
+***************************
+
+Case Type:		Complaint
+
+Category:		Others 
+
+Name:			
+
+Email:			
+
+Location:
+
+
+Map:			
+
+Details:	
+I notice the slope work by CEDD is causing severe visual impact.   CEDD should look into it
+
+Additional Information:
+Reply Needed:		Yes
+
+Transaction Ref:	APS241009A20738
+
+Transaction Time:	2024-10-09 13:27:36
+
+Tel No.:	        
+
+Best Time to Call:	
+
+File upload:		1 file(s)
+
+File List:		EE3EE9FF-DEEC-46B1-B389-E49DE079209C.jpg (The visual impact of the work by CEDD)
+
+
+
+[No.]	[Id]		[Date/Time]		[Type]
+3	3-3XEFOZR		2024-12-23 10:39:25	Apps - Inbound
+[Detail]
+***************************
+Case Follow-Up Request from Citizen
+***************************
+
+Case Type:		Complaint
+
+Category:		Others 
+
+Location:
+
+
+Map:			
+
+Details:	
+Please see photo
+
+Transaction Ref:	APF241223A79188
+
+Original Transaction Ref:	APS241009A20738
+
+SR Number:		3-8447914422
+
+Transaction Time:	2024-12-23 10:36:45
+
+File upload:		1 file(s)
+
+File List:		9D8F04E4-2FBC-4BF7-BF6F-E6F7EC59F672.jpg (That is the slope location)
+
+
+
+[No.]	[Id]		[Date/Time]		[Type]
+6	3-3XFSF54		2024-12-24 14:53:03	Email - Inbound from Department
+[Detail]
+Dear 1823
+manager,
+
+Please see the reply in bluebelow and reclassify the case to enquiry.
+
+Regards,
+Michael K W FUNG
+GE/CM51
+LPM Division 3, GEO, CEDD
+Tel.  2762 5436
+
+-----
+Forwarded by HM LAM/CEDD/HKSARG on 24/12/2024 11:30 -----
+
+From:
+       <1823_general@1823.gov.hk>
+To:
+       <hmlam@cedd.gov.hk>
+Date:
+       24/12/2024
+10:18
+Subject:
+       CASE#3-8447914422
+New Complaint - APS241009A20738 Regarding the slope work by CEDD is causing
+severe visual impact
+
+To: - CTO (G),
+
+Enclosed please find a complaint received by 1823 for your action in accordance
+with General Circular No. 7/2024.  The case history can be found in
+Part II (Assignment History) and Part III (Contact History) of the attached
+file.
+
+Please acknowledge receipt of this referral. Since the complainant has
+requested not to disclose his/her personal data, please provide your substantive
+reply to 1823 in the same language as the citizen (through WCIS or using
+the reply slip below) in accordance with the performance target of your
+department. We will help relay the reply to the citizen.
+
+To avoid undue delay, please refrain from replying in free text format
+by email.
+
+https://10.68.140.207/wcis/index.asp?SR=3-8447914422
+
+***For the interim, substantive reply and/or supplementary reply from your
+depart...
+
+[No.]	[Id]		[Date/Time]		[Type]
+9	3-3XH0OM2		2024-12-27 09:34:46	Email - Inbound from Department
+[Detail]
+Dear 1823
+manager,
+
+Re. your message @ 26/12/2024 10:36, please see the ENGLISH reply
+in bluebelow and reclassify the case to enquiry.
+
+Regards,
+
+xxxx
+SGE/CM5
+LPM Division 3,
+GEO, CEDD
+TEL: 2762 5465
+
+-----
+Forwarded by HM LAM/CEDD/HKSARG on 24/12/2024 11:30 -----
+
+From:
+       <1823_general@1823.gov.hk>
+To:
+       <hmlam@cedd.gov.hk>
+Date:
+       24/12/2024
+10:18
+Subject:
+       CASE#3-8447914422
+New Complaint - APS241009A20738 Regarding the slope work by CEDD is causing
+severe visual impact
+
+To: - CTO (G),
+
+Enclosed please find a complaint received by 1823 for your action in accordance
+with General Circular No. 7/2024.  The case history can be found in
+Part II (Assignment History) and Part III (Contact History) of the attached
+file.
+
+Please acknowledge receipt of this referral. Since the complainant has
+requested not to disclose his/her personal data, please provide your substantive
+reply to 1823 in the same language as the citizen (through WCIS or using
+the reply slip below) in accordance with the performance target of your
+department. We will help relay the reply to the citizen.
+
+To avoid undue delay, please refrain from replying in free text format
+by email.
+
+https://10.68.140.207/wcis/index.asp?SR=3-8447914422
+
+***For the interim, substantive reply and/...
+
+[No.]	[Id]		[Date/Time]		[Type]
+11	3-40FNRU7		2025-05-15 16:35:03	Apps - Inbound
+[Detail]
+***************************
+Case Follow-Up Request from Citizen
+***************************
+
+Case Type:		Complaint
+
+Category:		Others 
+
+Location:
+
+
+Map:			
+
+Details:	
+Please advise whether there is any measures to reduce the visial impact of the slope work
+
+Transaction Ref:	APF250515A32855
+
+Original Transaction Ref:	APS241009A20738
+
+SR Number:		3-8447914422
+
+Transaction Time:	2025-05-15 16:34:07
+
+File upload:		0 file(s)
+
+
+

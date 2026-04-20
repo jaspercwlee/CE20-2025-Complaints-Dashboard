@@ -1,0 +1,170 @@
+﻿
+
+
+PANG M C, Manson	SGE/GP1	GP	Enquiry
+
+
+
+
+
+
+
+1823 CASE: 3-8888369109
+DEPT REF: 
+Request Type : Enquiry
+Channel : Email
+Case Creation Date : 2025-08-21 08:50:05
+
+================================================================================
+
+I. DUE DATE: 
+-------------
+Re-assignment : 
+Extend Re-assignment : 
+Acknowledgement : 2025-08-25 17:47:11
+Interim Reply : 2025-08-31 00:00:00
+Final Reply : 2025-09-11 00:00:00
+
+2nd DUE DATE: 
+--------------------
+Acknowledgement : 2026-08-21 00:00:00
+Interim Reply : 
+Final Reply : 2025-10-11 00:00:00
+
+================================================================================
+II. ASSIGNMENT HISTORY: 
+--------------------------
+[Date/Time]		[Status]	[Dept]	[Assigned To]
+2025-08-21 08:50:09	In Progress	LCSD	ACO(WTS)GA1
+2025-08-21 09:01:21	Cancelled	CEDD	Enquiry_CEDD
+2025-08-21 09:01:36	In Progress	WSD	WSD Complaint
+2025-08-21 10:17:10	Open		CEDD	CTO (G)
+
+================================================================================
+III. CONTACT HISTORY: 
+---------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-42XCT46		2025-08-19 06:08:16	Email - Inbound
+[Detail]
+Please view the details at VII. WRITTEN CONTACT INBOUND DETAILS
+
+[No.]	[Id]		[Date/Time]		[Type]
+2	3-42ZWLXB		2025-08-21 09:11:34	Email - Outbound
+[Detail]
+Mr. CHAN：
+
+主旨： 策略性岩洞區第26號之發展事宜 (檔案編號：3-8888369109)
+
+謝謝你於2025年08月19日電郵。
+
+
+就策略性岩洞區第26號之發展事宜，我們已將你的函件轉交康樂及文化事務署、土木工程拓展署及水務署的相關組別跟進。一旦有結果，你將會收到通知。
+
+
+如果你對此回覆有任何查詢，歡迎聯絡我們。
+
+1823
+客戶服務主任
+梁學輝謹覆  
+2025年08月21日
+
+電話：1823
+傳真：2760 1823
+電郵：tellme@1823.gov.hk
+短訊：6163 1823 (只供發送及接收短訊之用)
+
+服務聲明：www.1823.gov.hk/tc/di.shtm
+
+
+
+[No.]	[Id]		[Date/Time]		[Type]
+3	3-4302QEQ		2025-08-21 10:17:08	Web Update from Department
+[Detail]
+Reassignment Option :  Please re-assign to the following officer:CTO (G)/CEDD of this department:CEDD GEO
+
+
+================================================================================
+IV. CASE DETAILS: 
+--------------------------
+Direct Reply By Department: N
+Subject Matter : 土木工程拓展署一般資訊
+Description : 
+土木工程拓展署、水務署、康樂及文化事務署：
+
+        政府即將於獅子山西岩洞（策略性岩洞區第26號）重置鑽石山食水及海水配水庫，以騰出原有土地規劃作興建房屋及擴建黃大仙醫院及聖母醫院之用途。
+
+        就此，獅子山上一號食水主配水庫、獅子山下食水主配水庫及馬仔坑抽水站乃屬於策略性岩洞區第26號之範圍，上述位於獅子山公園之食水配水庫及抽水站會否連同獅子山上二號食水主配水庫一併搬遷入策略性岩洞區第26號之岩洞內，甚至統一於重置後以鑽石山食水及海水配水庫和抽水站向黃大仙天馬苑及屬於九龍城區之九龍塘住宅區域供水？
+
+        除此以外，策略性岩洞區第26號亦有意興建康樂中心／體育中心，相關之康體中心是否會於同一個岩洞區內興建？多謝，有勞貴署！
+
+        敬希垂注
+
+        祝工作愉快！事事順利！
+
+
+Specific Questions and Answers : 
+null
+
+================================================================================
+V. EVENT DETAILS:  
+------------------------
+Event Date & Time : null 
+
+EVENT LOCATION: 
+------------------------
+Room : 
+Floor : 
+Block No. : 
+Building Name : 
+Estate : 
+Street No. : 
+Street Name : 
+District : 
+Region : KL
+Slope No : 
+Lamp Post No : 
+Landmark : 
+Lot No. :
+
+================================================================================
+VI. CONTACT INFORMATION:  
+--------------------------
+Last Name : Mr. CHAN TAI MAN
+First Name : .
+Alt Name : 
+Personal ID : 
+Contact Address : 
+Daytime No. : 
+Nighttime No. : 
+Mobile : 
+Alt Tel No. : 
+Fax : 
+Email Address : ABC123@abcmail.com
+Preferred Reply Channel: Email
+Special Instructions: 
+Case Source : General Public
+Best Call Time : 00:00:00 To 23:59:59
+
+================================================================================
+VII. WRITTEN CONTACT INBOUND DETAILS:  
+---------------------------------------------
+[No.]	[Id]		[Date/Time]		[Type]
+1	3-42XCT46		2025-08-19 06:08:16	Email - Inbound
+[Detail]
+土木工程拓展署、水務署、康樂及文化事務署：
+
+        政府即將於獅子山西岩洞（策略性岩洞區第26號）重置鑽石山食水及海水配水庫，以騰出原有土地規劃作興建房屋及擴建黃大仙醫院及聖母醫院之用途。
+
+        就此，獅子山上一號食水主配水庫、獅子山下食水主配水庫及馬仔坑抽水站乃屬於策略性岩洞區第26號之範圍，上述位於獅子山公園之食水配水庫及抽水站會否連同獅子山上二號食水主配水庫一併搬遷入策略性岩洞區第26號之岩洞內，甚至統一於重置後以鑽石山食水及海水配水庫和抽水站向黃大仙天馬苑及屬於九龍城區之九龍塘住宅區域供水？
+
+        除此以外，策略性岩洞區第26號亦有意興建康樂中心／體育中心，相關之康體中心是否會於同一個岩洞區內興建？多謝，有勞貴署！
+
+        敬希垂注
+
+        祝工作愉快！事事順利！
+
+Mr. CHAN TAI MAN
+2025年8月19日星期二
+
+
+
