@@ -167,7 +167,7 @@
     /* Case list */
     .case-list {
       flex: 1;
-      overflow-y: auto;
+      overflow-y: scroll;
       padding: 6px 0;
     }
     .case-item {
@@ -1122,7 +1122,7 @@ function renderList() {
     const lastAssign = c.assignments[c.assignments.length - 1];
     const dept = lastAssign ? lastAssign.dept : '';
     const status = lastAssign ? lastAssign.status : '';
-    const subject = c.caseDetails.subjectMatter || c.caseDetails.description.slice(0, 60) || '(No subject)';
+    const subject = c.caseDetails.subjectMatter || c.caseDetails.description.slice(0, 60) || '';
     return `
       <div class="case-item ${activeCaseIdx === globalIdx ? 'active' : ''}" data-idx="${globalIdx}">
         <div class="case-num">${escHtml(c.caseNum)}</div>
@@ -1187,11 +1187,11 @@ function renderDetail(c) {
     <!-- Assignment History -->
     ${renderAssignmentCard(c.assignments)}
 
-    <!-- Case Details -->
-    ${renderCaseDetailsCard(c.caseDetails)}
-
     <!-- Contact History -->
     ${renderContactHistoryCard(c.contacts)}
+
+    <!-- Case Details -->
+    ${renderCaseDetailsCard(c.caseDetails)}
 
     <!-- Event Details -->
     ${renderEventCard(c.eventDetails)}
