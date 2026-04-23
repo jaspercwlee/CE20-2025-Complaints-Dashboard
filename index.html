@@ -1692,10 +1692,11 @@ const SAMPLE_FILES = [
 
 async function loadSampleFiles() {
   let loaded = 0;
+  const failed = [];
   const promises = SAMPLE_FILES.map(async (path) => {
     try {
       const resp = await fetch(encodeURI(path));
-      if (!resp.ok) return;
+      if (!resp.ok) { failed.push({path, reason: 'HTTP ' + resp.status}); return; }
       const text = await resp.text();
       const filename = path.split('/').pop();
       const parsed = parseCase(text, filename);
@@ -1704,10 +1705,14 @@ async function loadSampleFiles() {
       else cases.push(parsed);
       loaded++;
     } catch(e) {
-      // silently skip files that can't be fetched
+      failed.push({path, reason: e.message});
+      console.error('Failed to load', path, e);
     }
   });
   await Promise.all(promises);
+  if (failed.length > 0) {
+    console.warn('Failed to load ' + failed.length + ' sample file(s):', failed);
+  }
   cases.sort((a, b) => new Date(b.creationDate) - new Date(a.creationDate));
   renderList();
   if (loaded > 0) showToast(`Loaded ${loaded} sample case${loaded > 1 ? 's' : ''}`);
