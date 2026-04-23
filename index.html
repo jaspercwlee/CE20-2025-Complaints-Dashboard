@@ -128,6 +128,14 @@
       font-size: .9rem;
     }
 
+    /* Sidebar scroll body */
+    .sidebar-scroll-body {
+      flex: 1;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+    }
+
     /* Filter pills */
     .filter-row {
       display: flex;
@@ -135,6 +143,7 @@
       gap: 5px;
       padding: 8px 16px;
       border-bottom: 1px solid var(--border);
+      flex-shrink: 0;
     }
     .pill {
       font-size: .72rem;
@@ -167,8 +176,6 @@
 
     /* Case list */
     .case-list {
-      flex: 1;
-      overflow-y: scroll;
       padding: 6px 0;
     }
     .case-item {
@@ -706,23 +713,25 @@
       </div>
     </div>
 
-    <div class="filter-row" id="filterRow">
-      <span class="pill active" data-filter="all">All</span>
-      <span class="pill" data-filter="Complaint">Complaint</span>
-      <span class="pill" data-filter="Enquiry">Enquiry</span>
-      <span class="pill" data-filter="Service Request">Service</span>
-      <span class="pill" data-filter="Suggestion">Suggestion</span>
-    </div>
+    <div class="sidebar-scroll-body">
+      <div class="filter-row" id="filterRow">
+        <span class="pill active" data-filter="all">All</span>
+        <span class="pill" data-filter="Complaint">Complaint</span>
+        <span class="pill" data-filter="Enquiry">Enquiry</span>
+        <span class="pill" data-filter="Service Request">Service</span>
+        <span class="pill" data-filter="Suggestion">Suggestion</span>
+      </div>
 
-    <div class="stats-bar" id="statsBar">
-      <div class="stat-item"><div class="val" id="statTotal">0</div><div class="lbl">Total</div></div>
-      <div class="stat-item"><div class="val" id="statComplaint">0</div><div class="lbl">Complaints</div></div>
-      <div class="stat-item"><div class="val" id="statEnquiry">0</div><div class="lbl">Enquiries</div></div>
-      <div class="stat-item"><div class="val" id="statOther">0</div><div class="lbl">Other</div></div>
-    </div>
+      <div class="stats-bar" id="statsBar">
+        <div class="stat-item"><div class="val" id="statTotal">0</div><div class="lbl">Total</div></div>
+        <div class="stat-item"><div class="val" id="statComplaint">0</div><div class="lbl">Complaints</div></div>
+        <div class="stat-item"><div class="val" id="statEnquiry">0</div><div class="lbl">Enquiries</div></div>
+        <div class="stat-item"><div class="val" id="statOther">0</div><div class="lbl">Other</div></div>
+      </div>
 
-    <div class="case-list" id="caseList">
-      <!-- populated by JS -->
+      <div class="case-list" id="caseList">
+        <!-- populated by JS -->
+      </div>
     </div>
   </aside>
 
