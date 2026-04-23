@@ -1701,7 +1701,10 @@ async function loadSampleFiles() {
       const filename = path.split('/').pop();
       const parsed = parseCase(text, filename);
       const exists = cases.findIndex(c => c.caseNum === parsed.caseNum);
-      if (exists >= 0) cases[exists] = parsed;
+      if (exists >= 0) {
+        console.warn('Duplicate case number, replacing:', parsed.caseNum, filename);
+        cases[exists] = parsed;
+      }
       else cases.push(parsed);
       loaded++;
     } catch(e) {
