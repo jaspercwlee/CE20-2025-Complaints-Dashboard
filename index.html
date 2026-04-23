@@ -1563,11 +1563,11 @@ function loadFiles(files) {
     reader.onload = (e) => {
       try {
         const parsed = parseCase(e.target.result, file.name);
-        // Avoid duplicates by case number
-        const exists = cases.findIndex(c => c.caseNum === parsed.caseNum);
+        // Avoid duplicates by filename (not case number, since different files may share case numbers)
+        const exists = cases.findIndex(c => c.filename === parsed.filename);
         if (exists >= 0) {
           cases[exists] = parsed;
-          showToast(`Updated: ${parsed.caseNum}`);
+          showToast(`Updated: ${parsed.filename}`);
         } else {
           cases.push(parsed);
         }
@@ -1700,12 +1700,8 @@ async function loadSampleFiles() {
       const text = await resp.text();
       const filename = path.split('/').pop();
       const parsed = parseCase(text, filename);
-      const exists = cases.findIndex(c => c.caseNum === parsed.caseNum);
-      if (exists >= 0) {
-        console.warn('Duplicate case number, replacing:', parsed.caseNum, filename);
-        cases[exists] = parsed;
-      }
-      else cases.push(parsed);
+      // Keep all files as separate cases even if they share a case number
+      cases.push(parsed);
       loaded++;
     } catch(e) {
       failed.push({path, reason: e.message});
