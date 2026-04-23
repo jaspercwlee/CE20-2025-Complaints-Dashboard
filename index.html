@@ -712,6 +712,10 @@
         <span class="icon">🔍</span>
         <input type="text" id="searchInput" placeholder="Search case no., subject, location…" />
       </div>
+      <div class="search-box" style="margin-top:7px;">
+        <span class="icon">📄</span>
+        <input type="text" id="filenameSearchInput" placeholder="Search by file name…" />
+      </div>
     </div>
 
     <div class="sidebar-scroll-body">
@@ -760,6 +764,7 @@
 let cases = [];
 let activeFilter = 'all';
 let searchQuery = '';
+let filenameQuery = '';
 let activeCaseIdx = null;
 
 // ═══════════════════════════════════════════════════════════════════
@@ -1112,9 +1117,11 @@ function renderList() {
       c.eventDetails.streetName.toLowerCase().includes(q) ||
       c.eventDetails.district.toLowerCase().includes(q) ||
       c.requestType.toLowerCase().includes(q);
+    const fq = filenameQuery.toLowerCase();
+    const matchFilename = !fq || c.filename.toLowerCase().includes(fq);
     const matchFilter = activeFilter === 'all' ||
       c.requestType.toLowerCase().includes(activeFilter.toLowerCase());
-    return matchSearch && matchFilter;
+    return matchSearch && matchFilename && matchFilter;
   });
 
   // Stats
@@ -1609,6 +1616,11 @@ document.getElementById('fileInput').addEventListener('change', (e) => {
 
 document.getElementById('searchInput').addEventListener('input', (e) => {
   searchQuery = e.target.value;
+  renderList();
+});
+
+document.getElementById('filenameSearchInput').addEventListener('input', (e) => {
+  filenameQuery = e.target.value;
   renderList();
 });
 
