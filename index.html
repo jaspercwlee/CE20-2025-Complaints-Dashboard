@@ -128,12 +128,13 @@
       font-size: .9rem;
     }
 
-    /* Sidebar scroll body */
+    /* Sidebar scroll body — plain block so overflow-y works correctly.
+       Do NOT give this display:flex/flex-direction:column, or the child
+       will compute min-height:auto from its content and prevent scrolling. */
     .sidebar-scroll-body {
       flex: 1;
       overflow-y: auto;
-      display: flex;
-      flex-direction: column;
+      min-height: 0;
     }
 
     /* Filter pills */
@@ -718,22 +719,22 @@
       </div>
     </div>
 
+    <div class="filter-row" id="filterRow">
+      <span class="pill active" data-filter="all">All</span>
+      <span class="pill" data-filter="Complaint">Complaint</span>
+      <span class="pill" data-filter="Enquiry">Enquiry</span>
+      <span class="pill" data-filter="Service Request">Service</span>
+      <span class="pill" data-filter="Suggestion">Suggestion</span>
+    </div>
+
+    <div class="stats-bar" id="statsBar">
+      <div class="stat-item"><div class="val" id="statTotal">0</div><div class="lbl">Total</div></div>
+      <div class="stat-item"><div class="val" id="statComplaint">0</div><div class="lbl">Complaints</div></div>
+      <div class="stat-item"><div class="val" id="statEnquiry">0</div><div class="lbl">Enquiries</div></div>
+      <div class="stat-item"><div class="val" id="statOther">0</div><div class="lbl">Other</div></div>
+    </div>
+
     <div class="sidebar-scroll-body">
-      <div class="filter-row" id="filterRow">
-        <span class="pill active" data-filter="all">All</span>
-        <span class="pill" data-filter="Complaint">Complaint</span>
-        <span class="pill" data-filter="Enquiry">Enquiry</span>
-        <span class="pill" data-filter="Service Request">Service</span>
-        <span class="pill" data-filter="Suggestion">Suggestion</span>
-      </div>
-
-      <div class="stats-bar" id="statsBar">
-        <div class="stat-item"><div class="val" id="statTotal">0</div><div class="lbl">Total</div></div>
-        <div class="stat-item"><div class="val" id="statComplaint">0</div><div class="lbl">Complaints</div></div>
-        <div class="stat-item"><div class="val" id="statEnquiry">0</div><div class="lbl">Enquiries</div></div>
-        <div class="stat-item"><div class="val" id="statOther">0</div><div class="lbl">Other</div></div>
-      </div>
-
       <div class="case-list" id="caseList">
         <!-- populated by JS -->
       </div>
