@@ -773,7 +773,9 @@ let activeCaseIdx = null;
 function parseCase(text, filename) {
   // store raw text for download
   const _rawText = text;
-  const lines = text.split(/\r?\n/);
+  // Strip BOM if present (common in UTF-8/UTF-16 files)
+  const cleanText = text.replace(/^\uFEFF/, '');
+  const lines = cleanText.split(/\r?\n/);
   const get = (pattern) => {
     const re = new RegExp(pattern, 'i');
     for (const l of lines) {
@@ -867,10 +869,19 @@ function parseAssignments(section) {
   const rows = [];
   const lines = section.split(/\r?\n/);
   for (const l of lines) {
-    // Match lines like: 2024-11-08 16:36:24	In Progress	LANDSD	STO(G)/2
-    const m = l.match(/^(\d{4}-\d{2}-\d{2}\s+\d{2}:\d{2}:\d{2})\s+([\w\s\/]+?)\s{2,}(\S+)\s+(.*)/);
-    if (m) {
-      rows.push({ datetime: m[1].trim(), status: m[2].trim(), dept: m[3].trim(), assignedTo: m[4].trim() });
+    // Skip header line
+    if (/\[Date\/Time\]/.test(l)) continue;
+    // Split by tab(s) — the data is tab-delimited
+    const parts = l.split(/\t+/);
+    if (parts.length >= 4) {
+      const datetime = parts[0].trim();
+      const status = parts[1].trim();
+      const dept = parts[2].trim();
+      const assignedTo = parts[3].trim();
+      // Validate first part looks like a datetime
+      if (/^\d{4}-\d{2}-\d{2}\s+\d{2}:\d{2}:\d{2}$/.test(datetime)) {
+        rows.push({ datetime, status, dept, assignedTo });
+      }
     }
   }
   return rows;
